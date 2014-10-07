@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Taiga'
 SITENAME = 'Taiga Blog'
 SITEURL = ''
+SITESUBTITLE = 'Taiga is a project management platform for startups and agile developers & designers'
 
 PATH = 'content'
 
@@ -24,8 +25,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# Social widget
+SOCIAL = (('Twitter', 'http://twitter.com/taigaio'),
+          ('Git hub', 'https://github.com/taigaio')
+)
 
 DEFAULT_PAGINATION = 10
 
