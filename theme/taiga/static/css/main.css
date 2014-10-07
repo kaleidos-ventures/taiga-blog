@@ -139,17 +139,18 @@ h6 {
   h6 a {
     font-weight: inherit; }
 
-blockquote cite, .hentry .post-info {
+blockquote cite, .hentry .post-info, .hentry pre,
+.hentry code {
   font-size: .8rem; }
 
 body,
 html {
   font-size: 1rem; }
 
-h3 {
+h3, .hentry h2 {
   font-size: 1.2rem; }
 
-h2, .hentry h1 a {
+h2, .hentry h1 a, .hentry h1 {
   font-size: 2rem; }
 
 h1, .header .title {
@@ -160,9 +161,13 @@ h1, .header .title {
   font-weight: 300; }
 
 body,
-html, .hentry h1 a, .hentry .entry-content {
+html, .hentry h1 a, .hentry .entry-content, .hentry h1 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400; }
+
+.hentry h2, .hentry h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; }
 
 h1 {
   line-height: 3.4rem;
@@ -346,13 +351,15 @@ ol {
   .header .title,
   .header .tagline {
     text-align: left; } }
-.nav li {
-  margin-bottom: .5rem; }
-.nav .nav-header {
-  margin-bottom: 1rem; }
-.nav h3 {
-  color: #70a87d;
-  margin-bottom: 0; }
+.nav {
+  margin-top: 1rem; }
+  .nav li {
+    margin-bottom: .5rem; }
+  .nav .nav-header {
+    margin-bottom: 1rem; }
+  .nav h3 {
+    color: #70a87d;
+    margin-bottom: 0; }
 
 .post-list article {
   margin-bottom: 2rem; }
@@ -373,3 +380,62 @@ ol {
 .hentry .post-info {
   color: #b8b8b8;
   margin-bottom: .5rem; }
+.hentry h1 {
+  margin-bottom: .5rem;
+  text-transform: uppercase; }
+.hentry h2 {
+  margin-bottom: .5rem;
+  text-transform: uppercase; }
+.hentry h3 {
+  text-transform: uppercase; }
+.hentry ul,
+.hentry ol {
+  list-style-position: inside;
+  margin-left: 1rem; }
+.hentry ul {
+  list-style-type: disc; }
+.hentry dl dt {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 16px;
+  padding: 0; }
+.hentry dl dd {
+  margin-bottom: 16px;
+  padding: 0 16px; }
+.hentry a {
+  color: #72a114; }
+  .hentry a:hover {
+    color: #9dce0a; }
+.hentry p {
+  margin-bottom: 1rem; }
+.hentry pre,
+.hentry code {
+  background: whitesmoke;
+  direction: ltr;
+  font-family: 'courier new', 'monospace';
+  margin-bottom: 1rem;
+  unicode-bidi: embed;
+  white-space: pre; }
+.hentry pre {
+  line-height: 135%;
+  padding: .5rem; }
+.hentry table {
+  border: #b8b8b8 1px solid;
+  margin-bottom: 1rem; }
+  .hentry table tbody tr:last-child {
+    border-bottom: 0; }
+.hentry tr {
+  border-bottom: #b8b8b8 1px solid; }
+.hentry th {
+  border-right: #b8b8b8 1px solid;
+  padding: 1rem 1rem 1rem .5rem; }
+  .hentry th:last-child {
+    border-right: 0; }
+.hentry td {
+  border-right: #b8b8b8 1px solid;
+  padding: .5rem; }
+  .hentry td:last-child {
+    border-right: 0; }
+.hentry img {
+  max-width: 100%; }
