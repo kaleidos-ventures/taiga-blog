@@ -145,12 +145,12 @@ blockquote cite, .hentry .post-info, .hentry pre,
 
 body,
 html {
-  font-size: 1rem; }
+  font-size: 1.1rem; }
 
 h3, .hentry h2 {
   font-size: 1.2rem; }
 
-h2, .hentry h1 a, .hentry h1 {
+h2, .hentry h1 a {
   font-size: 2rem; }
 
 h1, .header .title {
@@ -161,7 +161,7 @@ h1, .header .title {
   font-weight: 300; }
 
 body,
-html, .hentry h1 a, .hentry .entry-content, .hentry h1 {
+html, .hentry h1 a, .hentry .entry-content {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400; }
 
@@ -182,7 +182,7 @@ h3 {
 
 p {
   margin: 0 0 20px;
-  line-height: 1.25rem; }
+  line-height: 1.5rem; }
   p img {
     margin: 0; }
 
@@ -347,12 +347,12 @@ ol {
     -webkit-transition: color 0.3s linear;
     -moz-transition: color 0.3s linear;
     transition: color 0.3s linear;
-    color: #444444; }
+    color: #879b89; }
   .header .title,
   .header .tagline {
     text-align: left; } }
 .nav {
-  margin-top: 1rem; }
+  margin-top: .5rem; }
   .nav li {
     margin-bottom: .5rem; }
   .nav .nav-header {
@@ -360,6 +360,10 @@ ol {
   .nav h3 {
     color: #70a87d;
     margin-bottom: 0; }
+
+.footer {
+  background: #fcfcfc;
+  padding: 1rem 0; }
 
 .post-list article {
   margin-bottom: 2rem; }
@@ -380,9 +384,6 @@ ol {
 .hentry .post-info {
   color: #b8b8b8;
   margin-bottom: .5rem; }
-.hentry h1 {
-  margin-bottom: .5rem;
-  text-transform: uppercase; }
 .hentry h2 {
   margin-bottom: .5rem;
   text-transform: uppercase; }

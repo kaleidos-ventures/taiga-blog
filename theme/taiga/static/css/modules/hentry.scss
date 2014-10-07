@@ -23,12 +23,6 @@
         color: $gray-light;
         margin-bottom: .5rem;
     }
-    h1 {
-        @extend %xlarge;
-        @extend %text;
-        margin-bottom: .5rem;
-        text-transform: uppercase;
-    }
     h2 {
         @extend %large;
         @extend %bold;

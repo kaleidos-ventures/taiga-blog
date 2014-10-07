@@ -20,6 +20,7 @@ All articles
         </footer><!-- /.post-info -->
         <div class="entry-content">
             {{ article.summary }}
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Read {{ article.title|striptags }}">[Continue reading →]</a>
         </div><!-- /.entry-content -->
     </article>
     {% endfor %}
