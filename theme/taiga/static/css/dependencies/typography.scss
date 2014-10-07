@@ -49,6 +49,11 @@ h2 {
     margin-bottom: 1rem;
 }
 
+h3 {
+    @extend %large;
+    margin-bottom: 1rem;
+}
+
 p {
     margin: 0 0 20px;
     line-height: 1.25rem;

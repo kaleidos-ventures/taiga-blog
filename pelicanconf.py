@@ -19,15 +19,14 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Taiga.io', 'http://taiga.io'),
+         ('Mailing list', 'https://groups.google.com/forum/#!forum/taigaio'),
+)
 
 # Social widget
-# Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/taigaio'),
-          ('Git hub', 'https://github.com/taigaio')
+          ('Github', 'https://github.com/taigaio'),
+          ('Google+', 'https://github.com/taigaio'),
 )
 
 DEFAULT_PAGINATION = 10

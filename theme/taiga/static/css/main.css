@@ -146,6 +146,9 @@ body,
 html {
   font-size: 1rem; }
 
+h3 {
+  font-size: 1.2rem; }
+
 h2, .hentry h1 a {
   font-size: 2rem; }
 
@@ -167,6 +170,9 @@ h1 {
   text-transform: uppercase; }
 
 h2 {
+  margin-bottom: 1rem; }
+
+h3 {
   margin-bottom: 1rem; }
 
 p {
@@ -340,6 +346,14 @@ ol {
   .header .title,
   .header .tagline {
     text-align: left; } }
+.nav li {
+  margin-bottom: .5rem; }
+.nav .nav-header {
+  margin-bottom: 1rem; }
+.nav h3 {
+  color: #70a87d;
+  margin-bottom: 0; }
+
 .post-list article {
   margin-bottom: 2rem; }
 
