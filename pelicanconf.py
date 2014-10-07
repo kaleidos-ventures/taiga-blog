@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Taiga'
+AUTHOR_EMAIL = 'support@taiga.io'
 SITENAME = 'Taiga Blog'
 SITEURL = ''
 SITESUBTITLE = 'Taiga is a project management platform for startups and agile developers & designers'
@@ -37,3 +38,7 @@ DEFAULT_PAGINATION = 10
 #settings for Pelican
 DEFAULT_CATEGORY = 'General'
 THEME = 'theme/taiga'
+
+#Plugins
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['gravatar']
