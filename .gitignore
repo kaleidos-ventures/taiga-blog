@@ -1,1 +1,6 @@
 .sass-cache/
+.*.sw*
+*.log
+*.pyc
+*.mo
+.\#*
