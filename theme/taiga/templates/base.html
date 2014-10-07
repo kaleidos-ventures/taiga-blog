@@ -56,6 +56,7 @@
                 {{ SITESUBTITLE }}
                 {% endblock %}
             </h2>
+            <img class="logo" src="{{ SITEURL }}/theme/images/logo.svg" alt="Taiga">
         </div>
     </header><!-- /#banner -->
 
@@ -107,6 +108,16 @@
                 {% endfor %}
             </ul>
             {% endif %}
+
+            <ul class="social">
+                <li class="nav-header">
+                    <h3>Subscribe</h3>
+                </li>
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
+                {% if FEED_RSS %}
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" rel="alternate">RSS feed</a></li>
+                {% endif %}
+            </ul>
 
         </nav><!-- /#menu -->
     </div><!-- /#wrapper -->

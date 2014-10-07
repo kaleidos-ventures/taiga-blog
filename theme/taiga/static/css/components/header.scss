@@ -18,10 +18,17 @@
         margin-bottom: 0;
         text-align: center;
     }
+    .logo {
+        display: none;
+    }
 }
 
 @media (min-width: 960px) {
     .header {
+        .wrapper {
+            padding-left: 100px;
+            position: relative;
+        }
         .title {
             a {
                 &:hover {
@@ -33,6 +40,13 @@
         .title,
         .tagline {
             text-align: left;
+        }
+        .logo {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0px;
+            width: 80px;
         }
     }
 }

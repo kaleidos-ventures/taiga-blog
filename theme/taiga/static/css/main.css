@@ -150,7 +150,7 @@ html {
 h3, .hentry h2 {
   font-size: 1.2rem; }
 
-h2, .hentry h1 a {
+h2 {
   font-size: 2rem; }
 
 h1, .header .title {
@@ -250,6 +250,7 @@ ol {
 @media (min-width: 960px) {
   .wrapper {
     margin: 0 auto;
+    padding: 0;
     width: 960px; }
 
   .content {
@@ -341,8 +342,13 @@ ol {
     font-size: 1rem;
     margin-bottom: 0;
     text-align: center; }
+  .header .logo {
+    display: none; }
 
 @media (min-width: 960px) {
+  .header .wrapper {
+    padding-left: 100px;
+    position: relative; }
   .header .title a:hover {
     -webkit-transition: color 0.3s linear;
     -moz-transition: color 0.3s linear;
@@ -350,7 +356,13 @@ ol {
     color: #879b89; }
   .header .title,
   .header .tagline {
-    text-align: left; } }
+    text-align: left; }
+  .header .logo {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 80px; } }
 .nav {
   margin-top: .5rem; }
   .nav li {
@@ -371,7 +383,8 @@ ol {
 .hentry h1 {
   margin-bottom: 0; }
   .hentry h1 a {
-    color: #70a87d; }
+    color: #70a87d;
+    font-size: 2.3rem; }
     .hentry h1 a:hover {
       -webkit-transition: color 0.3s ease-in;
       -moz-transition: color 0.3s ease-in;
@@ -380,7 +393,7 @@ ol {
 .hentry .entry-content {
   color: #050505; }
   .hentry .entry-content p {
-    line-height: 1.5rem; }
+    line-height: 1.8rem; }
 .hentry .post-info {
   color: #b8b8b8;
   margin-bottom: .5rem; }

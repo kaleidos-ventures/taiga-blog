@@ -2,9 +2,9 @@
     h1 {
         margin-bottom: 0;
         a {
-            @extend %xlarge;
             @extend %text;
             color: $dry-taiga;
+            font-size: 2.3rem;
             &:hover {
                 @include transition(color .3s ease-in);
                 color: $gray;
@@ -15,7 +15,7 @@
         color: $blackish;
         @extend %text;
         p {
-            line-height: 1.5rem;
+            line-height: 1.8rem;
         }
     }
     .post-info {
