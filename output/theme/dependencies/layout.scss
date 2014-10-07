@@ -1,0 +1,11 @@
+.wrapper {
+    padding: 0 4%;
+    width: 100%;
+}
+
+@media (min-width: 960px) {
+    .wrapper {
+        margin: 0 auto;
+        width: 960px;
+    }
+}

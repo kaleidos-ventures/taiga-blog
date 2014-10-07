@@ -13,27 +13,31 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="/theme/main.css" rel="stylesheet">
+    <link href="/theme/css/main.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 </head>
 
 <body id="index" class="home">
 
-    <header id="banner" class="body">
-        <h1>
-            <a href="/">Taiga Blog</a>
-        </h1>
-        <h2>
-            Taiga is a project management platform for startups and agile developers & designers
-        </h2>
+    <header id="banner" class="header">
+        <div class="wrapper">
+            <h1 class="title">
+                <a href="/">Taiga Blog</a>
+            </h1>
+            <h2 class="tagline">
+                Taiga is a project management platform for startups and agile developers & designers
+            </h2>
+        </div>
     </header><!-- /#banner -->
 
-    <div class="wrapper">
+    <div class="wrapper content">
 
+        <div class="main">
     <h1>Authors on Taiga Blog</h1>        <li><a href="/author/taiga.html">Taiga</a> (1)</li>
+        </div>
 
-        <nav id="menu">
+        <nav class="nav">
             <ul class="nav nav-list">
                 <li class="nav-header">
                     <h3>Links</h3>
@@ -79,10 +83,12 @@
     </div><!-- /#wrapper -->
 
     <footer id="contentinfo" class="body">
-        <address id="about" class="vcard body">
-            Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-            which takes great advantage of <a href="http://python.org">Python</a>.
-        </address><!-- /#about -->
+        <div class="wrapper">
+            <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+            </address><!-- /#about -->
+        </div><!-- /wrapper  -->
     </footer><!-- /#contentinfo -->
 </body>
 </html>

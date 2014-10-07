@@ -1,0 +1,20 @@
+.wrapper {
+    padding: 0 4%;
+    width: 100%;
+}
+
+@media (min-width: 960px) {
+    .wrapper {
+        margin: 0 auto;
+        width: 960px;
+    }
+    .content {
+        @include table-flex();
+    }
+    .main {
+        @include table-flex-child(3, 500px, 0);
+    }
+    .nav {
+        @include table-flex-child(1, 100px, 0);
+    }
+}

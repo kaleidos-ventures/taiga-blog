@@ -14,7 +14,7 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="{{ SITEURL }}/theme/main.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/main.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     {% if FEED_ALL_ATOM %}
@@ -46,21 +46,25 @@
 
 <body id="index" class="home">
 
-    <header id="banner" class="body">
-        <h1>
-            <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
-        </h1>
-        <h2>
-            {{ SITESUBTITLE }}
-        </h2>
+    <header id="banner" class="header">
+        <div class="wrapper">
+            <h1 class="title">
+                <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
+            </h1>
+            <h2 class="tagline">
+                {{ SITESUBTITLE }}
+            </h2>
+        </div>
     </header><!-- /#banner -->
 
-    <div class="wrapper">
+    <div class="wrapper content">
 
-        {% block content %}
-        {% endblock %}
+        <div class="main">
+            {% block content %}
+            {% endblock %}
+        </div>
 
-        <nav id="menu">
+        <nav class="nav">
             {% if LINKS %}
             <ul class="nav nav-list">
                 <li class="nav-header">
@@ -106,10 +110,12 @@
     </div><!-- /#wrapper -->
 
     <footer id="contentinfo" class="body">
-        <address id="about" class="vcard body">
-            Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-            which takes great advantage of <a href="http://python.org">Python</a>.
-        </address><!-- /#about -->
+        <div class="wrapper">
+            <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+            </address><!-- /#about -->
+        </div><!-- /wrapper  -->
     </footer><!-- /#contentinfo -->
 </body>
 </html>

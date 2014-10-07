@@ -1,0 +1,56 @@
+@mixin ellipsis($width: 100px) {
+    max-width: $width;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@mixin background-opacity($color: $white, $opacity: .3) {
+    background: rgba($color, $opacity);
+}
+
+// Table Flex - http://devbryce.com/site/flexbox/
+@mixin table-flex($align-content: stretch, $align-items: stretch, $display: flex, $flex-direction: row, $flex-wrap: wrap, $justify-content: flex-start) {
+    @include display($display);
+    @include align-content($align-content);
+    @include align-items($align-items);
+    @include flex-direction($flex-direction);
+    @include flex-wrap($flex-wrap);
+    @include justify-content($justify-content);
+}
+
+@mixin table-flex-child($flex-grow: 1, $flex-basis: 300px, $flex-shrink: 0, $width:'') {
+    @include flex($flex-grow);
+    @include flex-basis($flex-basis);
+    flex-shrink: $flex-shrink;
+    width: $flex-basis;
+    @if #{$width} != null {
+        width: #{$width};
+    }
+}
+
+@mixin box-shadow($h-shadow: 1px, $v-shadow: 1px, $blur: 15px, $spread: 6px, $color: rgba(0, 0, 0, .1)) {
+    box-shadow: $h-shadow $v-shadow $blur $spread $color;
+}
+
+@mixin clearfix {
+    &:after {
+        clear: both;
+        content: '';
+        display: table;
+    }
+}
+
+@mixin slide($max, $overflow, $min: 0) {
+    @include transition(max-height .5s ease-in);
+    max-height: $min;
+    #{$overflow}: hidden;
+    &.open {
+        @include transition(max-height .5s ease-in);
+        max-height: $max;
+    }
+}
+
+@mixin background($red: 255, $green: 255, $blue: 255, $opacity: 1) {
+    background: rgba($red, $green, $blue, $opacity);
+}

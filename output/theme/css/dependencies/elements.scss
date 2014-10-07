@@ -33,3 +33,9 @@ ol { list-style: decimal; }
 .icon {
     vertical-align: middle;
 }
+
+// Background
+%triangled-bg {
+    background: url('../images/bg.png') no-repeat center center;
+    background-size: cover;
+}
