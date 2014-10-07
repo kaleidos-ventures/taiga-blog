@@ -139,18 +139,27 @@ h6 {
   h6 a {
     font-weight: inherit; }
 
-blockquote cite {
+blockquote cite, .hentry .post-info {
   font-size: .8rem; }
 
-h2 {
+body,
+html {
+  font-size: 1rem; }
+
+h2, .hentry h1 a {
   font-size: 2rem; }
 
-h1 {
+h1, .header .title {
   font-size: 3rem; }
 
-h1, h2, .header .title {
+h1, .header .title {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300; }
+
+body,
+html, .hentry h1 a, .hentry .entry-content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; }
 
 h1 {
   line-height: 3.4rem;
@@ -161,7 +170,8 @@ h2 {
   margin-bottom: 1rem; }
 
 p {
-  margin: 0 0 20px; }
+  margin: 0 0 20px;
+  line-height: 1.25rem; }
   p img {
     margin: 0; }
 
@@ -289,7 +299,8 @@ ol {
     flex-basis: 500px;
     -ms-flex-preferred-size: 500px;
     flex-shrink: 0;
-    width: 500px; }
+    width: 500px;
+    margin-right: 2rem; }
 
   .nav {
     -webkit-box-flex: 1;
@@ -328,5 +339,23 @@ ol {
     color: #444444; }
   .header .title,
   .header .tagline {
-    margin-bottom: 0;
     text-align: left; } }
+.post-list article {
+  margin-bottom: 2rem; }
+
+.hentry h1 {
+  margin-bottom: 0; }
+  .hentry h1 a {
+    color: #70a87d; }
+    .hentry h1 a:hover {
+      -webkit-transition: color 0.3s ease-in;
+      -moz-transition: color 0.3s ease-in;
+      transition: color 0.3s ease-in;
+      color: #555555; }
+.hentry .entry-content {
+  color: #050505; }
+  .hentry .entry-content p {
+    line-height: 1.5rem; }
+.hentry .post-info {
+  color: #b8b8b8;
+  margin-bottom: .5rem; }

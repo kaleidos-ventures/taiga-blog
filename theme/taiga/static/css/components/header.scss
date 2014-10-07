@@ -4,6 +4,7 @@
     padding: 1rem 0;
     .title {
         @extend %title;
+        @extend %xxlarge;
         margin-bottom: 0;
         text-align: center;
         a {
@@ -31,7 +32,6 @@
         }
         .title,
         .tagline {
-            margin-bottom: 0;
             text-align: left;
         }
     }

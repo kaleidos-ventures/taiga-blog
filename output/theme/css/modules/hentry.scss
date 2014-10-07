@@ -1,0 +1,26 @@
+.hentry {
+    h1 {
+        margin-bottom: 0;
+        a {
+            @extend %xlarge;
+            @extend %text;
+            color: $dry-taiga;
+            &:hover {
+                @include transition(color .3s ease-in);
+                color: $gray;
+            }
+        }
+    }
+    .entry-content {
+        color: $blackish;
+        @extend %text;
+        p {
+            line-height: 1.5rem;
+        }
+    }
+    .post-info {
+        @extend %small;
+        color: $gray-light;
+        margin-bottom: .5rem;
+    }
+}

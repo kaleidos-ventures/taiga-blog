@@ -52,7 +52,9 @@
                 <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
             </h1>
             <h2 class="tagline">
+                {% block content_title %}
                 {{ SITESUBTITLE }}
+                {% endblock %}
             </h2>
         </div>
     </header><!-- /#banner -->
