@@ -1,0 +1,82 @@
+// Typography
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $blackish;
+    font-weight: normal;
+    a {
+        font-weight: inherit;
+    }
+}
+
+// __Font Sizes__ //
+%xsmall {font-size: .5rem;}
+%small {font-size: .8rem;}
+%medium {font-size: 1rem;}
+%large {font-size: 1.2rem;}
+%larger {font-size: 1.6rem;}
+%xlarge {font-size: 2rem;}
+%xxlarge {font-size: 3rem;}
+
+// __Font Types__ //
+%title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+%text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+%bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+%taiga {font-family: 'taiga';}
+
+h1 {
+    @extend %xxlarge;
+    @extend %title;
+    line-height: 3.4rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    @extend %xlarge;
+    @extend %title;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin: 0 0 20px;
+    img {
+        margin: 0;
+    }
+}
+
+em { font-style: italic; }
+strong {
+    font-weight: bold;
+}
+
+hr {
+    border: solid #ddd;
+    border-width: 1px 0 0;
+    clear: both;
+    height: 0;
+    margin: 10px 0 30px;
+}
+
+// __Links__
+a,
+a:visited {
+    color: $grayer;
+    text-decoration: none;
+    &:hover {
+        @include transition (color .3s linear);
+        color: $green-taiga;
+    }
+}
