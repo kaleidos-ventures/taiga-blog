@@ -1,4 +1,11 @@
 .hentry {
+    &.single {
+        .post-info {
+            .author {
+                bottom: 0;
+            }
+        }
+    }
     h1 {
         margin-bottom: 0;
         a {

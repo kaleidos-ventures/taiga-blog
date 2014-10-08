@@ -484,6 +484,8 @@ ol {
 .post-list article {
   margin-bottom: 2rem; }
 
+.hentry.single .post-info .author {
+  bottom: 0; }
 .hentry h1 {
   margin-bottom: 0; }
   .hentry h1 a {

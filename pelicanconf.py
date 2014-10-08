@@ -38,6 +38,7 @@ DEFAULT_PAGINATION = 10
 #settings for Pelican
 DEFAULT_CATEGORY = 'General'
 THEME = 'theme/taiga'
+DISQUS_SITENAME = "taiga-blog"
 
 #Plugins
 PLUGIN_PATHS = ['plugins']
