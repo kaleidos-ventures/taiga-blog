@@ -486,6 +486,8 @@ ol {
 
 .hentry.single .post-info .author {
   bottom: 0; }
+.hentry.single .comments {
+  margin-top: 1rem; }
 .hentry h1 {
   margin-bottom: 0; }
   .hentry h1 a {
