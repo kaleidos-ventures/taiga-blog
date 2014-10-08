@@ -1,4 +1,6 @@
 .sass-cache/
+output/
+cache/
 .*.sw*
 *.log
 *.pyc
