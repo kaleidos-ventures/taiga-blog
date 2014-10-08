@@ -561,3 +561,30 @@ ol {
     border-right: 0; }
 .hentry img {
   max-width: 100%; }
+
+.pagination {
+  margin-top: 20px; }
+  .pagination ul {
+    list-style: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 100%; }
+    .pagination ul li {
+      display: block;
+      float: left;
+      padding: 10px 5px;
+      font-size: 1em;
+      text-align: center;
+      background-color: whitesmoke; }
+    .pagination ul .prev, .pagination ul .next {
+      display: block;
+      min-width: 25%; }
+    .pagination ul .disabled {
+      color: #000;
+      opacity: .2; }
+    .pagination ul .active {
+      background-color: #7ab987; }
+      .pagination ul .active a,
+      .pagination ul .active a:hover {
+        color: white; }
