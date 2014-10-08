@@ -1,6 +1,5 @@
 Title: My favortie Keyboard
 Date: 2013-05-02 00:00
-Tags: frontend, maquetación, empleo
 Category: Front
 Slug: mi-teclado-favorito
 Author: Xaviju

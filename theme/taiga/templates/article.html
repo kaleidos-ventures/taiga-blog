@@ -18,6 +18,7 @@
 {% block content %}
 <section id="content" class="hentry">
     <header>
+
         <h1 class="entry-title">
             <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </h1>
@@ -33,6 +34,7 @@
             {{ article.locale_modified }}
         </abbr>
         {% endif %}
+        <img src="{{ article.author_gravatar }}" alt="" class="gravatar">
     </footer><!-- /.post-info -->
     <div class="entry-content">
         {{ article.content }}

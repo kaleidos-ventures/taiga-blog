@@ -1,0 +1,27 @@
+.post-info {
+    @include table-flex($align-items: center, $justify-content: flex-start);
+    .author {
+        margin-top: 1rem;
+        .gravatar {
+            display: inline-block;
+            margin-left: .5rem;
+            width: 40px;
+        }
+        img {
+            border-radius: 8%;
+            vertical-align: middle;
+            width: 100%;
+        }
+    }
+}
+
+@media (min-width: 960px) {
+    .post-info {
+        @include table-flex($align-items: center, $justify-content: flex-end);
+        .author {
+            bottom: 22px;
+            margin-top: 0;
+            position: relative;
+        }
+    }
+}

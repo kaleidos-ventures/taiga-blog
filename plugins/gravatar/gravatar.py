@@ -13,6 +13,7 @@ from pelican import signals
 
 
 def add_gravatar(generator, metadata):
+    #import pdb; pdb.set_trace()
 
     #first check email
     if 'email' not in metadata.keys()\

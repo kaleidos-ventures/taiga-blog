@@ -1,0 +1,16 @@
+<footer class="post-info">
+    {% if article.author %}
+    <div class="author">
+        <span class="article-by">Written by</span>
+        <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">
+            <span class="article-author">{{ article.author }}</span>
+        </a>
+        <abbr class="published" title="{{ article.date.isoformat() }}">
+            on {{ article.locale_date }}
+        </abbr>
+        <a class="gravatar" href="{{ SITEURL }}/{{ article.author.url }}">
+            <img src="{{ article.author_gravatar }}" alt="">
+        </a>
+    </div>
+    {% endif %}
+</footer><!-- /.post-info -->
