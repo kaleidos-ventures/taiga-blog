@@ -42,9 +42,17 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Extra files to copy
-FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
-                 ('extra/humans.txt', 'humans.txt'),
-                 ('extra/favicon.ico', 'favicon.ico'),)
+STATIC_PATHS = [
+    'extra/robots.txt',
+    'extra/humans.txt',
+    'extra/favicon.ico'
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/humans.txt': {'path': 'humans.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 
 #settings for Pelican
 DEFAULT_CATEGORY = 'General'
