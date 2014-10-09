@@ -28,6 +28,8 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 # Blogroll
 LINKS = (('Taiga.io', 'https://taiga.io'),
          ('Mailing list', 'https://groups.google.com/forum/#!forum/taigaio'),
+         ('Kaleidos', 'http://www.kaleidos.net/'),
+         ('ΠWEEK', 'http://piweek.com/'),
 )
 
 # Social widget

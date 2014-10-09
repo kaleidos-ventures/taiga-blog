@@ -1,22 +1,19 @@
 .header {
-    @extend %triangled-bg;
     margin-bottom: 2rem;
-    padding: 1rem 0;
+    padding: 0 0 2rem;
+    .bg {
+        @extend %triangled-bg;
+        padding: .5rem;
+        margin-bottom: 1rem;
+    }
     .title {
         @extend %title;
         @extend %xxlarge;
         margin-bottom: 0;
         text-align: center;
         a {
-            color: $white;
+            color: $dry-taiga;
         }
-    }
-    .tagline {
-        color: $white;
-        display: block;
-        font-size: 1rem;
-        margin-bottom: 0;
-        text-align: center;
     }
     .logo {
         display: none;
@@ -33,19 +30,13 @@
             a {
                 &:hover {
                     @include transition(color .3s linear);
-                    color: $dark-taiga;
+                    color: $green-taiga;
                 }
             }
         }
-        .title,
-        .tagline {
-            text-align: left;
-        }
         .logo {
             display: block;
-            position: absolute;
-            top: 0;
-            left: 0px;
+            margin: 0 auto;
             width: 80px;
         }
     }

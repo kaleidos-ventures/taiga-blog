@@ -55,18 +55,14 @@
 <body id="index" class="home">
 
     <header id="banner" class="header">
+        <div class="bg"></div>
         <div class="wrapper">
+            <a class="logo" href="{{ SITEURL }}/">
+                <img class="logo" src="{{ SITEURL }}/theme/images/logo-color.png" alt="Taiga">
+            </a>
             <h1 class="title">
                 <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
             </h1>
-            <h2 class="tagline">
-                {% block content_title %}
-                {{ SITESUBTITLE }}
-                {% endblock %}
-            </h2>
-            <a href="{{ SITEURL }}/">
-                <img class="logo" src="{{ SITEURL }}/theme/images/logo.svg" alt="Taiga">
-            </a>
         </div>
     </header><!-- /#banner -->
 
@@ -78,8 +74,13 @@
         </div>
 
         <nav class="nav">
+            <h2 class="about">
+                {% block content_title %}
+                {{ SITESUBTITLE }}
+                {% endblock %}
+            </h2>
             {% if LINKS %}
-            <ul class="nav nav-list">
+            <ul class="nav-list">
                 <li class="nav-header">
                     <h3>Links</h3>
                 </li>
@@ -93,7 +94,7 @@
             {% endif %}
 
             {% if categories %}
-            <ul class="nav nav-list">
+            <ul class="nav-list">
                 <li class="nav-header">
                     <h3>Categories</h3>
                 </li>

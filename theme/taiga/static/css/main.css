@@ -182,7 +182,9 @@ h3 {
 
 p {
   margin: 0 0 20px;
-  line-height: 1.5rem; }
+  line-height: 1.5rem;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); }
   p img {
     margin: 0; }
 
@@ -239,7 +241,7 @@ ol {
 .icon {
   vertical-align: middle; }
 
-.header {
+.header .bg {
   background: url("../images/bg.png") no-repeat center center;
   background-size: cover; }
 
@@ -322,26 +324,23 @@ ol {
     -moz-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    -webkit-flex-basis: 100px;
-    -moz-flex-basis: 100px;
-    flex-basis: 100px;
-    -ms-flex-preferred-size: 100px;
+    -webkit-flex-basis: 120px;
+    -moz-flex-basis: 120px;
+    flex-basis: 120px;
+    -ms-flex-preferred-size: 120px;
     flex-shrink: 0;
-    width: 100px; } }
+    width: 120px; } }
 .header {
   margin-bottom: 2rem;
-  padding: 1rem 0; }
+  padding: 0 0 2rem; }
+  .header .bg {
+    padding: .5rem;
+    margin-bottom: 1rem; }
   .header .title {
     margin-bottom: 0;
     text-align: center; }
     .header .title a {
-      color: white; }
-  .header .tagline {
-    color: white;
-    display: block;
-    font-size: 1rem;
-    margin-bottom: 0;
-    text-align: center; }
+      color: #70a87d; }
   .header .logo {
     display: none; }
 
@@ -353,26 +352,34 @@ ol {
     -webkit-transition: color 0.3s linear;
     -moz-transition: color 0.3s linear;
     transition: color 0.3s linear;
-    color: #879b89; }
-  .header .title,
-  .header .tagline {
-    text-align: left; }
+    color: #72a114; }
   .header .logo {
     display: block;
-    position: absolute;
-    top: 0;
-    left: 0px;
+    margin: 0 auto;
     width: 80px; } }
 .nav {
-  margin-top: .5rem; }
+  margin-top: .5rem;
+  text-align: right; }
+  .nav .about {
+    display: none; }
+  .nav ul {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1.5rem; }
   .nav li {
     margin-bottom: .5rem; }
   .nav .nav-header {
-    margin-bottom: 1rem; }
+    margin-bottom: .3rem; }
   .nav h3 {
     color: #70a87d;
     margin-bottom: 0; }
 
+@media (min-width: 960px) {
+  .nav .about {
+    display: block;
+    font-size: 1.3rem;
+    color: #b8b8b8;
+    margin-bottom: 2rem; } }
 .footer {
   background: #fcfcfc;
   padding: 1rem 0; }
@@ -489,7 +496,7 @@ ol {
 .hentry.single .comments {
   margin-top: 1rem; }
 .hentry h1 {
-  margin-bottom: 0; }
+  margin-bottom: .5rem; }
   .hentry h1 a {
     color: #70a87d;
     font-size: 2.3rem; }

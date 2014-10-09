@@ -23,6 +23,6 @@ html {
         margin-right: 2rem;
     }
     .nav {
-        @include table-flex-child(1, 100px, 0);
+        @include table-flex-child(1, 120px, 0);
     }
 }
