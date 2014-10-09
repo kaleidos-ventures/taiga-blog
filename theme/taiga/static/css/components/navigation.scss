@@ -27,7 +27,9 @@
             display: block;
             font-size: 1.3rem;
             color: $gray-light;
-            margin-bottom: 2rem;
+            border-bottom: 1px solid $gray-light;
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
         }
     }
 }
