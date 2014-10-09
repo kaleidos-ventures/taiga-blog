@@ -1,48 +1,51 @@
 /* the humans responsible & colophon */
 /* humanstxt.org */
 
-
 /* TEAM */
 
   Taiga CEO: Pablo Ruiz Múzquiz
   Site: http://kaleidos.net/761CEC/
   Twitter: @diacritica
-  Location: Madrid
+  Location: Madrid, Spain
 
-  Taiga Co-CEO: Ricky Posner
+  Taiga CEO: Ricky Posner
   Twitter: @eposner
-  Location: Madrid
+  Location: Madrid, Spain
 
   Taiga Engineer: Alejandro Alonso
   Site: http://kaleidos.net/FC8EAC/
   Twitter: @_superalex_
-  Location: Madrid
+  Location: Madrid, Spain
 
-  Taiga Engineer: Andrey Antukh
+  Taiga Engineer & Community Manager: Lord Andrey Antukh
   Site: http://kaleidos.net/A5694F/
   Twitter: @niwibe
-  Location: Madrid
+  Location: Madrid, Spain
 
   Taiga Engineer: Jesús Espino García
   Site: http://kaleidos.net/007000/
   Twitter: @jespinog
-  Location: Madrid
+  Location: Madrid, Spain
 
   Taiga Engineer: David Barragán Merino
   Site: http://kaleidos.net/FFF8E7/
   Twitter: @bameda
-  Location: Madrid
+  Location: Madrid, Spain
 
-  Taiga Creative Designer & Frontend Engineer: Xavier Julián
+  Taiga UI Designer & Frontend Engineer: Lord Xavier Julián
   Site: http://kaleidos.net/CC0000/
   Twitter: @Xaviju
-  Location: Madrid
+  Location: Madrid, Spain
+
+  Taiga UI Designer: Juan de la Cruz
+  Site: http://kaleidos.net
+  Twitter: @elhombretecla
+  Location: Madrid, Spain
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: jQuery
   Software: Pelican
-  Languajes: Python, JavaScript
+  Languajes: Pitún
 
                             `.---...__
                            /```.__    ``.
