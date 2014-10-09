@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+#    Dame mas iocaína...
+#    ...toma mas iocaína
+#
+#           - Anonymous

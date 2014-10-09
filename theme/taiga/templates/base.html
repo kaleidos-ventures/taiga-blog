@@ -17,6 +17,14 @@
     <link href="{{ SITEURL }}/theme/css/main.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/png" href="{{ SITEURL }}/theme/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico">
+
+    <!-- humans.txt -->
+    <link rel="author" href="{{ SITEURL }}/humans.txt" />
+
+    <!-- feeds -->
     {% if FEED_ALL_ATOM %}
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
     {% endif %}

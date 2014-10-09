@@ -1,0 +1,77 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+
+  Taiga CEO: Pablo Ruiz Múzquiz
+  Site: http://kaleidos.net/761CEC/
+  Twitter: @diacritica
+  Location: Madrid
+
+  Taiga Co-CEO: Ricky Posner
+  Twitter: @eposner
+  Location: Madrid
+
+  Taiga Engineer: Alejandro Alonso
+  Site: http://kaleidos.net/FC8EAC/
+  Twitter: @_superalex_
+  Location: Madrid
+
+  Taiga Engineer: Andrey Antukh
+  Site: http://kaleidos.net/A5694F/
+  Twitter: @niwibe
+  Location: Madrid
+
+  Taiga Engineer: Jesús Espino García
+  Site: http://kaleidos.net/007000/
+  Twitter: @jespinog
+  Location: Madrid
+
+  Taiga Engineer: David Barragán Merino
+  Site: http://kaleidos.net/FFF8E7/
+  Twitter: @bameda
+  Location: Madrid
+
+  Taiga Creative Designer & Frontend Engineer: Xavier Julián
+  Site: http://kaleidos.net/CC0000/
+  Twitter: @Xaviju
+  Location: Madrid
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: Pelican
+  Languajes: Python, JavaScript
+
+                            `.---...__
+                           /```.__    ``.
+                           |```/  `'--.._`.
+                           |``|        (o).)
+    A Pelican is the       \`` \    _,-'   `.
+  Soul of Contemplation     \```\  ( ( ` .   `.
+                             `.```. `.` . `    `.
+                               `.``\  `.__   `.  `.
+                              ___\``), )\ `-.  `.  `.
+                    __    _,-'   \,'  /  \   `-.  `. `.
+                 ,-' '`,-'  '  ''| '   ' |      `-. `. `.
+              ,-''_,-' '  ' '  ' |   '  '|         `-. `.`.
+           ,-'_,-'   '   '  ''   | '  '  |            `-.`.`.
+        ,-',-'  ''  ,'   |   |   |'   ' /                `-..`.
+      ,' ,'  ' '     |  ,' | ,' /    ' '|                   `-.)
+     // /  '   |    ,'    ,'   /   '  '/
+     | || ,'  ,' |    ,' |   ,'   '   '|
+     ||||   |   ,' ,'   ,' ,' ' '     /
+     |  | |,'  '     |'  ,'  '   '  '/
+     | ||,'   ,' |  ,' ,' '    \   '/
+     ||||  |  , ,'  ,-'  /  ' '| ','
+     | /  ,' '   ,-' '   |'    |,'
+     | | ' ,' ,-' '  ' ' |    '|
+     |||,' ,-'  '  '   '_|'  '/
+     |,|,-' /'___,..--''  \ ' |
+     / // ,'-' |' |        \  |
+    ///,-'      \ |         \'|
+   '--'          \'\        | |
+               __ ) \___  __| |_
+ ____,...----''   ||`-- <_.--._ -`--. __
+  jrei            ''            `-`     `'''''''-----......_____

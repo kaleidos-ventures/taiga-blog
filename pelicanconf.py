@@ -41,6 +41,11 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Extra files to copy
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
+                 ('extra/humans.txt', 'humans.txt'),
+                 ('extra/favicon.ico', 'favicon.ico'),)
+
 #settings for Pelican
 DEFAULT_CATEGORY = 'General'
 THEME = 'theme/taiga'
