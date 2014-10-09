@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+DEBUG=1
+
 AUTHOR = 'Taiga'
 AUTHOR_EMAIL = 'support@taiga.io'
 SITENAME = 'Taiga Blog'
@@ -15,12 +17,16 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+FEED_ATOM = 'feeds/atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+FEED_RSS = 'feeds/rss.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # Blogroll
-LINKS = (('Taiga.io', 'http://taiga.io'),
+LINKS = (('Taiga.io', 'https://taiga.io'),
          ('Mailing list', 'https://groups.google.com/forum/#!forum/taigaio'),
 )
 
