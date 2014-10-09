@@ -2,7 +2,9 @@
 output/
 cache/
 .*.sw*
+*.pid
 *.log
 *.pyc
 *.mo
 .\#*
+
