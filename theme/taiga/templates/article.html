@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+
+{% block title %}{{ article.title }} | {{ SITENAME }}{% endblock title %}
+
 {% block head %}
 {{ super() }}
 {% for keyword in article.keywords %}
@@ -12,6 +15,11 @@
 {% for tag in article.tags %}
 <meta name="tags" contents="{{tag}}" />
 {% endfor %}
+
+<!--  Facebook metadata   -->
+<meta property="og:title" content="{{ article.title }}" />
+<meta property="og:site_name" content="{{ SITENAME }}" />
+<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
 
 {% endblock %}
 
@@ -29,6 +37,7 @@
         {{ article.content }}
     </div><!-- /.entry-content -->
     {% include 'post-info.html' %}
+    {% include 'share.html' %}
     <div class="comments">
         {% include 'disqus.html' %}
     </div>

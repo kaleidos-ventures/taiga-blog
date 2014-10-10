@@ -1,0 +1,7 @@
+.share {
+    @include table-flex(flex-start, flex-start, flex, row, wrap, center);
+    margin: 1rem 0;
+    >div {
+        margin: 0 1rem;
+    }
+}

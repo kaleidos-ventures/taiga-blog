@@ -32,6 +32,10 @@
   Twitter: @bameda
   Location: Madrid, Spain
 
+  Taiga Engineer: Juan Francisco Alcántara
+  Site: http://www.kaleidos.net/40826D/
+  Location: Madrid, Spain
+
   Taiga UI Designer & Frontend Engineer: Lord Xavier Julián
   Site: http://kaleidos.net/CC0000/
   Twitter: @Xaviju
