@@ -1,21 +1,42 @@
-Title: Welcome Post
-Date: 2014-10-06 00:00
+Title: WELCOME, YOU'VE BEEN TAIGATIZED!
+Date: 2014-10-06 12:00
 Category: General
-Slug: welcome-post
-Author: Xaviju
-Email: xavier.julian@kaleidos.net
-Summary: First of all, thank you very much for trying [Taiga](https://taiga.io "Taiga.io"). We have been developing this platform for nearly 3 years now. It all started with our first [ΠWEEK](http://piweek.com "ΠWEEK (Personal Innovation Week)") (our week-long hackathon that we carry every six months). ![alternate text](https://unsplash.imgix.net/uploads%2F1411589111646628d45fa%2F12f0a18c?q=75&fm=jpg&auto=format&s=65e410757a6c2b728290c6eea291d97b) [Kaleidos](http://kaleidos.net "Kaleidos OpenSource"), were employees have been developing this free & open source  platform, was very much in its infancy, but even in this early and fragile state we were all committed to enjoying every day of our work no matter the consequences.
+Author: Eposner
+Email: e@eposner.com
+Summary: ![Taiga Sunrise](https://unsplash.imgix.net/reserve/m6rT4MYFQ7CT8j9m2AEC_JakeGivens%20-%20Sunset%20in%20the%20Park.JPG?q=75&fm=jpg&auto=format&s=0798c4e39d1acb580b25a93863dcae97)First off, thanks for taking [Taiga](https://taiga.io "Taiga.io") out for a spin. After 3 years of development (on and off at first and then as its own company in the last 6 months) we're excited to turn it over to you. It all started with a team at [Kaleidos](http://kaleidos.net "Kaleidos OpenSource") a Madrid-based company that builds software for both large corporations and startups. The team there is a lively happy bunch who feel that free & open source is the way to go when choosing tools. These guys and girls are fast-paced, burn with an obsession for failing fast, and demand transparency and certainty in order to be at the top of their game.
 
-First of all, thank you very much for trying [Taiga][taiga]. We have been developing this platform for nearly 3 years now. It all started with our first [ΠWEEK][piweek] (our week-long hackathon that we carry every six months). [Kaleidos][kaleidos], were employees have been developing this free & open source  platform, was very much in its infancy, but even in this early and fragile state we were all committed to enjoying every day of our work no matter the consequences.
+![Taiga Sunrise](https://unsplash.imgix.net/reserve/m6rT4MYFQ7CT8j9m2AEC_JakeGivens%20-%20Sunset%20in%20the%20Park.JPG?q=75&fm=jpg&auto=format&s=0798c4e39d1acb580b25a93863dcae97)
 
-Our clients are Internet startups or big corporations that want to launch something disruptive (startup-like) so normally we get a great “WHAT TO DO”. We also have a very talented team of happy coders and designers that feel that free & open source is the best way to build great software a greater community, so we also had a promising “WHO WILL DO IT”. Taiga is our answer to “HOW WE DO IT”. Because when you need fast-paced development, an obsession with failing fast, a need for transparency and the certainty that a bunch of unique individuals, if given the tools and the culture, can become the most successful team on the planet, not every methodology or platform will suffice.
+First off, thanks for taking [Taiga][taiga] out for a spin. After 3 years of development (on and off at first and then as its own company in the last 6 months) we're excited to turn it over to you.
 
-So here is Taiga. We borrowed the name from the spectacular boreal forests. In our minds, they presented a faithful metaphor for projects in general. They look stunning and beautiful from the outside but if you delve in unprepared they become pitiless and deadly. We didn’t want people to just “survive” the taiga, we wanted to enjoy the taiga once they were fully within. That was our challenge.
+It all started with a team at [Kaleidos][kaleidos] a Madrid-based company that builds software for both large corporations and startups. The team there is a lively happy bunch who feel that free & open source is the way to go when choosing tools. These guys and girls are fast-paced, burn with an obsession for failing fast, and demand transparency and certainty in order to be at the top of their game.
 
-You will see a friendly and beautiful interface, geek references and a bias towards allowing people to feel that they are the ones in control, not the project. We have tried to bring the best of us to Taiga, both technically and emotionally. We have had incredible support from our clients and friends, always asking us to release it to the public. Well, here you are, take it, play with it, gives us feedback, be part of the Taiga community and help us change the way projects are managed and developed.
+Though much of their time is spent working for clients, several times a year they break off for their own [Personal Innovation Weeks (ΠWEEK)][piweek]. These are week-long hackathons dedicated to personal improvement and prototyping internal ideas of all sorts.
 
-What should you expect from us now? In the short term, we will fix bugs, add little nice features,  listen to your feedback and try to stay calm :) For 2015 we are preparing a major set of features that will blow your mind and change the way to manage projects forever so that when you look back to Taiga’s original release, you will nod and say “Oh, yes… this is dwarfing even that first Taiga release”.
+It didn't take long to agree on a project for the first ΠWEEK batch. Project Management. For their regular work, the team at Kaleidos used a variety of tools, but they weren't enamored with any. Either they were bloated with features, slow, ugly to look at, unintuitive, expensive and remarkably in some cases - all of the above.
+
+And so, Taiga (internally code-named project Greenmine) was born. The team wanted a challenge; they wanted the project management tool that sits open on their computers all day long, to serve as a continual reminder of why they love to collaborate, code and design. Month after month, the tool became increasingly more beautiful, flexible, powerful, elegant, simple to use and fun.
+
+In early 2014. The tool was being widely used on all of Kaleidos' projects. The team was loving it, and the clients were raving. It was time to graduate. Taiga Agile, LLC was formed in Feb 2014. When we turned our attention to raising money to feed this hungry beast, we didn't have to look far. Kaleidos' own developers and designers, its customers and its investors all dug deep into their pockets.
+
+We named the tool Taiga after the forest biome because like its namesake, the tool is at the center of an ecosystem - your team, your projects. In our minds, the taiga presented a faithful metaphor for software projects in general: They look great from the outside, but once you're in, if you're unprepared it can be pitiless and deadly inside. We built this tool to ensure that you don't just “survive” the Taiga, but also enjoy its beauty.
+
+A great project management tool can help you see the forest for the trees. We couldn't think of a more appropriate name for what we've built.
+
+At Taiga you'll encounter a friendly, beautiful interface, with a few geeky references and a rebel bias against tools used to engender needless accountability. While building it we've had incredible support from our families, friends and clients. They are as excited as we are to bring it you in its full Free, Open Source glory.
+
+Take it. Play with it. Gives us feedback. Be part of the Taiga community.
+
+There's a lot more where this came from. In the short term we're still dealing with bugs and enhancements. We are listening carefully to all your feedback. Keep it coming.
+
+You can expect continued improvements, enhancements, and features to come your way. Then in 2015 we will surprise you with a major set of features that will blow your mind and change the way you manage projects forever.
+
+We think that in 2015 when you get your hands on Taiga 2.0, you'll look back at this original release, which has garnered such wonderful and generous praise, and you will nod and say “Oh, yes 1.0 was good… But 2.0… now that's something!"
+
+See you on [Twitter][twitter], [Github][github] and hopefully every morning when you come in for work!
 
 [taiga]: https://taiga.io "Taiga.io"
 [piweek]: http://piweek.com "ΠWEEK (Personal Innovation Week)"
 [kaleidos]: http://kaleidos.net "Kaleidos OpenSource"
+[twitter]: http://twitter.com/taigaio "Taiga.io on Twitter"
+[github]: https://github.com/taigaio "Taiga.io on github"

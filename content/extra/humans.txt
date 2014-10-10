@@ -8,11 +8,16 @@
   Twitter: @diacritica
   Location: Madrid, Spain
 
-  Taiga CEO: Ricky Posner
+  Taiga CEO & Community Manager: Ricky Posner
   Twitter: @eposner
   Location: Madrid, Spain
 
-  Taiga Engineer: Alejandro Alonso
+  Taiga Engineer: Anler Hernández
+  Site: http://www.kaleidos.net/2099DB/
+  Twitter: @anler
+  Location: Madrid, Cuba
+
+Taiga Engineer: Alejandro Alonso
   Site: http://kaleidos.net/FC8EAC/
   Twitter: @_superalex_
   Location: Madrid, Spain
@@ -20,7 +25,7 @@
   Taiga Engineer & Community Manager: Lord Andrey Antukh
   Site: http://kaleidos.net/A5694F/
   Twitter: @niwibe
-  Location: Madrid, Spain
+  Location: Madrid, Russia
 
   Taiga Engineer: Jesús Espino García
   Site: http://kaleidos.net/007000/
@@ -49,7 +54,7 @@
 /* SITE */
   Standards: HTML5, CSS3
   Software: Pelican
-  Languajes: Pitún
+  Languajes: Python
 
                             `.---...__
                            /```.__    ``.
