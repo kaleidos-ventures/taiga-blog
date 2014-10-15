@@ -1,23 +1,23 @@
 .cookies {
-    background-color: $gray3;
+    background-color: rgba($white, .9);
     bottom: 0;
-    display: none;
     left: 0;
     position: fixed;
     width: 100%;
     z-index: 90;
-    .center {
+    .wrapper {
         @include display(flex);
         @include align-items(center);
-        padding: 10px 20px 10px 0;
+        padding: 1rem 10% 1rem;
         position: relative;
+        width: 100%;
         &:before {
             @include flex-shrink(0);
             background: url('../images/cookie.png') center left;
             background-size: 100%;
             content: '';
-            height: 55px;
-            width: 55px;
+            height: 75px;
+            width: 75px;
         }
     }
     .text {
@@ -30,15 +30,16 @@
         @extend %large;
         color: $green8;
         font-weight: 800;
-        padding-bottom: 5px;
+        padding: 0;
+        margin: .5rem;
     }
     .fa {
         @include transition(color .3s);
         color: $darkgray2;
         font-size: 22px;
         position: absolute;
-        right: 0;
-        top: 14px;
+        right: 1rem;
+        top: 1rem;
         &:hover {
             color: $red;
             cursor: pointer;
@@ -46,13 +47,5 @@
     }
     a {
         color: $black;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .cookies {
-        .center {
-            width: 960px;
-        }
     }
 }
