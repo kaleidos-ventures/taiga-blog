@@ -17,7 +17,7 @@ This release is chock full of bug fixes, minor navigation enhancements and lots 
 - Real time synchronization. You and your colleagues, working on the same project will instantaneously see any change anyone makes. Yes!
 - Issues can become User Stories: With one click, you can promote a pesky issue or bug that will take lots of work to fix and make it its own User Story.
 - Made it easier to attach files to issues.
-- Our Blog is live at http://blog.taiga.io. Welcome, come right in.
+- Our Blog is live at [http://blog.taiga.io][taiga-blog]. Welcome, come right in.
 
 **Bug Fixes and Enhancements (worth mentioning)**
 
@@ -31,7 +31,7 @@ This release is chock full of bug fixes, minor navigation enhancements and lots 
 
 **Documentation**
 
-- If you are downloading and installing your a Taiga instance on your own servers. You can now use the following documentation to guide you: [documentation](https://github.com/taigaio/taiga-doc/blob/master/setup-production.adoc)
+- If you are downloading and installing your a Taiga instance on your own servers. You can now use the following documentation to guide you: [Taiga Documentation][taiga-doc].
 
 ##Here’s what’s on our current sprint:
 
@@ -44,3 +44,6 @@ This release is chock full of bug fixes, minor navigation enhancements and lots 
 
 See you next week.
 
+
+[taiga-blog]: http://blog.taiga.io "Taiga Blog"
+[taiga-doc]: http://taigaio.github.io/taiga-doc/dist/ "Taiga Documentation"
