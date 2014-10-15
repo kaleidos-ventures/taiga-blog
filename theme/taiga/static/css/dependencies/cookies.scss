@@ -1,0 +1,58 @@
+.cookies {
+    background-color: $gray3;
+    bottom: 0;
+    display: none;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 90;
+    .center {
+        @include display(flex);
+        @include align-items(center);
+        padding: 10px 20px 10px 0;
+        position: relative;
+        &:before {
+            @include flex-shrink(0);
+            background: url('../images/cookie.png') center left;
+            background-size: 100%;
+            content: '';
+            height: 55px;
+            width: 55px;
+        }
+    }
+    .text {
+        padding-left: 20px;
+    }
+    p {
+        @extend %small;
+    }
+    .title {
+        @extend %large;
+        color: $green8;
+        font-weight: 800;
+        padding-bottom: 5px;
+    }
+    .fa {
+        @include transition(color .3s);
+        color: $darkgray2;
+        font-size: 22px;
+        position: absolute;
+        right: 0;
+        top: 14px;
+        &:hover {
+            color: $red;
+            cursor: pointer;
+        }
+    }
+    a {
+        color: $black;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cookies {
+        .center {
+            width: 960px;
+        }
+    }
+}
