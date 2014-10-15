@@ -5,10 +5,12 @@ Author: Taiga Team
 Email: support@taiga.io
 Summary: ![Taiga Day](/images/changelog110/01.jpg) We start off our celebration of the Taiga (the real one and the software) by naming our first post-release changelog, the _Alnus Maximowiczii release_ (v1.1.0 ). We celebrate this species of Taiga inhabitant, an Alder tree  native to Japan, Korea and the Russian Far East, and we salute our 2,482 visitors from those countries
 
-This release is chock full of bug fixes, minor navigation enhancements and lots of under-the-hood fixes that may not be apparent to everyone.
+We start off our celebration of the Taiga (the real one and the software) by naming our first post-release changelog, the _Alnus Maximowiczii release_ (v1.1.0 ). We celebrate this species of Taiga inhabitant, an Alder tree  native to Japan, Korea and the Russian Far East, and we salute our 2,482 visitors from those countries
 
 ![Taiga Day](/images/changelog110/01.jpg)
 <small>_Photo Credit: Sten Porse_</small>
+
+This release is chock full of bug fixes, minor navigation enhancements and lots of under-the-hood fixes that may not be apparent to everyone.
 
 **New features**
 
