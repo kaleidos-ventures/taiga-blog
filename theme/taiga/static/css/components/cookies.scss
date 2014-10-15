@@ -7,18 +7,15 @@
     width: 100%;
     z-index: 90;
     .wrapper {
-        padding: 1rem 10% 1rem;
+        padding: 1rem;
         width: 100%;
-    }
-    .text {
-        padding-left: 20px;
     }
     p {
         @extend %small;
     }
     .title {
         @extend %large;
-        color: $green8;
+        color: $green-taiga;
         font-weight: 800;
         padding: 0;
         margin: .5rem;
@@ -56,6 +53,9 @@
                 height: 75px;
                 width: 75px;
             }
+        }
+        .text {
+            padding-left: 20px;
         }
     }
 }
