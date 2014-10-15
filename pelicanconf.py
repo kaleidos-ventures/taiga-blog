@@ -45,6 +45,7 @@ DEFAULT_PAGINATION = 10
 
 # Extra files to copy
 STATIC_PATHS = [
+    'images',
     'extra/robots.txt',
     'extra/humans.txt',
     'extra/favicon.ico'
