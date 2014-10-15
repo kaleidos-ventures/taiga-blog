@@ -7,19 +7,8 @@
     width: 100%;
     z-index: 90;
     .wrapper {
-        @include display(flex);
-        @include align-items(center);
         padding: 1rem 10% 1rem;
-        position: relative;
         width: 100%;
-        &:before {
-            @include flex-shrink(0);
-            background: url('../images/cookie.png') center left;
-            background-size: 100%;
-            content: '';
-            height: 75px;
-            width: 75px;
-        }
     }
     .text {
         padding-left: 20px;
@@ -48,5 +37,25 @@
     }
     a {
         color: $black;
+    }
+}
+
+@media (min-width: 960px) {
+    .cookies {
+        .wrapper {
+            @include display(flex);
+            @include align-items(center);
+            padding: 1rem 10% 1rem;
+            position: relative;
+            width: 100%;
+            &:before {
+                @include flex-shrink(0);
+                background: url('../images/cookie.png') center left;
+                background-size: 100%;
+                content: '';
+                height: 75px;
+                width: 75px;
+            }
+        }
     }
 }
