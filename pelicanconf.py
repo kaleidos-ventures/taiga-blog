@@ -65,3 +65,6 @@ DISQUS_SITENAME = "taiga-blog"
 #Plugins
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['gravatar']
+
+
+PRIVACY_POLICY_URL = "http://taiga.io/privacy-policy"
