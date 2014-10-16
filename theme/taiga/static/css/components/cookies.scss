@@ -12,13 +12,14 @@
     }
     p {
         @extend %small;
+        margin: 0;
     }
     .title {
         @extend %large;
         color: $green-taiga;
         font-weight: 800;
         padding: 0;
-        margin: .5rem;
+        margin: 0 0 .5rem;
     }
     .fa {
         @include transition(color .3s);
@@ -42,7 +43,7 @@
         .wrapper {
             @include display(flex);
             @include align-items(center);
-            padding: 1rem 10% 1rem;
+            padding: .3rem 10%;
             position: relative;
             width: 100%;
             &:before {
