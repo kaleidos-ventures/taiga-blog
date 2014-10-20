@@ -1,7 +1,7 @@
 Title: Our first TAIGA DAY
 Date: 2014-10-20 16:00
 Category: General
-Author: Pablo Ruiz
+Author: Pablo Ruiz Múzquiz
 Email: pablo.ruiz@kaleidos.net
 Summary: ![Taiga Day](/images/taiga-day/02.jpg) The week before we launched we had planned an off-site. We wanted to celebrate the way we work and how strongly we feel about free & open source software, about the community and what makes a team truly remarkable. It all boils down to culture so we concentrated on that and decided to enjoy _our_ day, the TAIGA DAY.
 
