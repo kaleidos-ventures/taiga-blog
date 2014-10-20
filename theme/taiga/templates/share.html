@@ -2,7 +2,7 @@
     <div class="twitter">
         <a class="twitter-share-button"
            href="https://twitter.com/share"
-           data-url="{{ article.url }}"
+           data-url="{{ SITEURL }}/{{ article.url }}"
            data-via="taigaio"
            data-text="{{ article.title }}"
            data-count="vertical">
@@ -23,7 +23,7 @@
                 fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
-        <div class="fb-share-button" data-href="{{ article.url }}" data-layout="box_count"></div>
+        <div class="fb-share-button" data-href="{{ SITEURL }}/{{ article.url }}" data-layout="box_count"></div>
     </div>
     <div class="gplus">
         <!-- Place this tag in your head or just before your close body tag. -->
