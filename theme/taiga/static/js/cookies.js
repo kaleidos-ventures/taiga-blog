@@ -1,8 +1,12 @@
 (function() {
   (function() {
     var getCookie, setCookie;
-    setCookie = function(cname, cvalue) {
-      return document.cookie = cname + "=" + cvalue + ";";
+    setCookie = function(cname, cvalue, exdays) {
+      var d, expires;
+      d = new Date();
+      d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+      expires = "expires=" + d.toUTCString();
+      return document.cookie = cname + "=" + cvalue + "; " + expires;
     };
     getCookie = function(cname) {
       var c, ca, name, _i, _len;
@@ -23,9 +27,8 @@
     }
     return $('.cookies').find('.fa').on('click', function() {
       $('.cookies').fadeOut('fast');
-      return setCookie('cookieConsent', 1);
+      return setCookie('cookieConsent', 1, 730);
     });
   })();
 
 }).call(this);
-
