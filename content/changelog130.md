@@ -30,4 +30,4 @@ If your code lives on GitHub, you´ll love how Taiga's simple, intuitive Project
 
 - Quite a few bug fixes, big and small.
 
-_p.s. Speaking of big and small, this week we tip our hat and bow deeply at Dr. Matt Taylor and his team who did nothing more than, of say.... **land a probe on a comet after a 10-year interplanetary cat and mouse chase.** Makes little 'ol Taiga Dryas Hookeriana Release (v1.3.0) seem a trifle petite... Let's see what we can cook up in v1.4 to make up for it....!_
+_p.s. Speaking of big and small, this week we tip our hat and bow deeply at Dr. Matt Taylor and his team who did nothing more than, oh say.... **land a probe on a comet after a 10-year interplanetary cat and mouse chase.** Makes little 'ol Taiga Dryas Hookeriana Release (v1.3.0) seem a trifle petite... Let's see what we can cook up in v1.4 to make up for it....!_
