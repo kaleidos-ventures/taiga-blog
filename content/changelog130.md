@@ -1,5 +1,5 @@
 Title: Taiga Dryas Hookeriana Release (v1.3.0)
-Date: 2014-11-18 09:00
+Date: 2014-11-18 17:00
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
