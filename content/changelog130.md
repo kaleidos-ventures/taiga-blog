@@ -22,6 +22,8 @@ If your code lives on GitHub, you´ll love how Taiga's simple, intuitive Project
 - Change the status of User Stories, Tasks and Issues on Taiga with a GitHub commit message
 - Sync Issues and comments generated on GitHub with Taiga (one-way for now)
 
+Be sure to **clear your cache and log out before logging back into Taiga.io to access all the Gitness.** To integrate your repositories, **be sure you have admin privileges** on the given Taiga Project, then go to Admin / Third Parties and follow the instructions.
+
 **UI Improvements**
 
 - In Kanban, you can now collapse a column to rail thin-ness, improving horizontal scrolling.
