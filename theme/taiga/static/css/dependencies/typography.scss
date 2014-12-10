@@ -69,6 +69,10 @@ strong {
     font-weight: bold;
 }
 
+small {
+    @extend %small;
+}
+
 hr {
     border: solid #ddd;
     border-width: 1px 0 0;
