@@ -15,7 +15,7 @@ h6 {
 // __Font Sizes__ //
 %xsmall {font-size: .5rem;}
 %small {font-size: .8rem;}
-%medium {font-size: 1.1rem;}
+%medium {font-size: 1rem;}
 %large {font-size: 1.2rem;}
 %larger {font-size: 1.6rem;}
 %xlarge {font-size: 2rem;}
@@ -54,6 +54,11 @@ h3 {
     margin-bottom: 1rem;
 }
 
+h4 {
+    @extend %large;
+    margin-bottom: 1rem;
+}
+
 p {
     margin: 0 0 20px;
     line-height: 1.5rem;
@@ -66,7 +71,7 @@ p {
 
 em { font-style: italic; }
 strong {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 small {
