@@ -16,13 +16,23 @@ html {
         width: 960px;
     }
     .content {
-        @include table-flex();
+        display: flex;
+        justify-content: space-between;
     }
     .main {
-        @include table-flex-child(3, 500px, 0);
+        flex-grow: 3;
+        flex-basis: 500px;
+        flex-shrink: 0;
         margin-right: 2rem;
+        max-width: 66%;
+        min-width: 500px;
     }
     .nav {
-        @include table-flex-child(1, 120px, 0);
+        flex-grow: 1;
+        flex-basis: 120px;
+        flex-shrink: 0;
+        margin-right: 2rem;
+        max-width: 33%;
+        min-width: 120px;
     }
 }
