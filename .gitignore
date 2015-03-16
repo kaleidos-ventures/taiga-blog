@@ -9,3 +9,4 @@ cache/
 .\#*
 *.css
 *.css.map
+*.directory
