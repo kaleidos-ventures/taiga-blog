@@ -3,11 +3,11 @@ Date: 2015-03-24 08:00
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Taiga Abies Bifolia](/images/2015-03-27_nitish_email/typewriter.jpg) Often, there are crunch situations in a project that need developers to stretch beyond their normal timelines. There is nothing new about it, even developers are mentally prepared for such occurrences. But, such instances, many times bring out the worst in people and can be a threat to team harmony.
+Summary: ![Typewriter](/images/2015-03-27_nitish_email/typewriter.jpg) Often, there are crunch situations in a project that need developers to stretch beyond their normal timelines. There is nothing new about it, even developers are mentally prepared for such occurrences. But, such instances, many times bring out the worst in people and can be a threat to team harmony.
 
 Often, there are crunch situations in a project that need developers to stretch beyond their normal timelines. There is nothing new about it, even developers are mentally prepared for such occurrences. But, such instances, many times bring out the worst in people and can be a threat to team harmony.There are few simple steps that can be taken to mitigate such risks. The most important among these steps is the proper use of the available infrastructure and tools - instead of just falling back to emails for everything.
 
-![Taiga Abies Bifolia](/images/2015-03-27_nitish_email/typewriter.jpg)
+![Typewriter](/images/2015-03-27_nitish_email/typewriter.jpg)
 <small>Photo by [Florian Klauer](http://florianklauer.de "See Florian Klauer WEBSITE"){:target="_blank"}</small>
 
 Founder of famous social media management system [Hootsuite](https://hootsuite.com/es-es/) - Ryan Holmes - says:
