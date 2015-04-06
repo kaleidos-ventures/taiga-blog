@@ -17,8 +17,8 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
   export PATH="/usr/bin/core_perl:$(ruby -e "print Gem.user_dir")/bin:$PATH"
   ```
   
-- Generate .css file
+- Run in devel mode
   ```
-  cd taiga-blog/theme/taiga/static/css/
-  sass main.scss main.css
+  make compile_styles
+  make devserver
   ```
