@@ -16,3 +16,9 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
   gem install sass scss-lint
   export PATH="/usr/bin/core_perl:$(ruby -e "print Gem.user_dir")/bin:$PATH"
   ```
+  
+- Generate .css file
+```
+cd taiga-blog/theme/taiga/static/css/
+sass main.scss main.css
+```
