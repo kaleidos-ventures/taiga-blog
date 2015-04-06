@@ -18,7 +18,7 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
   ```
   
 - Generate .css file
-```
-cd taiga-blog/theme/taiga/static/css/
-sass main.scss main.css
-```
+  ```
+  cd taiga-blog/theme/taiga/static/css/
+  sass main.scss main.css
+  ```
