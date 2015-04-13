@@ -44,4 +44,4 @@ With Taiga, almost all of these risks are mitigated to a great extent. The extre
 
 If you are a non IT project manager, I hope this study encourages you to get started with Taiga - and reap the benefits of Agile methodology to the greatest possible extent.
 
-<small>This study was conducted by [Software Advice](http://www.softwareadvice.com/) and reproduced here - if you are interested in the complete study and its findings, you can find it [here](http://www.softwareadvice.com/project-management/userview/agile-report-2015/).</small>
+<small>Armed with this thesis, online project management technology [advisory firm](http://www.softwareadvice.com/project-management/web-based-comparison/) Software Advice conducted a study to understand how far is adoption of Agile tools in non IT sector and how do the decision makers in non IT sector perceive Agile tools.</small>
