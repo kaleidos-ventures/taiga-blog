@@ -1,6 +1,5 @@
 Title: User stories demystified
 Date: 2015-04-23 12:18
-Status: draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
