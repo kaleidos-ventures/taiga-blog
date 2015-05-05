@@ -1,6 +1,5 @@
 Title: Agile terms you must know
 Date: 2015-05-05 09:07
-Status: Draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
