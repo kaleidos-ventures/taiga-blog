@@ -51,16 +51,18 @@
         list-style-type: disc;
     }
     dl {
+        line-height: 1.25;
         dt {
-            font-size: 1em;
-            font-style: italic;
+            clear: left;
             font-weight: bold;
-            margin-top: 16px;
-            padding: 0;
+            float: left;
+            width: 150px;
+            max-width: 150px;
+            text-align: right;
         }
         dd {
-            margin-bottom: 16px;
-            padding: 0 16px;
+            margin: 0 0 0 170px;
+            padding: 0 0 1rem 0;
         }
     }
     a {
