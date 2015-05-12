@@ -1,0 +1,19 @@
+Title: 4 things I learnt in 5 months with Agile
+Date: 2015-05-13 12:07
+Category: General
+Author: Nitish Tiwari
+Email: tiwari.nitish@gmail.com
+Status: draft
+Summary: ![Free for commercial use / No attribution required](/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg) Let me confess - I am a newbie to the world of Agile. During 5 years of my career as a software developer, most of the time, I have followed the more traditional software development methodologies like waterfall and incremental development. It was recently that I joined a new project with dev teams in multiple locations - and they followed Agile. It’s been five months now, and I thought it is the right time to share whatever I learnt in these 5 months.
+
+Let me confess - I am a newbie to the world of Agile. During 5 years of my career as a software developer, most of the time, I have followed the more traditional software development methodologies like waterfall and incremental development. It was recently that I joined a new project with dev teams in multiple locations - and they followed Agile. It’s been five months now, and I thought it is the right time to share whatever I learnt in these 5 months.
+
+![Free for commercial use / No attribution required](/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg)
+
+1. **Agile jargon is not that tough** The first thing I was worried about, after learning that I need to work in Agile setup, was the learning curve. Not only I needed to adapt to the working culture, but also get acquainted with the jargon the team would throw at me. With heavy heart, I started online research to learn the terminologies. But to my surprise, there are only a few purely technical terms that you really need to learn, others can be understood if you apply common sense. So, it isn’t really tough to get acquainted and start using these terms in your daily affairs. We have collected all the terms and [listed them here](https://blog.taiga.io/agile-terms-you-must-know.html){target="_blank"}.
+
+2. **Clients are really happy with Agile** Agile focuses on continuous integration, i.e. having a working product at any point of time. This is an advantage clients are very happy to have. Plus the short turn around time of always less than two sprints is a good ground for customer satisfaction. In the short duration of working in Agile, I could clearly see the high satisfaction levels.
+
+3. **It is easier to work in Agile setup** There is this feeling among developers that Agile means more work and pressure. This is because whatever is committed at the beginning of the sprint needs to be delivered. Also, the daily stand-up meetings are tracking the progress everyday and so there is this pressure to make progress everyday. But, I as a developer couldn’t be happier with my work after I started following Agile methodology - this is because the only meeting I had to attend was the stand-up, that too for barely 15 minutes. After that I was free for the whole day, to focus on the actual tasks at hand. If I had any issues, there was only one person, the scrum-master to contact. These small things made me more productive and my life easier.
+
+4. **Test driven development is an asset not liability** Another very important aspect of the Agile methodology is the notion of test driven development, i.e. developer should write the test cases based on the features and then implement the code, so that the test cases pass. For beginners this is unusual, and I was no different, but slowly this made sense - if the tests didn’t pass, I could immediately know that something was wrong and I need to debug. This was far better than the false sense of completion I earlier had by just writing the code and thinking my task is over. But, later when testers came back with bugs, I had to slog it over in extra time, because to the project manager the feature was completed long back!
