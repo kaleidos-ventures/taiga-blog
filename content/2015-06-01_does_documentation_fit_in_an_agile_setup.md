@@ -1,6 +1,5 @@
 Title: Does documentation fit in an agile setup?
 Date: 2015-06-01 10:07
-Status: Draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
