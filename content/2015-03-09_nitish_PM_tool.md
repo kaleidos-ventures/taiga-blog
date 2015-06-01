@@ -3,11 +3,11 @@ Date: 2015-03-09 13:00
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![](/images/2015-03-09_nitish_PM_tool/macbook-air-all-faded-and-stuff.jpg) Everyone has few turn offs - for some it is untidy hair, for some it is unpunctuality, for some dishonesty, and so on. But almost every developer I know has one common turn off, their project management tool! Let me elaborate, being a software developer is no less than being in a very demanding relationship. You say why? A project demands a lot - attention, focus, love, dedication - just like your beloved. And developers give it all without a thought to their project, but then updating the project management portal at the end of the day - isn’t it like informing your partner’s father about what happened the whole day.
+Summary: ![Photo by Scott Schwartz](/images/2015-03-09_nitish_PM_tool/macbook-air-all-faded-and-stuff.jpg) Everyone has few turn offs - for some it is untidy hair, for some it is unpunctuality, for some dishonesty, and so on. But almost every developer I know has one common turn off, their project management tool! Let me elaborate, being a software developer is no less than being in a very demanding relationship. You say why? A project demands a lot - attention, focus, love, dedication - just like your beloved. And developers give it all without a thought to their project, but then updating the project management portal at the end of the day - isn’t it like informing your partner’s father about what happened the whole day.
 
 Everyone has few turn offs - for some it is untidy hair, for some it is unpunctuality, for some dishonesty, and so on. But almost every developer I know has one common turn off, their project management tool! Let me elaborate, being a software developer is no less than being in a very demanding relationship. You say why? A project demands a lot - attention, focus, love, dedication - just like your beloved. And developers give it all without a thought to their project, but then updating the project management portal at the end of the day - isn’t it like informing your partner’s father about what happened the whole day.
 
-![](/images/2015-03-09_nitish_PM_tool/macbook-air-all-faded-and-stuff.jpg)
+![Photo by Scott Schwartz](/images/2015-03-09_nitish_PM_tool/macbook-air-all-faded-and-stuff.jpg)
 <small>Photo by [Scott Schwartz](https://www.flickr.com/photos/126793344@N05/){:target="_blank"}</small>
 
 But, the project managers reading this, will retort - we don’t pay developers to make analogies at work. Project management is a serious job and projects need tracking to make sense of progress. Thats true as well. Jokes apart, a turn off is a turn off, one just can’t change it.
