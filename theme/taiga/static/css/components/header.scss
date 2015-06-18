@@ -7,7 +7,7 @@
         margin-bottom: 1rem;
     }
     .title {
-        @extend %title;
+        @extend %light;
         @extend %xxlarge;
         margin-bottom: 0;
         text-align: center;

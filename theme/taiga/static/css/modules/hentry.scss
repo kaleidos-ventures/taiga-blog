@@ -10,9 +10,9 @@
         }
     }
     h1 {
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
         a {
-            @extend %text;
+            @extend %light;
             color: $dry-taiga;
             font-size: 2.3rem;
             &:hover {
@@ -23,7 +23,7 @@
     }
     .entry-content {
         color: $blackish;
-        @extend %text;
+        @extend %light;
         p {
             line-height: 1.8rem;
         }
@@ -34,14 +34,15 @@
         margin-bottom: .5rem;
     }
     h2 {
-        @extend %large;
-        @extend %bold;
-        margin-bottom: .5rem;
+        @extend %larger;
+        @extend %light;
+        margin: 3rem 0 1rem;
         text-transform: uppercase;
     }
     h3 {
-        @extend %bold;
-        text-transform: uppercase;
+        @extend %large;
+        @extend %light;
+        margin: 2rem 0 1rem;
     }
     ul,
     ol {
