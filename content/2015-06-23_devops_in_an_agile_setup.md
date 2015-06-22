@@ -4,9 +4,10 @@ Status: Draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![One-man band](/images/2015-06-23_devops_in_an_agile_setup/one_man_band.jpg "One-man band") In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now evenoutside of software development.
+Summary: ![One-man band](/images/2015-06-23_devops_in_an_agile_setup/one_man_band.jpg "One-man band") In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now - even outside of software development.
 
-In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now evenoutside of software development.
+
+In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now - even [outside of software development](https://blog.taiga.io/agile_as_management_tool_for_non_IT.html "See the post 'Agile as management tool for non IT'").
 
 ![One-man band](/images/2015-06-23_devops_in_an_agile_setup/one_man_band.jpg "One-man band")
 <small>Photo by [Andrew Malone](https://www.flickr.com/photos/andrewmalone/5163238038 "'One man band' by Andrew Malone, on Flickr"){target="_blank"}</small>
