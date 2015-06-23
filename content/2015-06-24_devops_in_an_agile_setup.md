@@ -1,15 +1,14 @@
 Title: DevOps in an Agile setup
-Date: 2015-06-23 10:01
-Status: Draft
+Date: 2015-06-24 10:01
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![One-man band](/images/2015-06-23_devops_in_an_agile_setup/one_man_band.jpg "One-man band") In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now - even outside of software development.
+Summary: ![One-man band](/images/2015-06-24_devops_in_an_agile_setup/one_man_band.jpg "One-man band") In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now - even outside of software development.
 
 
 In recent years, agile went from experimental new technique for project management to a mainstream project management philosophy. Almost everyone is doing Agile now - even [outside of software development](https://blog.taiga.io/agile_as_management_tool_for_non_IT.html "See the post 'Agile as management tool for non IT'").
 
-![One-man band](/images/2015-06-23_devops_in_an_agile_setup/one_man_band.jpg "One-man band")
+![One-man band](/images/2015-06-24_devops_in_an_agile_setup/one_man_band.jpg "One-man band")
 <small>Photo by [Andrew Malone](https://www.flickr.com/photos/andrewmalone/5163238038 "'One man band' by Andrew Malone, on Flickr"){target="_blank"}</small>
 
 ###  What is DevOps
@@ -18,7 +17,7 @@ One of the most compelling reasons of using Agile over other methodologies is th
 
 Often the done criteria of a sprint corresponds to working functionalities but actually taking the software to the client involves far more steps, done mostly by the operations & support teams, that too at a very different pace than the development teams. Typical scenario looks like -
 
-![Workflow without DevOps](/images/2015-06-23_devops_in_an_agile_setup/without_devops.jpg "Workflow without DevOps"){style="width: 600px;"}
+![Workflow without DevOps](/images/2015-06-24_devops_in_an_agile_setup/without_devops.jpg "Workflow without DevOps"){style="width: 600px;"}
 
 Now, even if you had working code at the end of sprint 1, it doesn’t really matter till the end of sprint 2, when the operations team actually deploys or releases the software to the customer. Any issues while deployment can delay the release even further. You can see this as two cogs of the system ­ stopping one of them brings the whole system to a halt.
 
@@ -26,7 +25,7 @@ If these cogs belong to the same system ­ why not make them one! That is the th
 
 Lets see how a DevOps enabled team should generally look like -
 
-![Workflow with DevOps](/images/2015-06-23_devops_in_an_agile_setup/with_devops.jpg "Workflow with DevOps"){style="width: 600px;"}
+![Workflow with DevOps](/images/2015-06-24_devops_in_an_agile_setup/with_devops.jpg "Workflow with DevOps"){style="width: 600px;"}
 
 ### DevOps in Agile
 
