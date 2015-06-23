@@ -1,5 +1,5 @@
 Title: 6 excellent continuous integration tools
-Date: 2015-06-23 10:01
+Date: 2015-06-29 10:01
 Status: Draft
 Category: General
 Author: Nitish Tiwari
