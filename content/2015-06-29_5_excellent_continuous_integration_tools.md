@@ -1,4 +1,4 @@
-Title: 5 excellent continuous integration tools
+Title: 6 excellent continuous integration tools
 Date: 2015-06-23 10:01
 Status: Draft
 Category: General
@@ -7,7 +7,7 @@ Email: tiwari.nitish@gmail.com
 Summary: ![Noria by Siyan Ren](/images/2015-06-29_5_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren") Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong.
 
 
-Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong. In this post, lets look at 5 open source CI server tools, that you can use in your agile setup.
+Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong. In this post, lets look at 6 open source CI server tools, that you can use in your agile setup.
 
 ![Noria by Siyan Ren](/images/2015-06-29_5_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren")
 <small> Photo by [Siyan Ren](https://unsplash.com/ramblere "Siyan Ren's profile at Unspkash.com"){target="_blank"}</small>
@@ -43,6 +43,27 @@ License
 
 Source code
 :   [https://github.com/buildbot/buildbot](https://github.com/buildbot/buildbot "Go to Buildbot source code"){target="_blank"}
+
+### Travis CI
+
+Travis CI is probably one of the most easiest CI servers to get started with. Apart from being open source and free to host on
+your own infrastructure, Travis CI offers a SaaS version that allows free testing for open source projects. Set up is as easy
+as linking your GitHub account, giving the relevant permissions and updating the .travis.yaml file with your project specific
+requirements. A new Travis CI build is triggered after a file is committed to GitHub. Read more
+[here](http://docs.travis-ci.com/user/for-beginners "See Travis CI documentation"){target="_blank"}. 
+
+*Fun fact: we at Taiga use Travis CI.
+
+![Travis CI](/images/2015-06-29_5_excellent_continuous_integration_tools/travis_ci_logo.png "Travis CI logo"){style="height: 84px; float:right;"}
+
+Product page
+:   [https://travis-ci.org/](https://travis-ci.org/ "See Travis CI web page"){target="_blank"}
+
+License
+:   [MIT License](http://opensource.org/licenses/MIT "Read MIT License"){target="_blank"}
+
+Source code
+:   [https://github.com/travis-ci](https://github.com/travis-ci "Go to Travis CI source code"){target="_blank"}
 
 
 ### Strider-cd
