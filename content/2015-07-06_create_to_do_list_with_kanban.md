@@ -1,6 +1,5 @@
 Title: Create to-do lists that actually get done
 Date: 2015-07-06 10:01
-Status: Draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
