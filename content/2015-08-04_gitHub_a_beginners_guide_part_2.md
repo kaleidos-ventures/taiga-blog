@@ -3,10 +3,10 @@ Date: 2015-08-04 09:52
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: !['The Github Kegerator' by Tim Lucas](images/2015-08-04_gitHub_a_beginners_guide_part_2/octobeer.jpg "'The Github Kegerator' by Tim Lucas") This is the second post in the series on GitHub: A beginner’s guide. In the previous post we learnt about Git basics and some of its most important commands. Now, we will take a look at steps to create your own repo on a Linux box (with the master on GitHub). I assume you already have your GitHub account and a repo created. If not, you can do that using the steps mentioned here. Note that if you are on Mac or Windows machines, GitHub has desktop applications for both. After you download the desktop application, you can push code to your repo using the steps mentioned here. But if you are on a Linux box, you will need to install Git and then configure it to use your GitHub repo.
+Summary: !['The Github Kegerator' by Tim Lucas]({filename}/images/2015-08-04_gitHub_a_beginners_guide_part_2/octobeer.jpg "'The Github Kegerator' by Tim Lucas") This is the second post in the series on GitHub: A beginner’s guide. In the previous post we learnt about Git basics and some of its most important commands. Now, we will take a look at steps to create your own repo on a Linux box (with the master on GitHub). I assume you already have your GitHub account and a repo created. If not, you can do that using the steps mentioned here. Note that if you are on Mac or Windows machines, GitHub has desktop applications for both. After you download the desktop application, you can push code to your repo using the steps mentioned here. But if you are on a Linux box, you will need to install Git and then configure it to use your GitHub repo.
 
 
-!['The Github Kegerator' by Tim Lucas](images/2015-08-04_gitHub_a_beginners_guide_part_2/octobeer.jpg "'The Github Kegerator' by Tim Lucas")
+!['The Github Kegerator' by Tim Lucas]({filename}/images/2015-08-04_gitHub_a_beginners_guide_part_2/octobeer.jpg "'The Github Kegerator' by Tim Lucas")
 <small>Photho by [Tim Lucas](https://www.flickr.com/photos/toolmantim/ "Tim Lucas profile at Flickr"){target="_blank"} ([CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/ "Creative Commons - Attribution 2.0 Generic (CC BY 2.0)"){target="_blank"})</small>
 
 This is the second post in the series on GitHub: A beginner’s guide. In the [previous post](/github-a-beginners-guide-part-i.html "See 'GitHub: A beginner's guide, Part I'") we learnt about Git basics and some of its most important commands. Now, we will take a look at steps to create your own repo on a Linux box (with the master on GitHub). I assume you already have your GitHub account and a repo created. If not, you can do that using the steps mentioned [here](https://help.github.com/articles/create-a-repo/ "Create a repo in GitHub"){target="_blank"}. Note that if you are on Mac or Windows machines, GitHub has a [desktop application](https://desktop.github.com/ "GitHub desktop"){target="_blank"} for both. After you download the desktop application, you can push code to your repo using the steps mentioned [here](https://guides.github.com/introduction/getting-your-project-on-github/#desktop "Getting started with GitHub Desktop"){target="_blank"}. But if you are on a Linux box, you will need to install Git and then configure it to use your GitHub repo.
@@ -45,8 +45,8 @@ git push origin master
 ```
 Here is how this looks
 
-![Local repository example](images/2015-08-04_gitHub_a_beginners_guide_part_2/LocalRepo.png)
+![Local repository example]({filename}/images/2015-08-04_gitHub_a_beginners_guide_part_2/LocalRepo.png)
 <small>Local repository example</small>
   
-![Github repository example](images/2015-08-04_gitHub_a_beginners_guide_part_2/GitHubRepo.png)
+![Github repository example]({filename}/images/2015-08-04_gitHub_a_beginners_guide_part_2/GitHubRepo.png)
 <small>Github repository example</small>

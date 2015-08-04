@@ -3,11 +3,11 @@ Date: 2015-05-13 10:07
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Free for commercial use / No attribution required](/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg) Let me confess - I am a newbie to the world of Agile. During 5 years of my career as a software developer, most of the time, I have followed the more traditional software development methodologies like waterfall and incremental development. It was recently that I joined a new project with dev teams in multiple locations - and they followed Agile. It’s been five months now, and I thought it is the right time to share whatever I learnt in these 5 months.
+Summary: ![Free for commercial use / No attribution required]({filename}/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg) Let me confess - I am a newbie to the world of Agile. During 5 years of my career as a software developer, most of the time, I have followed the more traditional software development methodologies like waterfall and incremental development. It was recently that I joined a new project with dev teams in multiple locations - and they followed Agile. It’s been five months now, and I thought it is the right time to share whatever I learnt in these 5 months.
 
 Let me confess - I am a newbie to the world of Agile. During 5 years of my career as a software developer, most of the time, I have followed the more traditional software development methodologies like waterfall and incremental development. It was recently that I joined a new project with dev teams in multiple locations - and they followed Agile. It’s been five months now, and I thought it is the right time to share whatever I learnt in these 5 months.
 
-![Free for commercial use / No attribution required](/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg)
+![Free for commercial use / No attribution required]({filename}/images/2015-05-13_4_things_learnt_5_months_agile/01.jpg)
 
 1. **Agile jargon is not that tough** The first thing I was worried about, after learning that I need to work in Agile setup, was the learning curve. Not only I needed to adapt to the working culture, but also get acquainted with the jargon the team would throw at me. With heavy heart, I started online research to learn the terminologies. But to my surprise, there are only a few purely technical terms that you really need to learn, others can be understood if you apply common sense. So, it isn’t really tough to get acquainted and start using these terms in your daily affairs. We have collected all the terms and [listed them here](https://blog.taiga.io/agile-terms-you-must-know.html "See the post 'Agile terms you must know'"){target="_blank"}.
 

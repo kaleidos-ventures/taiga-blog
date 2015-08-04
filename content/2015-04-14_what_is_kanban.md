@@ -3,11 +3,11 @@ Date: 2015-04-14 12:18
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Photo by JD Hancock](/images/2015-04-14_what_is_kanban/01.jpg) There has been a lot of talk about Kanban recently. Many software development organizations have picked up Kanban based approach to speed up their growth. There are several great Kanban specific tools available for personal and professional use, e.g. Trello, Taiga, and even Visual Studio by Microsoft. So, what makes Kanban such a great way to manage software development - and why should you give it a thought.
+Summary: ![Photo by JD Hancock]({filename}/images/2015-04-14_what_is_kanban/01.jpg) There has been a lot of talk about Kanban recently. Many software development organizations have picked up Kanban based approach to speed up their growth. There are several great Kanban specific tools available for personal and professional use, e.g. Trello, Taiga, and even Visual Studio by Microsoft. So, what makes Kanban such a great way to manage software development - and why should you give it a thought.
 
 There has been a lot of talk about Kanban recently. Many software development organizations have picked up Kanban based approach to speed up their growth. There are several great Kanban specific tools available for personal and professional use, e.g. [Trello](https://trello.com/), [Taiga](https://taiga.io/), and even [Visual Studio](https://msdn.microsoft.com/en-us/library/jj838789.aspx) by Microsoft. So, what makes Kanban such a great way to manage software development - and why should you give it a thought. We will see it all in this blog post.
 
-![Photo by JD Hancock](/images/2015-04-14_what_is_kanban/01.jpg)
+![Photo by JD Hancock]({filename}/images/2015-04-14_what_is_kanban/01.jpg)
 <small>Photo by [JD Hancock](https://www.flickr.com/photos/jdhancock/8671399450/in/photostream/)</small>
 
 Lets start with the official definition of Kanban. Wikipedia says
@@ -30,7 +30,7 @@ Here are few important reasons why you should consider Kanban :
 
 4. **Dynamic status**: If updated regularly, Kanban is very handy in giving you a clear cut picture of the overall project status - no scrolling through huge excel sheets or trying to find the meaning of a complex graph! Just a glance and you already know what’s wrong with the project.
 
-![Taiga's Kanban'](/images/2015-04-14_what_is_kanban/kanban.png)
+![Taiga's Kanban']({filename}/images/2015-04-14_what_is_kanban/kanban.png)
 <small>Taiga's kanban</small>
 
 ### Get started with Kanban on Taiga

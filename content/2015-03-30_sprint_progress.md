@@ -3,14 +3,14 @@ Date: 2015-03-30 07:18
 Category: General
 Author: Antonio de la Torre
 Email: antonio.delatorre@kaleidos.net
-Summary: ![Sprint progress graph](/images/2015-03-30_sprint_progress_question/sprint_progress_graph.png) Taiga users are using the [support forums](https://groups.google.com/forum/#!forum/taigaio "Go to Taiga mailing list"){:target="_blank"} to raise interesting questions and debate about the use of the tool and whether their philosophy and the objectives of the tool coincide. Here’s an example about sprint progress:
+Summary: ![Sprint progress graph]({filename}/images/2015-03-30_sprint_progress_question/sprint_progress_graph.png) Taiga users are using the [support forums](https://groups.google.com/forum/#!forum/taigaio "Go to Taiga mailing list"){:target="_blank"} to raise interesting questions and debate about the use of the tool and whether their philosophy and the objectives of the tool coincide. Here’s an example about sprint progress:
 
 
 Taiga users are using the [support forums](https://groups.google.com/forum/#!forum/taigaio "Go to Taiga mailing list"){:target="_blank"} to raise interesting questions and debate about the use of the tool and whether their philosophy and the objectives of the tool coincide.
 
 Here’s an example about sprint progress:
 
-![Sprint progress graph](/images/2015-03-30_sprint_progress_question/sprint_progress_graph.png)
+![Sprint progress graph]({filename}/images/2015-03-30_sprint_progress_question/sprint_progress_graph.png)
 
 > “The current graphic (Taiga’s Sprint Burndown Chart) is not valid for us because “burnt” points appear only when all the tasks in a given user story are closed, which means that during the first week of a sprint we get the impression that we haven’t advanced even though we are closing tasks inside various user stories.
 >

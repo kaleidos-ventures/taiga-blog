@@ -3,11 +3,11 @@ Date: 2015-04-28 12:18
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Photo by David Elfanbaum](/images/2015-04-29_4steps-to-get-started-with-agile/4steps-agile.jpg) Lean is a buzzword these days. Every organization wants to be lean, to be able to do more and better things, with fewer resources. They also want to be agile - in a sense of quicker turnaround time and faster solutions, the key attribute of Agile methodology.
+Summary: ![Photo by David Elfanbaum]({filename}/images/2015-04-29_4steps-to-get-started-with-agile/4steps-agile.jpg) Lean is a buzzword these days. Every organization wants to be lean, to be able to do more and better things, with fewer resources. They also want to be agile - in a sense of quicker turnaround time and faster solutions, the key attribute of Agile methodology.
 
 Lean is a buzzword these days. Every organization wants to be lean, to be able to do more and better things, with fewer resources. They also want to be agile - in a sense of quicker turnaround time and faster solutions, the key attribute of Agile methodology. We at [Taiga](http://www.taiga.io), are crazy about everything Agile. We thought it is a good time to help organizations, get started with Agile, and hence this post.
 
-![Photo by David Elfanbaum](/images/2015-04-29_4steps-to-get-started-with-agile/4steps-agile.jpg)
+![Photo by David Elfanbaum]({filename}/images/2015-04-29_4steps-to-get-started-with-agile/4steps-agile.jpg)
 <small>Photo by [David Elfanbaum](https://flic.kr/p/6dqbZi){:target="_blank"}</small>
 
 Most of the people (not aware of Agile methodology) think of it a complex system of hard to follow rules. This is not completely true - it is quite easy to get started. In this post we will see just that. Not that after following these steps you will have a complete Agile organization, but as they say - its never too late to take the first step in the right direction! You can of course then move forward towards building a completely agile organization.

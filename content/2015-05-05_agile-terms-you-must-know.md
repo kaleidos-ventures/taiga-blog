@@ -3,10 +3,10 @@ Date: 2015-05-05 09:07
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Photo by Eric Lefevre-Ardant](/images/2015-05-05_agile-terms-you-must-know/scrum_game.jpg "Photo by Eric Lefevre-Ardant") In our continuous quest to engage more organizations and product managers towards greater efficiency and productivity - we have created this list of Agile related jargon that you may face during your mundane activities. If you are new to Agile, or still thinking about moving to Agile methodology, this is your resource to get all the terms right.
+Summary: ![Photo by Eric Lefevre-Ardant]({filename}/images/2015-05-05_agile-terms-you-must-know/scrum_game.jpg "Photo by Eric Lefevre-Ardant") In our continuous quest to engage more organizations and product managers towards greater efficiency and productivity - we have created this list of Agile related jargon that you may face during your mundane activities. If you are new to Agile, or still thinking about moving to Agile methodology, this is your resource to get all the terms right.
 
 
-![Photo by Eric Lefevre-Ardant](/images/2015-05-05_agile-terms-you-must-know/scrum_game.jpg "Photo by Eric Lefevre-Ardant")
+![Photo by Eric Lefevre-Ardant]({filename}/images/2015-05-05_agile-terms-you-must-know/scrum_game.jpg "Photo by Eric Lefevre-Ardant")
 <small>Photo by [Eric Lefevre-Ardant](https://www.flickr.com/photos/elefevre/3080139681 "See Eric's photo"){:target="_blank"}</small>
 
 In our continuous quest to engage more organizations and product managers towards greater efficiency and productivity - we have created this list of Agile related jargon that you may face during your mundane activities. If you are new to Agile, or still thinking about moving to Agile methodology, this is your resource to get all the terms right.

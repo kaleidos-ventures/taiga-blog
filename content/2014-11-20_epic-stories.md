@@ -3,7 +3,7 @@ Date: 2014-11-20 10:17
 Category: General
 Author: Antonio de la Torre
 Email: antonio.delatorre@kaleidos.net
-Summary: ![EPIC Stories](/images/2014-11-20_epic-stories/epic_stories.png){: style="width:100%" } Last week we had an interesting email exchange amongst the team at [Taiga.io](https://taiga.io "Taiga.io"). It went like this: The question was a recurring one amongst users of our platform. *What is an epic story?*
+Summary: ![EPIC Stories]({filename}/images/2014-11-20_epic-stories/epic_stories.png){: style="width:100%" } Last week we had an interesting email exchange amongst the team at [Taiga.io](https://taiga.io "Taiga.io"). It went like this: The question was a recurring one amongst users of our platform. *What is an epic story?*
 
 ![EPIC Stories]({filename}/images/2014-11-20_epic-stories/epic_stories.png){: style="width:100%" }
 <small> _Photo Credit: [Kulawat Wongsaroj][photo-author] from the post [Visualizing the Big Picture of your Agile

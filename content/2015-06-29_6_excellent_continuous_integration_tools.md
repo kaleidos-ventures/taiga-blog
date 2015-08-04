@@ -3,12 +3,12 @@ Date: 2015-06-29 10:01
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Noria by Siyan Ren](/images/2015-06-29_6_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren") Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong.
+Summary: ![Noria by Siyan Ren]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren") Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong.
 
 
 Continuous integration is an integral part of an agile setup. Sprint after sprint teams strive to “not break the build” while delivering incremental features. But, while developers focus completely on adding features, it happens sometimes that code errors creep in and render the software unusable. To stop such errors from being integrated to the SCM, a CI server is the gatekeeper that helps keep a tab on code quality. Even if the code is integrated to SCM, a CI server can very quickly tell you what went wrong. In this post, lets look at 6 open source CI server tools, that you can use in your agile setup.
 
-![Noria by Siyan Ren](/images/2015-06-29_6_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren")
+![Noria by Siyan Ren]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/noria_by_siyan_ren.jpg "Noria by Siyan Ren")
 <small> Photo by [Siyan Ren](https://unsplash.com/ramblere "Siyan Ren's profile at Unspkash.com"){target="_blank"}</small>
 
 
@@ -16,7 +16,7 @@ Continuous integration is an integral part of an agile setup. Sprint after sprin
 
 The best known among the CI servers, Jenkins branched from Hudson. It is developed in Java and can be easily installed using “java -jar jenkins.war”. You can also deploy it in servlet containers. Jenkins supports an array of SCM tools - Git, Mercurial, Subversion, Clearcase and many more. You can build Apache Ant, Apache Maven based projects and other shell scripts or windows batch files for pre/post build activities.
 
-![JenkinsCI](/images/2015-06-29_6_excellent_continuous_integration_tools/jenkins_logo.jpg "JenkinsCI logo"){style="height: 84px; float:right;"}
+![JenkinsCI]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/jenkins_logo.jpg "JenkinsCI logo"){style="height: 84px; float:right;"}
 
 Product page
 :   [http://jenkins-ci.org/](http://jenkins-ci.org/ "See JenkinsCI web page"){target="_blank"}
@@ -32,7 +32,7 @@ Source code
 
 Developed in Python, it is based on Twisted framework. It started as an alternative to the Tinderbox project, and is now used at projects like Mozilla, Webkit, Chromium etc. Buildbot installation has one or more masters and a collection of slaves. The masters monitor source-code repositories for changes, coordinate the activities of the slaves, and report results to users and developers. Slaves run on a variety of operating systems. You can configure Buildbot by providing a Python configuration script to the master. This script can be very simple, configuring built-in components, but full python power is available.
 
-![Buildbot](/images/2015-06-29_6_excellent_continuous_integration_tools/buildbot_logo.png "Buildbot logo"){style="height: 84px; float:right;"}
+![Buildbot]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/buildbot_logo.png "Buildbot logo"){style="height: 84px; float:right;"}
 
 Product page
 :   [http://buildbot.net/](http://buildbot.net/ "See Buildbot web page"){target="_blank"}
@@ -53,7 +53,7 @@ requirements. A new Travis CI build is triggered after a file is committed to Gi
 
 *Fun fact: we at Taiga use Travis CI.
 
-![Travis CI](/images/2015-06-29_6_excellent_continuous_integration_tools/travis_ci_logo.png "Travis CI logo"){style="height: 84px; float:right;"}
+![Travis CI]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/travis_ci_logo.png "Travis CI logo"){style="height: 84px; float:right;"}
 
 Product page
 :   [https://travis-ci.org/](https://travis-ci.org/ "See Travis CI web page"){target="_blank"}
@@ -69,7 +69,7 @@ Source code
 
 Strider is written in Node.JS / JavaScript and uses MongoDB as a backing store. MongoDB and Node.js are prerequisites for installing Strider. Finally you can install it using “npm install”. Though, extremely customizable through plugins, Strider may need you to put your hands in code - not a bad thing to do, but if you would like a more quick setup without much programming effort, you should probably look at other options.
 
-![Strider-cd](/images/2015-06-29_6_excellent_continuous_integration_tools/stridercd_logo.png "Strider-cd logo"){style="height: 84px; float:right;"}
+![Strider-cd]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/stridercd_logo.png "Strider-cd logo"){style="height: 84px; float:right;"}
 
 Product page
 :   [http://stridercd.com/](http://stridercd.com/ "See Strider-cd web page"){target="_blank"}
@@ -85,7 +85,7 @@ Source code
 
 As with other advanced CI servers, GoCD lets you distribute your builds across different systems and monitor them at one place. Activities that you regularly perform can be added as pipelines in GoCD and then instances of these activities are called as jobs. GoCD comes with an easy to use GUI and a detailed [documentation](http://www.go.cd/documentation/user/current/index.html "See GoCD documentation"){target="_blank"}. GoCD was created and then open sourced by ThoughtWorks.
 
-![GoCD](/images/2015-06-29_6_excellent_continuous_integration_tools/go_logo.png "GoCD logo"){style="height: 84px; float:right;"}
+![GoCD]({filename}/images/2015-06-29_6_excellent_continuous_integration_tools/go_logo.png "GoCD logo"){style="height: 84px; float:right;"}
 
 Product page
 :   [http://www.go.cd/](http://www.go.cd/ "See GoCD web page"){target="_blank"}
