@@ -19,8 +19,8 @@ sudo apt-get install git
 ```
 **2.** Configure git with your GitHub details.
 ```
-git config --global user.name "user_name"
-git config --global user.email "email_id"
+git config --global user.name "username"
+git config --global user.email "email@domain.com"
 ```
 **3.** Create local repo: Suppose you have your source code available in the path *~/my_awesome_project* (if you are yet to write the source code, just create the folder *my_awesome_project* for now). Go to your home folder and type ­
 ```
@@ -33,7 +33,7 @@ git add sample_another.c
 ```
 **5.** Commit the changes: Now that files are added to git, you need to commit them. This saves the state of the file in git, and you can revert to this state at any point in time later.
 ```
-git commit ­m "some_message"
+git commit -m "some message"
 ```
 **6.** Pushing local files to GitHub repo: If you noticed, we have till now not contacted GitHub. All the changes & commits were done locally, to make sure these changes are pushed to the server, you need to use the push command. But before that, you need to set the path of your remote repo. You can find the path in GitHub repo page. It should look something like *https://github.com/User_Name/Repo_Name.git*. Add the path using
 ```
