@@ -1,0 +1,21 @@
+Title: Manage your remote team well with these 4 simple tips
+Status: Draft
+Date: 2015-08-25 09:52
+Category: General
+Author: Nitish Tiwari
+Email: tiwari.nitish@gmail.com
+Summary: ![Working outside]({filename}/images/2015-08-25_manage_your_remote_team_well_with_these_4_simple_tips/laptop-notebook-working-outside.jpg "Working outside") Remote working is one of the biggest advantages of this cloud era - facilitated by cloud based infrastructure and the high internet penetration, more and more people are opting to working remotely. Rightly so, as an employee you get to see your family more, get to work in  an environment you create yourself, 100% cut on office travel time and expenses - the list is long. Remote work has advantages for employers too - no real estate costs, no hardware, infrastructure costs and increased employee productivity!
+
+![Working outside]({filename}/images/2015-08-25_manage_your_remote_team_well_with_these_4_simple_tips/laptop-notebook-working-outside.jpg "Working outside")
+<small>Photo by [Dave Meier](http://picography.co/photos/working-outside/ "'Working outside' photo")</small>
+
+Remote working is one of the biggest advantages of this cloud era - facilitated by cloud based infrastructure and the high internet penetration, more and more people are opting to working remotely. Rightly so, as an employee you get to see your family more, get to work in  an environment you create yourself, 100% cut on office travel time and expenses - the list is long. Remote work has advantages for employers too - no real estate costs, no hardware, infrastructure costs and increased employee productivity! What else can someone ask for, this is a win win situation for both parties. Not always though, remote working may look as a very lucrative model at first, but a certain degree of preparation is necessary to make it work well. Lets look at these 4 tips that will make sure your project doesn’t suffer if you have remote workers in your team.
+
+
+1. Build mutual trust: A traditional office means you get to see your team members every single day, and you know that they will be around when you need them professionally. A remote worker on the other hand is not visible (at least physically), so it is very important to build mutual trust with them, especially when you are new to each other. Quick mail/call responses, sticking to deadlines, and other general stuff communicated well, makes sure that the remote worker gains trust on you and your leadership. The remote worker reciprocating is a good sign, and helps build mutual trust.
+
+2. Over communicate: This is one area that can’t be stressed enough. General stuff that people just over hear in office can snowball to a big communication gap - if you have remote workers. So, make sure that you communicate the tasks and priorities well to your team, and make sure that even the slightest change is also communicated with same level of alertness.
+
+3. Collaborate via tools, not email: Emails can very quickly turn convoluted and messy. They are [not designed to manage information](/4-reasons-you-shouldnt-fall-back-to-emails-for-project-management.html "See '4 reasons you shouldn’t fall back to emails for project management'"), rather just convey it. So, you need to invest in a good cloud based project management software and make sure to update it regularly, so that all the information related to tasks and their assignees is readily available at one place. Another great way to manage tasks in a distributed environment is [Kanban](/what-is-kanban.html "See 'What is a kanban?'") based tools. Take a look at [Taiga](https://taiga.io "Go to Taiga.io") - the exceptionally well designed PM tool.
+
+4. Understand the culture differences: What may seem to be trivial within people of same ethnicity or culture, may be a big deal for your team member from another country. Typical example is the way to treat supervisors - few cultures treat them as equals, while others treat them with huge respect and consider them to be generally unquestionable. So, it is a good idea to understand the do’s and dont’s of the culture your remote worker is from. Not only will this help you understand and even predict their behaviour - but also understand their perspective and way of working.
