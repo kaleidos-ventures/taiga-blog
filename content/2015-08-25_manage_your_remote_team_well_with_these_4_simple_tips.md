@@ -1,5 +1,4 @@
 Title: Manage your remote team well with these 4 simple tips
-Status: Draft
 Date: 2015-08-25 09:52
 Category: General
 Author: Nitish Tiwari
