@@ -1,7 +1,6 @@
 Title: Personal Kanban using Taiga
 Date: 2015-09-15 09:52
 Category: General
-Status: Draft
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
 Summary: !['Grey Felt Journal TO DO LIST on a white desk' by Karolina Grabowska]({filename}/images/2015-09-15_personal_kanban_using_taiga/desk-notebook-office-grey.jpg) One of the best productivity hacks is to always keep a to-do list handy. This helps you keep a track of what needs to be done and what is accomplished. As it may sound very simple, almost all of us have struggled while trying to keep a to-do list updated and keeping ourselves on track to follow the list. We either get too busy and forget to update the list itself or take it too casually to stay on course and finish the tasks on the list. Either way, this is a failure. So, what is the solution?
