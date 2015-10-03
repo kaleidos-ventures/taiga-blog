@@ -4,13 +4,13 @@ Status: Draft
 Category: General
 Author: Antonio de la Torre
 Email: antonio.delatorre@kaleidos.net
-Summary:![Sweet Pirates (by Raúl Hernández González)]({filename}/images/2015-10-05_dread_pirate_roberts_our_QA_role/sweet_pirate-raul_hernandez_gonzalez.jpg) How do you guarantee your QA? How do you currently perform this role in your team? Today we have an interesting and motivating agile practice… Very successful for our teams... Read this one carefully!
+Summary:![Dread Pirate Roberts (frame of the movie "The Princess Bride")]({filename}/images/2015-10-05_dread_pirate_roberts_our_QA_role/dread-pirate-roberts.png) How do you guarantee your QA? How do you currently perform this role in your team? Today we have an interesting and motivating agile practice… Very successful for our teams... Read this one carefully!
 
 Today we have an interesting and motivating agile practice… Very successful for our teams... Read this one carefully!
 
-![Sweet Pirates (by Raúl Hernández González)]({filename}/images/2015-10-05_dread_pirate_roberts_our_QA_role/sweet_pirate-raul_hernandez_gonzalez.jpg)
+![Dread Pirate Roberts (frame of the movie "The Princess Bride")]({filename}/images/2015-10-05_dread_pirate_roberts_our_QA_role/dread-pirate-roberts.png)
 
-<small>[Sweet Pirates](https://www.flickr.com/photos/rahego/5415828130/ "'Sweet Pirate' in Flickr"){target="_blank"} (by [Raúl Hernández González](https://www.flickr.com/photos/rahego/ "Raul's profile in Flickr"){target="_blank"})</small>
+<small>Dread Pirate Roberts (frame of the movie *"[The Princess Bride](http://princessbrideforever.com/ "'The Princess Bride' Site")"*)</small>
 
 
 ## The situation
