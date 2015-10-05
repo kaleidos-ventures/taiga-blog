@@ -1,6 +1,5 @@
 Title: Dread Pirate Roberts, our QA role
 Date: 2015-10-05 09:17
-Status: Draft
 Category: General
 Author: Antonio de la Torre
 Email: antonio.delatorre@kaleidos.net
