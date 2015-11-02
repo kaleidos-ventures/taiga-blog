@@ -8,7 +8,7 @@
     }
     .title {
         @extend %light;
-        @extend %xxlarge;
+        @extend %larger;
         margin-bottom: 0;
         text-align: center;
         a {
