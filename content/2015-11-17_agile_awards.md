@@ -5,7 +5,7 @@ Author: Taiga Team
 Email: support@taiga.io
 Summary: ![Taiga&Kaleidos Team with superpowers]({filename}/images/2015-11-17_agile_awards/01.jpg) I am writing this post at 39.000 feet on my way back from London to Madrid. Yesterday was a great day for Taiga but most importantly, we had so much fun! So there is this thing called [Agile Awards in the UK](https://www.theagileportal.com/awards/nominations){target="_blank"}. It has been going on for 7-8 years now and the different categories acknowledge various aspects of the Agile movement. Projects, people, initiatives... and for the first time this year, they added the Best Agile Tool award.
 
-I am writing this post at 10.000 feet on my way back from London to Madrid. Yesterday was a great day for Taiga but most importantly, we had so much fun! So there is this thing called Agile Awards in the UK. It has been going on for 7-8 years now and the different categories acknowledge various aspects of the Agile movement. Projects, people, initiatives... and for the first time this year, they added the Best Agile Tool award.
+I am writing this post at 39.000 feet on my way back from London to Madrid. Yesterday was a great day for Taiga but most importantly, we had so much fun! So there is this thing called Agile Awards in the UK. It has been going on for 7-8 years now and the different categories acknowledge various aspects of the Agile movement. Projects, people, initiatives... and for the first time this year, they added the Best Agile Tool award.
 
 ![Taiga&Kaleidos Team with superpowers]({filename}/images/2015-11-17_agile_awards/01.jpg)
 
