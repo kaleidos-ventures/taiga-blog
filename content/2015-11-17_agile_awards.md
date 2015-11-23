@@ -1,4 +1,4 @@
-Title: You made us win the best agile tool 2015 award
+Title: You helped us win the best agile tool 2015 award
 Date: 2015-11-17 10:00
 Category: Announcements
 Author: Pablo Ruiz-Múzquiz
