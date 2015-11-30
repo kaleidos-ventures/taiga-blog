@@ -1,6 +1,5 @@
 Title: Priority and severity: What’s the difference?
 Date: 2015-11-30 09:53
-Status: Draft
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
