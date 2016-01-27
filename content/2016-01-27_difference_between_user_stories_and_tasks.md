@@ -10,6 +10,7 @@ Though they sound similar in a functional manner, user stories and tasks are qui
 Let’s be clear - the difference that user stories go to the product backlog and tasks go to sprint backlog after sprint planning is not valid. It doesn’t explain the difference but just tell what goes where. We are looking to understand the exact meaning and the proper application of the terms. So, let’s start with the definitions.
 
 !['Matrioskes' by Miquel Bohigas Costabella]({filename}/images/2016-01-27_difference_between_user_stories_and_tasks/matrioskes.jpg)
+<small>'Matrioskes', photo by [Miquel Bohigas Costabella](https://www.flickr.com/photos/desdibuix/ "See Miquel Bohigas Costabella's profile"){target="_blank"}</small>
 
 ## User Story
 
