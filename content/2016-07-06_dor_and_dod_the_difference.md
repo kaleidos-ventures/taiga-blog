@@ -9,7 +9,7 @@ Summary: !['Athletic', made with love by Ryan McGuier (CC-0)]({filename}/images/
 Projects, software or otherwise suffer from the common problem of miscommunication. While the client expects something else, the product owner has a different understanding. Then there are developers who at times have different understanding of work to be done. With Agile, many of such concerns are addressed, thanks to daily standups and clear goals set before a sprint. Still there are some areas that are generally looked upon during the beginning of the project and are only relevant when sprints approach completion. One of those is the clear difference between _done criteria_ and the _ready criteria_. Generally people use these terms interchangeably causing avoidable confusion. In this post, I will try to clear the air on the **definition of done** and the **definition of ready**.
 
 !['Athletic', made with love by Ryan McGuier (CC-0)]({filename}/images/2016-07-06_dor_and_dod_the_difference/athletic.jpg "'Athletic', made with love by Ryan McGuier (CC-0)")
-<small>'Athletic', made with love by <a href="http://www.gratisography.com/" title="Gratisography by Ryan McGuier">Ryan McGuier</a> (<a href="http://www.gratisography.com/terms.html" title="CC-0 - Terms of use">CC-0</a>)</small>
+<small>'Athletic', made with love by <a href="http://www.laughandpee.com/" title="Ryan McGuier">Ryan McGuier</a> (<a href="http://www.gratisography.com/terms.html" title="CC-0 - Terms of use">CC-0</a>)</small>
 
 
 ### Done criteria
