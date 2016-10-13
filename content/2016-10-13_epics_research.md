@@ -29,7 +29,7 @@ We knew that these tricks didn’t really solve the issue, and that we’d have 
 
 As you can imagine, this is a big challenge: adding a feature that’s critical for many customers, and making it flexible and adaptable for any workflow (this is particularly important, since there’s no official literature about epics and each team solves them in their own personal way).
 
-Epics need to solve a need, but what do teams really need? At Kaleidos we already had some feedback from our own teams and customers, but it wasn’t enough. So we did some research about how stuff is done out there, and we now want to share the results with you.
+Epics need to solve a need, but what do teams really need? At [Kaleidos](https://kaleidos.net){target="_blank"} we already had some feedback from our own teams and customers, but it wasn’t enough. So we did some research about how stuff is done out there, and we now want to share the results with you.
 
 ###Lego workshop
 In order to get familiar with the concepts, we organised a small workshop with LEGO, where we asked participants to build a workflow with epics. This workshop was an experiment, with a very limited number of attendees: a developer (JuanFran) and someone with a more strategic vision (Pablo). **The outcome was very interesting: each of them had a different concept of what an epic was.** JuanFran considered an epic as somebody else’s responsibility, completely unconnected to his daily work. Pablo saw it as something connected with many departments, that would allow him to get information from many sources.
@@ -38,7 +38,7 @@ In order to get familiar with the concepts, we organised a small workshop with L
 <small>LEGO Workshop</small>
 
 ###Survey
-The main part of our research took the form of a survey. Thanks to Toño (who was then working as a developer at Kaleidos) we got in touch with a diverse group of people on the software world. Some of them worked developing products, some of them did consultancy work, using different team management tools, at different company sizes, etc. The objective of the survey was to know more about the work process around epics, answering a few questions that would help us get a better idea of what people had in mind when they used the word ‘epic’. The questions were:
+The main part of our research took the form of a survey. Thanks to Toño (who was then working as a developer at [Kaleidos](https://kaleidos.net){target="_blank"}) we got in touch with a diverse group of people on the software world. Some of them worked developing products, some of them did consultancy work, using different team management tools, at different company sizes, etc. The objective of the survey was to know more about the work process around epics, answering a few questions that would help us get a better idea of what people had in mind when they used the word ‘epic’. The questions were:
 
 1. Should an epic live inside a sprint (along with the rest of the user stories)?
 2. What about Kanban (along with the rest of the user stories)?
@@ -51,7 +51,7 @@ The answers to these questions were presented visually. It was important to know
 
 <small>In Spanish 'Sí' means 'Yes'</small>
 
-Most people thought they shouldn’t, even when our first impression had been the exact opposite (probably because everyone at Kaleidos thought it was more “logical” that they would).
+Most people thought they shouldn’t, even when our first impression had been the exact opposite (probably because everyone at [Kaleidos](https://kaleidos.net){target="_blank"} thought it was more “logical” that they would).
 
 In addition to the answers to these questions, the reasoning behind them revealed some subtle details (did the delete epic after splitting them? if they didn’t, why did they use them? who was responsible for managing epic?…). This gave us a very rich information and a pretty complete perspective about their usage.
 
