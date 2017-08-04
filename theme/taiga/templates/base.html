@@ -75,15 +75,15 @@
         </div>
 
         <nav class="nav">
-            <h2 class="about">
+            <h3 class="about">
                 {% block content_title %}
                 {{ SITESUBTITLE }}
                 {% endblock %}
-            </h2>
+            </h3>
             {% if LINKS %}
             <ul class="nav-list">
                 <li class="nav-header">
-                    <h3>Links</h3>
+                    <h4>Links</h4>
                 </li>
 
                 {% for name, link in LINKS %}
@@ -97,7 +97,7 @@
             {% if categories %}
             <ul class="nav-list">
                 <li class="nav-header">
-                    <h3>Categories</h3>
+                    <h4>Categories</h4>
                 </li>
                 {% for cat, null in categories %}
                 <li>
@@ -110,7 +110,7 @@
             {% if SOCIAL %}
             <ul class="social">
                 <li class="nav-header">
-                    <h3>Social</h3>
+                    <h4>Social</h4>
                 </li>
 
                 {% for name, link in SOCIAL %}
@@ -123,7 +123,7 @@
 
             <ul class="social">
                 <li class="nav-header">
-                    <h3>Subscribe</h3>
+                    <h4>Subscribe</h4>
                 </li>
                 <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
                 {% if FEED_RSS %}

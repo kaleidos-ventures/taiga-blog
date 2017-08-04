@@ -11,9 +11,9 @@ All articles
     {% for article in articles_page.object_list %}
     <article class="hentry">
         <header>
-            <h1 class="entry-title">
+            <h2 class="entry-title">
                 <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-            </h1>
+            </h2>
         </header>
         <div class="entry-content">
             {{ article.summary }}
