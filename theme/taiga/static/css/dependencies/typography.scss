@@ -44,20 +44,21 @@ h1 {
 }
 
 h2 {
+    @extend %xxlarge;
+    line-height: 2.4rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+h3 {
     @extend %larger;
     @extend %light;
     margin-bottom: 1rem;
 }
 
-h3 {
-    @extend %large;
-    @extend %text;
-    margin-bottom: 1rem;
-}
-
 h4 {
     @extend %large;
-    @extend %light;
+    @extend %text;
     margin-bottom: 1rem;
 }
 

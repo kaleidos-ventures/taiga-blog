@@ -21,6 +21,19 @@
             }
         }
     }
+
+    h2 {
+        margin-bottom: 2rem;
+        a {
+            @extend %light;
+            color: $dry-taiga;
+            font-size: 2.3rem;
+            &:hover {
+                @include transition(color .3s ease-in);
+                color: $gray;
+            }
+        }
+    }
     .entry-content {
         color: $blackish;
         @extend %light;
@@ -33,13 +46,13 @@
         color: $gray-light;
         margin-bottom: .5rem;
     }
-    h2 {
+    h3 {
         @extend %large;
         @extend %text;
         margin: 3rem 0 1rem;
         text-transform: uppercase;
     }
-    h3 {
+    h4 {
         @extend %large;
         @extend %text;
         margin: 2rem 0 1rem;
