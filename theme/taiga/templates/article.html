@@ -23,13 +23,19 @@
 
 {% endblock %}
 
+{% block titleheader %}
+    <div class="title">
+        <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
+    </div>
+{% endblock %}
+
 {% block content %}
 <section id="content" class="hentry single">
     <header>
 
-        <h2 class="entry-title">
+        <h1 class="entry-title">
             <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-        </h2>
+        </h1>
         {% import 'translations.html' as translations with context %}
         {{ translations.translations_for(article) }}
     </header>

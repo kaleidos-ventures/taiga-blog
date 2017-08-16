@@ -11,6 +11,8 @@
         @extend %larger;
         margin-bottom: 0;
         text-align: center;
+        line-height: 2.4rem;
+        text-transform: uppercase;
         a {
             color: $dry-taiga;
         }
@@ -27,6 +29,8 @@
             position: relative;
         }
         .title {
+            line-height: 2.4rem;
+            text-transform: uppercase;
             a {
                 &:hover {
                     @include transition(color .3s linear);

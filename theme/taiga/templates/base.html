@@ -61,9 +61,11 @@
             <a class="logo" href="{{ SITEURL }}/">
                 <img class="logo" src="{{ SITEURL }}/theme/images/logo-color.png" alt="Taiga">
             </a>
-            <h1 class="title">
-                <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
-            </h1>
+            {% block titleheader %}
+                <h1 class="title">
+                    <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
+                </h1>
+            {% endblock %}
         </div>
     </header><!-- /#banner -->
 
