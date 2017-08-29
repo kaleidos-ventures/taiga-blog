@@ -1,16 +1,18 @@
-Title: Kanban and Scrum: When to use what
+Title: Kanban vs Scrum - How to choose?
 Date: 2016-05-10 10:00
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
-Summary: ![Matrix - Red pell scene ]({filename}/images/2016-05-10_kanban_and_scrum_when_to_use_what/matrix-red-pill.jpg) We’re always in pursuit of the best tool or technique or methodology that we think will almost magically set us on the path to be super productive, super fast and super cool people who can fix bugs in minutes if not seconds, who can estimate stuff correct upto two decimal places and who can foresee any possible upcoming roadblocks. But, till that happens, we’ll have to make use of the current tools and techniques.
+Summary: ![Matrix - Red pell scene ]({filename}/images/2016-05-10_kanban_and_scrum_when_to_use_what/matrix-red-pill.jpg) We’re always in pursuit of the best tool or technique or methodology that we think will almost magically set us on the path to be super productive, super fast and super cool people who can fix bugs in minutes if not seconds, who can estimate stuff correct upto two decimal places and who can foresee any possible upcoming roadblocks. But, till that happens, we’ll have to make use of the current tools and techniques. Kanban vs scrum, and how to choose between them, seems like the battle these days.
 
-We’re always in pursuit of the best tool or technique or methodology that we think will almost magically set us on the path to be super productive, super fast and super cool people who can fix bugs in minutes if not seconds, who can estimate stuff correct upto two decimal places and who can foresee any possible upcoming roadblocks. But, till that happens, we’ll have to make use of the current tools and techniques.
+
+We’re always in pursuit of the best tool or technique or methodology that we think will almost magically set us on the path to be super productive, super fast and super cool people who can fix bugs in minutes if not seconds, who can estimate stuff correct upto two decimal places and who can foresee any possible upcoming roadblocks. But, till that happens, we’ll have to make use of the current tools and techniques. Kanban vs scrum, and how to choose between them, seems like the battle these days.
+
 
 ![Matrix - Red pell scene ]({filename}/images/2016-05-10_kanban_and_scrum_when_to_use_what/matrix-red-pill.jpg)
 <small>Scene from Matrix (Warner Bros / Village Roadshow Pictures / Groucho II Film Partnership)</small>
 
-So, *how do you choose a methodology for your own use?* If someone asked this a couple of years back, 99% of the respondents would have answered, *“I think scrum fits well for my project work and so we use Scrum”*. But things are changing now. There is another methodology coming up that allows for easy to use yet very efficient project management activities - Kanban. While both Kanban and Scrum are related to the Agile family, they are different in many ways. It is important to understand their strengths and weaknesses to correctly decide which of these is the right option for you. In this post, I will compare Kanban and Scrum on the basis of few core features and requirements in day to day activities. That will give you a clearer picture of what may suit your use case better.
+So, *how do you choose a methodology for your own use?* If someone asked this a couple of years back, 99% of the respondents would have answered, *“I think scrum fits well for my project work and so we use Scrum”*. But things are changing now. There is another methodology coming up that allows for easy to use yet very efficient [project management](https://taiga.io/?utm_source=taiga-blog) activities - Kanban. While both Kanban and Scrum are related to the Agile family, they are different in many ways. It is important to understand their strengths and weaknesses to correctly decide which of these is the right option for you. In this post, I will compare Kanban vs Scrum on the basis of few core features and requirements in day to day activities. That will give you a clearer picture of what may suit your use case better.
 
 
 ## Planning
@@ -19,7 +21,7 @@ Scrum stresses on planning. From sprint planning to sprint retrospective - there
 
 Kanban on the other isn’t too keen on planning. It is open to taking changes on the go. That means there is less stability and things can change frequently. This is a good thing and a bad thing - depends on your project and the phase it is currently in. For instance if you expect unpredictable workloads over the time and don’t have a clear picture of the tasks upfront, Kanban can be helpful. But if you already have a well defined feature list with a clear timeline, it would be a mistake to use Kanban.
 
-To put things in perspective, while developing Taiga we used Scrum before publishing our first release because we were focused on having an MVP on time, and because we could guarantee a complete dedication of the team, without unforeseen interruptions. After the release, we moved to kanban because we needed to guarantee the development of improvements to Taiga (software) living with the unpredictable work generated by the input received from real support queries, facilitating the prevention of bottlenecks at the different stages of the development process of new features (UX, design, development and testing), and allowing us to react faster to the market needs we had.
+To put things in perspective, while developing [Taiga](https://taiga.io/?utm_source=taiga-blog) we used Scrum before publishing our first release because we were focused on having an MVP on time, and because we could guarantee a complete dedication of the team, without unforeseen interruptions. After the release, we moved to kanban because we needed to guarantee the development of improvements to Taiga (software) living with the unpredictable work generated by the input received from real support queries, facilitating the prevention of bottlenecks at the different stages of the development process of new features (UX, design, development and testing), and allowing us to react faster to the market needs we had.
 
 
 ## Estimation
@@ -53,4 +55,4 @@ Kanban on the other hand already relies less on time-boxing and forecasts. If so
 
 In this post we saw how Kanban and Scrum take a little different approach towards planning and estimation. We also saw how both recommend charting and how they accommodate dynamic nature of software development in the modern world. There are several scenarios where Scrum may be a better choice than Kanban and vice-versa and it is finally your call to make a decision on what will suit your conditions better.
 
-I suggest to refer this line whenever you are confused about Kanban or Scrum - *“Kanban suits teams that may need to quickly change their focus based on inputs from outside (customers, users, etc.) while Scrum is for teams that expect some sort of stability during the sprint”.* Not to say that Scrum teams can’t change their focus during the sprint, but just that it is difficult for developers.
+I suggest to refer this line whenever you are confused about Kanban vs Scrum - *“Kanban suits teams that may need to quickly change their focus based on inputs from outside (customers, users, etc.) while Scrum is for teams that expect some sort of stability during the sprint”.* Not to say that Scrum teams can’t change their focus during the sprint, but just that it is difficult for developers.
