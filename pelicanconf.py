@@ -7,7 +7,7 @@ DEBUG=1
 AUTHOR = 'Taiga'
 AUTHOR_EMAIL = 'support@taiga.io'
 SITENAME = 'Taiga Blog'
-SITEURL = ''
+SITEURL = 'blog.taiga.io'
 SITESUBTITLE = 'Taiga is a project management platform for startups and agile developers & designers'
 
 PATH = 'content'
@@ -64,7 +64,17 @@ DISQUS_SITENAME = "taiga-blog"
 
 #Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['gravatar']
+PLUGINS = ['gravatar', 'sitemap']
 
 
 PRIVACY_POLICY_URL = "http://taiga.io/privacy-policy"
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "home": 1.0,
+        "articles": 0.8,
+        "indexes": 0.5,
+        "authors": 0.6,
+    }
+}
