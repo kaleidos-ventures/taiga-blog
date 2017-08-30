@@ -2,9 +2,7 @@
 <html lang="{{ DEFAULT_LANG }}">
 <head>
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-    {% block head %}
     <meta charset="utf-8" />
-    <meta name="description" content="Free. Open Source. Powerful. Taiga is a project management platform for startups and agile developers & designers">
     <meta name="author" content="{{ AUTHOR }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -50,7 +48,13 @@
     {% if TAG_FEED_RSS and tag %}
     <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
     {% endif %}
-    {% endblock head %}
+    {% block extra_head %}
+        {% if articles_page and articles_page.number == 1 %}
+            <meta name="description" content="Free. Open Source. Powerful. Taiga is a project management platform for startups and agile developers & designers">
+        {% else %}
+            <meta name="description" content="Free. Open Source. Powerful. Taiga is a project management platform for startups and agile developers & designers - Page {{ articles_page.number }}">
+        {% endif %}
+    {% endblock %}
 </head>
 
 <body id="index" class="home">

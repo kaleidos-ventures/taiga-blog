@@ -1,5 +1,13 @@
 {% extends "index.html" %}
 
+{% block extra_head %}
+    {% if articles_page.number == 1 %}
+        <meta name="description" contents="Category - {{category}}" />
+    {% else %}
+        <meta name="description" contents="Category - {{category}} - Page {{ articles_page.number }}" />
+    {% endif %}
+{% endblock %}
+
 {% block title %}
     {% if articles_page.number == 1 %}
         {{ SITENAME }} - {{ category }}

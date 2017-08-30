@@ -2,15 +2,12 @@
 
 {% block title %}{{ article.title }} | {{ SITENAME }}{% endblock title %}
 
-{% block head %}
-{{ super() }}
+{% block extra_head %}
 {% for keyword in article.keywords %}
 <meta name="keywords" contents="{{keyword}}" />
 {% endfor %}
 
-{% for description in article.description %}
-<meta name="description" contents="{{description}}" />
-{% endfor %}
+<meta name="description" contents="{{article.title}}" />
 
 {% for tag in article.tags %}
 <meta name="tags" contents="{{tag}}" />
