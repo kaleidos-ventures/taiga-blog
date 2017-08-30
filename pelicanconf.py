@@ -7,7 +7,7 @@ DEBUG=1
 AUTHOR = 'Taiga'
 AUTHOR_EMAIL = 'support@taiga.io'
 SITENAME = 'Taiga Blog'
-SITEURL = 'blog.taiga.io'
+SITEURL = 'https://blog.taiga.io'
 SITESUBTITLE = 'Taiga is a project management platform for startups and agile developers & designers'
 
 PATH = 'content'

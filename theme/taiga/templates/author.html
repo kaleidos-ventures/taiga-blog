@@ -1,6 +1,13 @@
 {% extends "index.html" %}
 
-{% block title %}{{ SITENAME }} - Articles by {{ author }}{% endblock %}
+{% block title %}
+    {% if articles_page.number == 1 %}
+        {{ SITENAME }} - Articles by {{ author }}
+    {% else %}
+        {{ SITENAME }} - Articles by {{ author }} - Page {{ articles_page.number }}
+    {% endif %}
+{% endblock %}
+
 {% block content_title %}
 Articles by {{ author }}
 {% endblock %}

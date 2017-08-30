@@ -1,5 +1,13 @@
 {% extends "index.html" %}
+
+{% block title %}
+    {% if articles_page.number == 1 %}
+        {{ SITENAME }} - {{ category }}
+    {% else %}
+        {{ SITENAME }} - {{ category }} - Page {{ articles_page.number }}
+    {% endif %}
+{% endblock %}
+
 {% block content_title %}
 Articles in the {{ category }} category
 {% endblock %}
-

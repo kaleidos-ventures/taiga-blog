@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 
-{#
-{% block content_title %}
-All articles
+{% block title %}
+    {% if articles_page.number == 1 %}
+        {{ SITENAME }}
+    {% else %}
+        {{ SITENAME }} - Page {{ articles_page.number }}
+    {% endif %}
 {% endblock %}
-#}
 
 {% block content %}
 <section class="post-list">
