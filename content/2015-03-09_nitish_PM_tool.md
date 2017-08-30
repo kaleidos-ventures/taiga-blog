@@ -26,7 +26,7 @@ After you login, you are taken straight to the backlog page - where all the acti
 
 ### Focus on tasks not efforts
 
-Project managers or scrum masters sometimes get fixated to features, issues, change requests and instead of focussing on task’s progress, the focus shifts to how much time it took and how long it will take further. It may be justified in some cases, but more often than not, such micromanagement causes long term damage to the developer’s mindset and hence the team dynamics. That is why Taiga has its focus set on the tasks, there is even [this](https://taiga.io/support/why-is-there-no-time-tracking/){:target="_blank"} post on the official support page describing in detail, why Taiga doesn’t support time tracking.
+Project managers or scrum masters sometimes get fixated to features, issues, change requests and instead of focussing on task’s progress, the focus shifts to how much time it took and how long it will take further. It may be justified in some cases, but more often than not, such micromanagement causes long term damage to the developer’s mindset and hence the team dynamics. That is why Taiga has its focus set on the tasks, there is even [this](https://tree.taiga.io/support/frequently-asked-questions/why-is-there-no-time-tracking/){:target="_blank"} post on the official support page describing in detail, why Taiga doesn’t support time tracking.
 
 ### Recognition via gamification
 
