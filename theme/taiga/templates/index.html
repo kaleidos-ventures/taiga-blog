@@ -11,16 +11,16 @@
 {% block content %}
 <section class="post-list">
     {% for article in articles_page.object_list %}
-    <article class="hentry">
+    <article class="h-entry">
         <header>
-            <h2 class="entry-title">
+            <h2 class="p-name">
                 <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
             </h2>
         </header>
-        <div class="entry-content">
+        <div class="e-content">
             {{ article.summary }}
             <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Read {{ article.title|striptags }}">[Continue reading →]</a>
-        </div><!-- /.entry-content -->
+        </div><!-- /.e-content -->
         {% include 'post-info.html' %}
     </article>
     {% endfor %}

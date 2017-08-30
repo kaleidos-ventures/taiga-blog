@@ -9,7 +9,8 @@
 
 	{% if page.modified %}
 		<p>
-		Last updated: {{ page.locale_modified }}
+            Last updated:
+            <time class="dt-updated" datetime="{{ page.modified.isoformat() }}">{{ page.locale_modified }}</time>
 		</p>
 	{% endif %}
 {% endblock %}
