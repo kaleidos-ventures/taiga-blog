@@ -54,6 +54,14 @@
         {% else %}
             <meta name="description" content="Taiga Blog - Taiga is a open source project management software for agile startups, developers & designers - Page {{ articles_page.number }}">
         {% endif %}
+
+        {% if articles_page and articles_page.has_next() %}
+            <link rel="next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html" />
+        {% endif %}
+        {% if articles_page and articles_page.has_previous() %}
+            {% set num = articles_page.previous_page_number() %}
+            <link rel="prev" href="{{ SITEURL }}/{{ page_name }}{{ num if num > 1 else '' }}.html" />
+        {% endif %}
     {% endblock %}
 </head>
 
