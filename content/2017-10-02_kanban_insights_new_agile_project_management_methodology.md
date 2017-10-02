@@ -3,7 +3,7 @@ Date: 2017-10-02 10:00
 Category: General
 Author: Yago Cousiño
 Email: yago@lalocomotora.com
-Summary: ![Kanban](https://taiga.io/v-a258555edd/images/kanban-screen.jpg "Kaban") Kanban has meant a breakthrough for many teams that used methodologies like Waterfall or Scrum. Their differences and similarities have been a topic of discussion for many agile project management experts and their teams. This subject has already been tackled [in this blog](https://blog.taiga.io/kanban-vs-scrum-how-to-choose.html?utm_source=taiga&utm_medium=blog&utm_campaign=agileprojectmanagement) but today it is worthwhile sharing the magnificent conference at Talks at Google by Eric Brechner.  
+Summary: ![Kanban]({filename}/images/2017-10-02_agile-project-management/taiga_kanban_screen.jpg "Kaban") Kanban has meant a breakthrough for many teams that used methodologies like Waterfall or Scrum. Their differences and similarities have been a topic of discussion for many agile project management experts and their teams. This subject has already been tackled [in this blog](https://blog.taiga.io/kanban-vs-scrum-how-to-choose.html?utm_source=taiga&utm_medium=blog&utm_campaign=agileprojectmanagement) but today it is worthwhile sharing the magnificent conference at Talks at Google by Eric Brechner.  
 
 Kanban has meant a breakthrough for many teams that used methodologies like Waterfall or Scrum. Their differences and similarities have been a topic of discussion for many agile project management experts and their teams. This subject has already been tackled in this blog but today it is worthwhile sharing the magnificent conference at Talks at Google by Eric Brechner.  
 
