@@ -1,6 +1,4 @@
-﻿
-
-Title: Kanban insights: a new agile project management methodology
+﻿Title: Kanban insights: a new agile project management methodology
 Date: 2017-10-02 10:00
 Category: General
 Author: Yago Cousiño
@@ -16,6 +14,7 @@ After spending over 20 years in Microsoft and successfully applying the [Kanban 
 This one hour talk goes over very interesting points about this agile methodology and task management.  
 
 ![Eric Brechner: Agile Project Management]({filename}/images/2017-10-02_agile-project-management/Eric_Brechner_Agile_Project_Management_with_Kanban.png)
+[See the video here](https://www.youtube.com/watch?v=CD0y-aU1sXo)
 
  - Pretty good talk from the beginner standpoint as questions fly and the speaker answers them right off the bat. He even uses Kanban for answering a good bunch of them. In this case, with 4 columns: Backlog, Breakdown, Answer and Validate.
 
