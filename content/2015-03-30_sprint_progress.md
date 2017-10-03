@@ -1,5 +1,6 @@
 Title: Q: "I'd like to measure the sprint progress through closed tasks"
 Date: 2015-03-30 07:18
+Modified: 2015-08-04 11:48
 Category: General
 Author: Antonio de la Torre
 Email: antonio.delatorre@kaleidos.net

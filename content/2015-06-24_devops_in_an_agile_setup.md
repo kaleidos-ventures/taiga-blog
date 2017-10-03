@@ -1,5 +1,6 @@
 Title: DevOps in an Agile setup
 Date: 2015-06-24 10:01
+Modified: 2015-08-04 11:48
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com

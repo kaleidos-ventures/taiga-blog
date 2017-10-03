@@ -1,5 +1,6 @@
 Title: What’s an Epic? Our research
 Date: 2016-10-13 10:00
+Modified: 2016-10-13 16:20
 Category: General
 Author: Esther Moreno
 Email: esther.moreno@kaleidos.net

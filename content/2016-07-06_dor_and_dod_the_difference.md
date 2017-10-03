@@ -1,5 +1,6 @@
 Title: Definition of Ready & Definition of Done: the difference
 Date: 2016-07-06 10:00
+Modified: 2016-07-06 13:15
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com

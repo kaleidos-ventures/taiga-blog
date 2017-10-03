@@ -1,5 +1,6 @@
 Title: GitHub: A beginner's guide, Part I
 Date: 2015-07-30 11:57
+Modified: 2015-08-04 11:48
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com

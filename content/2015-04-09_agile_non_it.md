@@ -1,5 +1,6 @@
 Title: Agile as a management tool for non-IT industry: an insight
 slug: agile_as_management_tool_for_non_IT
+Modified: 2015-08-04 11:48
 Date: 2015-04-09 12:18
 Category: General
 Author: Nitish Tiwari

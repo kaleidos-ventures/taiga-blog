@@ -1,13 +1,20 @@
 <footer class="post-info">
     {% if article.author %}
     <div class="author">
-        <span class="article-by">Written by</span>
-        <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">
-            <span class="article-author p-author">{{ article.author }}</span>
-        </a>
-        <abbr class="published" title="{{ article.date.isoformat() }}">
-            on <time class="dt-published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-        </abbr>
+        <div style="display: inline; max-width: 450px">
+            <span class="article-by">Written by</span>
+            <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">
+                <span class="article-author p-author">{{ article.author }}</span>
+            </a>
+            <abbr class="published" title="{{ article.date.isoformat() }}">
+                on <time class="dt-published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+            </abbr>
+            {% if article.modified and article.modified.date() != article.date.date() %}
+                <abbr class="published" title="{{ article.modified.isoformat() }}">
+                    updated on <time class="dt-published" datetime="{{ article.modified.isoformat() }}">{{ article.locale_modified }}</time>
+                </abbr>
+            {% endif %}
+        </div>
         <a class="gravatar" href="{{ SITEURL }}/{{ article.author.url }}">
             <img src="{{ article.author_gravatar }}" alt="">
         </a>

@@ -1,5 +1,6 @@
 Title: Kanban vs Scrum - How to choose?
 Date: 2016-05-10 10:00
+Modified: 2017-08-29 18:38
 Category: General
 Author: Nitish Tiwari
 Email: tiwari.nitish@gmail.com
