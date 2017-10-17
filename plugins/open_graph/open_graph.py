@@ -60,6 +60,8 @@ def open_graph_tag(item):
         img_links = soup.find_all('img')
         if  (len(img_links) > 0):
             img_src = img_links[0].get('src')
+            if img_src.startswith("{filename}"):
+                img_src = img_src[11:]
             if not "http" in img_src:
                 if item.settings.get('SITEURL', ''):
                     img_src = item.settings.get('SITEURL', '') + "/" + img_src
