@@ -3,16 +3,28 @@ Date: 2017-12-20 10:00
 Category: General
 Author: Yago Cousiño
 Email: yago@lalocomotora.com
-Status: draft
+Status: published
 Summary: ![Taiga Community]({filename}/images/2017-12-20_taiga_community_taiga_pm_getting_to_know_taiga_io/desktop.jpg "Taiga Community") It is really amazing the community we have all managed to gather around Taiga.io and open source in general. Highly qualified professionals that share their time and knowledge to help each other fulfill their aspirations with their projects. It is truly inspiring what we all can do when we are surrounded by a positive, productive community. That is why we are launching a series of articles that will showcase people and ideas that have been critical to Taiga.io and its journey.
 
-It is really amazing the community we have all managed to gather around Taiga.io and open source in general. Highly qualified professionals that share their time and knowledge to help each other fulfill their aspirations with their projects. It is truly inspiring what we all can do when we are surrounded by a positive, productive community. That is why we are launching a series of articles that will showcase people and ideas that have been critical to Taiga.io and its journey.
+![Taiga Community]({filename}/images/2017-12-20_taiga_community_taiga_pm_getting_to_know_taiga_io/desktop.jpg "Taiga Community")
 
-We want to start with Taiga.pm, the main website where you can find information about what Taiga.io can do for your project. Our good friend Saj is one of the leaders of this amazing project. Having a conversation with him about the tight relationship between Taiga.io and Taiga.pm and the team behind Taiga.pm was something we are thrilled to post. We hope you enjoy!
+It is really amazing the community we have all managed to gather around
+Taiga.io and open source in general. Highly qualified professionals that share
+their time and knowledge to help each other fulfill their aspirations with
+their projects. It is truly inspiring what we all can do when we are surrounded
+by a positive, productive community. That is why we are launching a series of
+articles that will showcase people and ideas that have been critical to
+Taiga.io and its journey.
+
+We want to start with Taiga.pm, the main website where you can find information
+about what Taiga.io can do for your project. Our good friend Saj is one of the
+leaders of this amazing project. Having a conversation with him about the tight
+relationship between Taiga.io and Taiga.pm and the team behind Taiga.pm was
+something we are thrilled to post. We hope you enjoy!
 
 **For those who doesn’t know about Taiga.pm, could you briefly introduce it?**
 
-Taiga.PM = [Taiga Project Management](https://taiga.pm/)
+Taiga.PM = [Taiga Project Management](https://taiga.pm/?utm_source=Taiga.io&utm_medium=Blog_Interview_Taiga.PM)
 
 We advertise Taiga.pm as a quick how-to guide for everyday project management
 activities with Taiga.io. We aimed at creating an “online help” website that
@@ -21,7 +33,7 @@ course, provide a quick reference guide for Taiga’s feature for current users.
 
 **Tell us about the personal background of the team behind Taiga.pm**
 
-A passionate team is behind the start of [Taiga.pm](https://taiga.pm): one
+A passionate team is behind the start of [Taiga.pm](https://taiga.pm/?utm_source=Taiga.io&utm_medium=Blog_Interview_Taiga.PM): one
 Senior Technical Writer, turned frontend and backend developer and one Senior
 Project Manager, who have been working together for over 10 years now.
 
@@ -37,14 +49,14 @@ The project manager instantly recognized Taiga’s potential, went with an idea 
 **What drives you to create a project like Taiga.pm?**
 
 This started because we wanted to promote Taiga. We wanted to promote the idea
-that Taiga and [Project Management](https://taiga.pm/) go hand in hand and
+that Taiga and [Project Management](https://taiga.pm/?utm_source=Taiga.io&utm_medium=Blog_Interview_Taiga.PM/) go hand in hand and
 cannot be separated, hence Taiga.pm. So, we thought that if we explain how to
 use its features, people will start moving their projects to Taiga.
 
 Very often, the simplest things can make or break great ideas, ours was to make
 all features accessible to anyone, so they don’t miss out on Taiga.io’s
 potential and see what we see!
- 
+
 **GIMO is one of the heavy users of Taiga.io and our community has benefited
 from its feedback. What has made GIMO get so heavily involved with Taiga.io?**
 
@@ -91,7 +103,7 @@ more new exciting ideas and platforms are going open source. We know a great
 team working on an open source based project at GetCouplet.com, which will be
 launched soon. Taiga was used to manage this project.
 
-**With the experience gained with the visitors of [Taiga.pm](https://taiga.pm),
+**With the experience gained with the visitors of [Taiga.pm](https://taiga.pm/?utm_source=Taiga.io&utm_medium=Blog_Interview_Taiga.PM),
 what do you think are the most common doubts when starting to manage projects?
 Do you think that agile methodologies help teams with little experience?**
 
