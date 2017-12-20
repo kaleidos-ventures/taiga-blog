@@ -3,6 +3,7 @@ Date: 2017-12-20 10:00
 Category: General
 Author: Yago Cousiño
 Email: yago@lalocomotora.com
+Status: draft
 Summary: ![Taiga Community]({filename}/images/2017-12-20_taiga_community_taiga_pm_getting_to_know_taiga_io/desktop.jpg "Taiga Community") It is really amazing the community we have all managed to gather around Taiga.io and open source in general. Highly qualified professionals that share their time and knowledge to help each other fulfill their aspirations with their projects. It is truly inspiring what we all can do when we are surrounded by a positive, productive community. That is why we are launching a series of articles that will showcase people and ideas that have been critical to Taiga.io and its journey.
 
 It is really amazing the community we have all managed to gather around Taiga.io and open source in general. Highly qualified professionals that share their time and knowledge to help each other fulfill their aspirations with their projects. It is truly inspiring what we all can do when we are surrounded by a positive, productive community. That is why we are launching a series of articles that will showcase people and ideas that have been critical to Taiga.io and its journey.
