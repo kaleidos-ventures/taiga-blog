@@ -21,6 +21,8 @@ Our service comes in several flavors depending on your needs. From the "all-in-o
 
 ![Taiga On premise]({filename}/images/2019-04-25_onpremise42pricing/taigaonpremise.jpg)
 
+Oh! And we're excited to have none other than the Fedora Project (RedHat sponsored community of developers and software) as one of the first On Premise customers. That's a BIG and demanding community. If we can do it for them, we can do it for you!
+
 If you're interested in moving from taiga.io to your own Taiga server, that's fine as well, and we can help migrate your projects from one platform to the other. It's not something we plan to encourage or expect from taiga.io users but it's definitely an option. **Taiga will still be downloadable for free** (it remains Open Source) but if you run one of the thousands of independent Taiga instances, please don't expect similar levels of support from us. Our community however is a great resource.
 
 So, if you'd like to know more about Taiga On Premise, just contact us via the form here [https://taiga.io/pricing](https://taiga.io/pricing).
