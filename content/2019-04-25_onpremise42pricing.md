@@ -13,7 +13,7 @@ We are launching Taiga On Premise as a flexible "no strings attached" private Ta
 
 ## Taiga On Premise
 
-Who would've thought it, right? That "behind you firewall" deployments would make a comeback? Well, be it for privacy or corporate security reasons, our data shows that users are increasingly want managed instances behind their own firewall. Perhaps the Cloud/SaaS model has proven a bit too unreliable for some organizations, perhaps events like data theft by the likes of Cambridge Analytica are causing concern.
+Who would've thought it, right? That "behind your firewall" deployments would make a comeback? Well, be it for privacy or corporate security reasons, our data shows that users are increasingly want managed instances behind their own firewall. Perhaps the Cloud/SaaS model has proven a bit too unreliable for some organizations, perhaps events like data theft by the likes of Cambridge Analytica are causing concern.
 
 At Taiga we're happy to oblige and adapt to what our client needs; So here it is, an option for **fully supported Taiga deployment that run on YOUR OWN infrastructure**.
 
