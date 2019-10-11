@@ -11,7 +11,7 @@ Taiga is joining [Digital Ocean’s Hacktoberfest](https://hacktoberfest.digital
 
 We have chosen some small features we’d like to add to our project management system so you can help us. You can look for them at our [github repository](https://github.com/taigaio/taiga-front/labels/Hacktoberfest) looking for the “hacktoberfest” tag. Before you make your first contribution, you should familiarize yourself with [How To Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
-Among the issues you can help with are making wiki page titles editable, reordering attachments or paste images direct into description fields. Taiga’s programming language is Python. You can check our [documentation for developers](https://github.com/taigaio/taiga-doc).
+Among the issues you can help with are making wiki page titles editable, reordering attachments or paste images direct into description fields. Taiga’s programming language is Python. You can check our [documentation for developers](https://tree.taiga.io/support/frequently-asked-questions/how-can-i-contribute-to-taiga/).
 
 ![Taiga's issues at GitHub]({filename}/images/2019-09-11_taiga_hackoctoberfest/issues_taiga_hackoctoberfest.jpg)
 
@@ -25,4 +25,4 @@ You can do it anytime until October 31. The first 50,000 participants who succes
 
 [Digital Ocean’s Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 [Taiga's Github repository](https://github.com/taigaio/taiga-front/labels/Hacktoberfest)
-[Taiga's Documentation for developers](https://github.com/taigaio/taiga-doc).
+[Taiga's Documentation for developers](https://tree.taiga.io/support/frequently-asked-questions/how-can-i-contribute-to-taiga/).
