@@ -1,9 +1,9 @@
-hackoTitle: Join #Hackotoberfest with Taiga!
+Title: Join #Hackotoberfest with Taiga!
 Date: 2019-10-11 09:00
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Pulsatilla Patens]({filename}/images/2019-09-11_taiga_hackoctoberfest/hackoctoberfest.jpg) Taiga is joining Digital Ocean’s hacktoberfest, an initiative of Digital Ocean to promote participation in open source projects. It is open to everyone and all backgrounds and skill levels are encouraged to complete the challenge.
+Summary: ![Hacktoberfest]({filename}/images/2019-09-11_taiga_hackoctoberfest/hackoctoberfest.jpg) Taiga is joining Digital Ocean’s hacktoberfest, an initiative of Digital Ocean to promote participation in open source projects. It is open to everyone and all backgrounds and skill levels are encouraged to complete the challenge.
 
 **TL;DR**
 
