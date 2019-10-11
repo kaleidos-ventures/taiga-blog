@@ -19,7 +19,7 @@ We are committed to making participation in this project a harassment-free exper
 
 You can do it anytime until October 31. The first 50,000 participants who successfully complete the challenge will earn a T-shirt. More importantly, you will have contributed to the open source community. Taiga and its million of users all around the world will thank you ;).
 
-![Artic Fox]({filename}/images/2019-09-11_taiga_hackoctoberfest/articfoxtaiga.gif)
+![Artic Fox]({filename}/images/2019-09-11_taiga_hackoctoberfest/lynx.gif)
 
 ##Resources
 
