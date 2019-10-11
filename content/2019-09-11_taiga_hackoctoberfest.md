@@ -17,12 +17,12 @@ Among the issues you can help with are making wiki page titles editable, reorder
 
 We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality. For more info check [Taiga's code of conduct](https://github.com/taigaio/code-of-conduct/blob/master/CODE_OF_CONDUCT.md)
 
-You can do it anytime until October 31. The first 50,000 participants who successfully complete the challenge will earn a T-shirt. More importantly, you will have contributed to the open source community. Taiga and its million of users all around the world will thank you ;).
+You can do it anytime until October 31. The first 50,000 participants who successfully complete the challenge will earn a T-shirt. More importantly, you will have contributed to the open source community. Taiga and its estimated million of users all around the world will thank you ;).
 
 ![Artic Fox]({filename}/images/2019-09-11_taiga_hackoctoberfest/lynx.gif)
 
 ##Resources
 
-[Digital Ocean’s Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-[Taiga's Github repository](https://github.com/taigaio/taiga-front/labels/Hacktoberfest)
-[Taiga's Documentation for developers](https://tree.taiga.io/support/frequently-asked-questions/how-can-i-contribute-to-taiga/).
+* [Digital Ocean’s Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+* [Taiga's Github repository](https://github.com/taigaio/taiga-front/labels/Hacktoberfest)
+* [Taiga's Documentation for developers](https://tree.taiga.io/support/frequently-asked-questions/how-can-i-contribute-to-taiga/).
