@@ -1,4 +1,4 @@
-Title: Join #Hackotoberfest with Taiga!
+Title: Join #Hacktoberfest with Taiga!
 Date: 2019-10-11 09:00
 Category: Announcements
 Author: Taiga Team
