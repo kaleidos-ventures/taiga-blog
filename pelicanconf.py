@@ -35,7 +35,6 @@ LINKS = (('Taiga.io', 'https://taiga.io'),
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/taigaio'),
           ('Github', 'https://github.com/taigaio'),
-          ('Google+', 'https://plus.google.com/+TaigaIo'),
 )
 
 DEFAULT_PAGINATION = 10
