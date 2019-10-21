@@ -3,7 +3,7 @@ Date: 2019-10-21 09:00
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Hacktoberfest]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of the agile methodology (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
+Summary: ![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of the agile methodology (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
 
 Which methodology is best for a tech startup? The best methodology is any that prioritizes efficiency and at the same time is agile and adaptable whenever required. Methodologies which quickly detect mistakes, allow to learn from them and apply corrective measures. Even the most focused startups can end up in a roller coaster, partly because most of the time the founding team pivots after re-evaluating their ideas. Any methodology that penalizes change (whether directly or by burying it under processes, bureaucracy or documentation) will not do it.
 
@@ -42,7 +42,7 @@ Our list of good practices is:
 * When using Kanban we simulate the sprint concept and plan a demo & retro every 2 weeks or so.
 
 
-![Example of retro at Kaleidos]({filename}/images/2019-10-21_agile_methodologies_tech_startup/retro_kaleidos_taiga.jpg)
+![Example of retro at Taiga]({filename}/images/2019-10-21_agile_methodologies_tech_startup/retro_kaleidos_taiga.jpg)
 
 ##When to start applying a methodology
 
@@ -65,9 +65,9 @@ When we estimate each user story, two things will happen, though:
 
 This second point is what is used to argue not estimating in Agile, but that’s a fallacy. Agile generally guarantees that at any given date a product will be developed with the most value and less waste. It doesn’t say what it will contain, but it does say its nature and its order of magnitude. That’s no good reason not to estimate.
 
-Do we make estimations in Kaleidos? Sometimes we do, sometimes we don’t. It depends on the project and the team. In general, we tend to estimate only top priority items which will likely be part of the work for the next few weeks. Also, previous UX & UI work greatly helps this estimation, which gains in quality and accuracy.
+Do we make estimations? Sometimes we do, sometimes we don’t. It depends on the project and the team. In general, we tend to estimate only top priority items which will likely be part of the work for the next few weeks. Also, previous UX & UI work greatly helps this estimation, which gains in quality and accuracy.
 
-![Kaleidos Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/kaleidos_team.jpg)
+![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/kaleidos_team.jpg)
 
 
 ##Final Considerations
