@@ -3,7 +3,7 @@ Date: 2019-10-21 09:00
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Hacktoberfest]({filename}/images/2019-10-21_agile_methodologies_tech_startup/userstories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of the agile methodology (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
+Summary: ![Hacktoberfest]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of the agile methodology (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
 
 Which methodology is best for a tech startup? The best methodology is any that prioritizes efficiency and at the same time is agile and adaptable whenever required. Methodologies which quickly detect mistakes, allow to learn from them and apply corrective measures. Even the most focused startups can end up in a roller coaster, partly because most of the time the founding team pivots after re-evaluating their ideas. Any methodology that penalizes change (whether directly or by burying it under processes, bureaucracy or documentation) will not do it.
 
