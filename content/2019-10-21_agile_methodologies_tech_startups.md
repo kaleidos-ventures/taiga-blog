@@ -1,9 +1,9 @@
 Title: The best methodology for a tech startup in 2020
-Date: 2019-10-21 09:00
+Date: 2019-10-22 09:00
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of the agile methodology (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
+Summary: ![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg) Which methodology is best for a tech startup? We discuss different implementations of agile methodologies (scrum or kanban?), how and when to implement them and which are some of the most common misconceptions.
 
 Which methodology is best for a tech startup? The best methodology is any that prioritizes efficiency and at the same time is agile and adaptable whenever required. Methodologies which quickly detect mistakes, allow to learn from them and apply corrective measures. Even the most focused startups can end up in a roller coaster, partly because most of the time the founding team pivots after re-evaluating their ideas. Any methodology that penalizes change (whether directly or by burying it under processes, bureaucracy or documentation) will not do it.
 
@@ -14,7 +14,7 @@ Currently, only agile methodologies fit these needs. All of them have in common 
 * Customer Collaboration over contract negotiation
 * Responding to Change over following a plan
 
-![Kaleidos's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/userstories_taiga_kaleidos.jpg)
+![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/userstories_taiga_kaleidos.jpg)
 
 ##Scrum or Kanban?
 
@@ -65,13 +65,13 @@ When we estimate each user story, two things will happen, though:
 
 This second point is what is used to argue not estimating in Agile, but that’s a fallacy. Agile generally guarantees that at any given date a product will be developed with the most value and less waste. It doesn’t say what it will contain, but it does say its nature and its order of magnitude. That’s no good reason not to estimate.
 
-Do we make estimations? Sometimes we do, sometimes we don’t. It depends on the project and the team. In general, we tend to estimate only top priority items which will likely be part of the work for the next few weeks. Also, previous UX & UI work greatly helps this estimation, which gains in quality and accuracy.
+Do we make estimations? Sometimes we do, sometimes we don’t. It depends on the project and the team. In general, we tend to estimate only top priority items which will likely be part of the work for the next few weeks. Also, preliminary User Experience & User Interface work greatly contribute to this estimation effort, which gains in quality and accuracy.
 
 ![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/kaleidos_team.jpg)
 
 
 ##Final Considerations
 
-Very often, the main value of a product is how things are made. A sustained rhythm, adaptability and continuous self-evaluation. It is key that everyone is involved, especially the client.
+Very often, the main value of a product is how things are made. A sustained rhythm, adaptability and continuous self-evaluation. It is key that everyone is involved, especially relevant stakeholders.
 
 A very important part is the transparency of the process. We are talking about the business core of a new company and half-measures are not valid, which fits perfectly the third principle of the Agile Manifesto: *Customer Collaboration over contract negotiation*. Makes sense: technological products are not made by contracts.
