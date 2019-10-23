@@ -14,7 +14,7 @@ Currently, only agile methodologies fit these needs. All of them have in common 
 * Customer Collaboration over contract negotiation
 * Responding to Change over following a plan
 
-![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/userstories_taiga_kaleidos.jpg)
+![Taiga's Team]({filename}/images/2019-10-21_agile_methodologies_tech_startup/user_stories_taiga_kaleidos.jpg)
 
 ##Scrum or Kanban?
 
