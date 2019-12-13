@@ -10,3 +10,5 @@ cache/
 *.css
 *.css.map
 *.directory
+.env
+.mypy_cache
