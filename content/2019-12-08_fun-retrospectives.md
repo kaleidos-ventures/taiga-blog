@@ -1,11 +1,9 @@
 Title: A Series of Fun Retrospectives
-Date: 2019-12-10 09:00
+Date: 2020-01-10 09:00
 Category: Agile
-Author: Taiga Team
+Author: Juan de la Cruz
 Email: support@taiga.io
-Summary: ![Taiga's Team]({filename}/images/2019-12-08_fun-retrospectives/retro-al.jpg)
-Retrospectives are a well-known tool used by teams that work in product development. In Kaleidos we usually do it as the culmination of a sprint, just after the Sprint Demo. In this post we show examples and methods that we try, it does not mean that they are set in stone :)
-
+Summary: ![Taiga's Team]({filename}/images/2019-12-08_fun-retrospectives/retro-al.jpg)Retrospectives are a well-known tool used by teams that work in product development. In Kaleidos we usually do it as the culmination of a sprint, just after the Sprint Demo. In this post we show examples and methods that we try, it does not mean that they are set in stone :)
 
 Retrospectives are a well-known tool used by teams that work in product development. In Kaleidos we usually do it as the culmination of a sprint, just after the Sprint Demo. In this post we show examples and methods that we try, it does not mean that they are set in stone :)
 

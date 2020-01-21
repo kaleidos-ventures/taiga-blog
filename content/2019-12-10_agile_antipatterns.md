@@ -1,10 +1,9 @@
 Title: Four Agile Antipatterns and a Big Fat Lie
 Date: 2019-12-10 09:00
 Category: Agile
-Author: Taiga Team
+Author: Pablo Ruiz-Múzquiz
 Email: support@taiga.io
-Summary: ![Taiga's Team]({filename}/images/2019-12-10_agile_antipatterns/kanbanzoomout.jpg)
-In any transition to agile methodologies there is a risk of maintaining old practices that survive in disguise as “agile adaptations”. In the medium term they become structural blocks, agile antipatterns that gradually reinforce this involution. I summarize four of these identified thanks to the involuntary help of Taiga users.
+Summary: ![Taiga's Team]({filename}/images/2019-12-10_agile_antipatterns/kanbanzoomout.jpg)In any transition to agile methodologies there is a risk of maintaining old practices that survive in disguise as “agile adaptations”. In the medium term they become structural blocks, agile antipatterns that gradually reinforce this involution. I summarize four of these identified thanks to the involuntary help of Taiga users.
 
 ##Taiga, Symptom Detector
 
@@ -12,6 +11,7 @@ Five years ago Taiga was released. Now it is used by thousands of teams and orga
 
 
 ![Taiga translated into farsi, screenshot]({filename}/images/2019-12-10_agile_antipatterns/taiga_farsi.jpg)
+<small>Screenshot of Taiga in Farsi, one of the 20 languages ​​it has been translated into, with RTL support</small>
 
 ##Agile Antipattern 1: Workflows and ISO-Compliant Permissions
 
@@ -27,9 +27,8 @@ Actually, it is the reverse request that usually comes to Taiga: “We are tired
 
 This antipattern is usually accompanied by a rush forward; move from Scrum to Kanban, since the latter is a more organic model where sprints do not exist. Unfortunately, then the Kanban board will reflect the same underlying problem in the form of traffic jams: interruption and constant priority changes.
 
-
-
 ![A kanban at the minimum zoom level helps detect bottlenecks]({filename}/images/2019-12-10_agile_antipatterns/kanbanzoomout.jpg)
+<small>A kanban at the minimum zoom level helps detect bottlenecks</small>
 
 
 ##Agile Antipattern 3: All for Sprint’s Speed
@@ -41,6 +40,7 @@ Scrum, Kanban and Lean models manage advance planning very poorly when the quali
 This is not just nonsense but it will result in chaos in every small replanning. Agile's promise is that for any given future date, the product of greater value and less waste will be produced, but says nothing about what that product will be in particular. Waterfall in return follows the reverse path, guarantees what will a product contain for a given date but does not worry about the value delivered or how much waste is generated.
 
 ![A wonderful burndown chart, “burning” functionality at a good pace, but is it really the case?]({filename}/images/2019-12-10_agile_antipatterns/burndown.jpg)
+<small>A wonderful burndown chart, “burning” functionality at a good pace, but is it really the case?</small>
 
 
 ##Agile Antipattern 4: Planning in Advance
@@ -54,6 +54,7 @@ This is not just nonsense but it will result in chaos in every small replanning.
 
 
 ![An example of a small Taiga project using Scrum: it is common to have more than 10 sprints and that’s where this antipattern can show up ]({filename}/images/2019-12-10_agile_antipatterns/scrum-taiga.jpg)
+<small>An example of a small Taiga project using Scrum: it is common to have more than 10 sprints and that’s where this antipattern can show up</small>
 
 
 
@@ -66,6 +67,7 @@ By the way, aware of this huge challenge in the teams, Taiga 5 comes with Taiga 
 
 
 ![Taiga Seedtime with an anti-spoiler filter ]({filename}/images/2019-12-10_agile_antipatterns/seedtime.jpg)
+<small>Taiga Seedtime with an anti-spoiler filter</small>
 
 
 ##Final remarks
