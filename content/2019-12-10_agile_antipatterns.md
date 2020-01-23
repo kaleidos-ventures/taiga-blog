@@ -33,11 +33,10 @@ This antipattern is usually accompanied by a rush forward; move from Scrum to Ka
 
 ##Agile Antipattern 3: All for Sprint’s Speed
 
-“In this organization we have implemented Agile with Scrum; we created a backlog, prioritized, estimated and then created all the filled in sprints to know when we will have all the functionalities finished.”
+“In Scrum, only user stories completed in a sprint can add their story points; that causes partial jobs not to count for sprint speed and give a bad image.” It is one of my favorite antipatterns and one of the most controversial with eternal threads of discussion.
 
-Scrum, Kanban and Lean models manage advance planning very poorly when the quality of the information is low, which is usual. Therefore, to estimate, evaluate, prioritize and develop it is recommended to wait for the optimal moment. There are people who cannot assimilate this vision and use the agile vocabulary but the waterfall modes: they create n sprints with the user stories already programmed in each cycle.
+A good burndown chart is almost the holy grail of Scrum. It represents a good pace of closing user stories. The problem arises when we fail to close user stories and still pretend to count a significant percentage of the points associated with those stories. The origin of these disastrous sprints is multiple, but some of the most common causes are a bad estimate (easy to justify at the beginning of a project but more difficult after some months), a tendency to start all user stories on the first day of the sprint and try to close them all at once just before the demo, or the very last antipattern we just explained, among others.
 
-This is not just nonsense but it will result in chaos in every small replanning. Agile's promise is that for any given future date, the product of greater value and less waste will be produced, but says nothing about what that product will be in particular. Waterfall in return follows the reverse path, guarantees what will a product contain for a given date but does not worry about the value delivered or how much waste is generated.
 
 ![A wonderful burndown chart, “burning” functionality at a good pace, but is it really the case?]({filename}/images/2019-12-10_agile_antipatterns/burndown.jpg)
 <small>A wonderful burndown chart, “burning” functionality at a good pace, but is it really the case?</small>
