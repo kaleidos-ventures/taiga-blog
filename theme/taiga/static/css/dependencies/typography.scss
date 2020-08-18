@@ -5,8 +5,8 @@ h3,
 h4,
 h5,
 h6 {
-    color: $blackish;
     font-weight: normal;
+    font-size: .9rem;
     a {
         font-weight: inherit;
     }
@@ -80,6 +80,12 @@ strong {
 
 small {
     @extend %small;
+}
+
+figcaption {
+    line-height: 1.1rem;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
 }
 
 hr {
