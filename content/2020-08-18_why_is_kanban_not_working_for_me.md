@@ -25,7 +25,7 @@ It brings certain order and spatial awareness to the classical TODO list.
 You can't deny its simplicity and almost every cultural context provides the *user* with the tools to understand that this is a simple way to organize pending work.
 
 ![Screenshot of Taiga showing the kanban mode with several columns (upcoming, ready, in progress) with items with pictures from the Princess Bride. Gif shows how an item is moved from a column to another one.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_kanban_move.gif)
-<small>KANBAN reflects progress in part by moving cards from left to right in a step by step transition to the piece of work.</small>
+<figcaption>KANBAN reflects progress in part by moving cards from left to right in a step by step transition to the piece of work.</<figcaption>
 
 
 ###Shared view
@@ -37,7 +37,7 @@ A team is more than just a collection of individualities, there has to be a mutu
 Any organic flow is highly adaptative, true, but only if we are quick to remove any sudden bottlenecks. There is no use in a KANBAN board that lets certain *cards* die when they reach a particular *column*. You can picture those bottlenecks as death traps for tasks. You want to keep an eye and remove them as they appear. KANBAN is amazing as a heat map for bottlenecks, it even allows you to specify how many *cards* trigger the idea of a bottleneck per column.
 
 ![Screenshot of Taiga showing the kanban mode with a zoom out view.There are lots of columns and rows.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_seequestor_kanban.jpg)
-<small>This great KANBAN zoom out view allows you to see not only WIP LIMIT-breaching columns (see red lines) but also a general sense of potential bottlenecks.</small>
+<figcaption>This great KANBAN zoom out view allows you to see not only WIP LIMIT-breaching columns (see red lines) but also a general sense of potential bottlenecks.</<figcaption>
 
 
 ##KANBAN Cons
@@ -49,7 +49,7 @@ There are some weaknesses inherent to the way people use KANBAN. I wouldn't go a
 You know the saying about someone having a hammer and seeing everything as a nail, right? Any KANBAN board needs to remain significant for a team and a project, otherwise its apparent simplicity will suddenly make it look as a untidy room and trigger avoidance behaviours. This can happen if we force everything related to a project or a team to go to the KANBAN. Some information might be better handled through other means.
 
 ![Screenshot of Taiga showing to the left a colum with filter options and to the right issues related to the princess bride classified by type, severity, priority and votes. There is also a columns associated to the status, last modified and assigned user.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_issues_theprincessbride.jpg)
-<small>Sometimes Taiga Issue’s module can be of much help to lower the burden on the KANBAN</small>
+<figcaption>Sometimes Taiga Issue’s module can be of much help to lower the burden on the KANBAN</figcaption>
 
 ###Too many workflow states
 
@@ -63,7 +63,7 @@ Draft stages of a task or *card* should be carefully considered before entering 
 
 
 ![Screenshot of Taiga showing the kanban mode with a zoom out view.There are lots of columns and rows. The first column, "ideas", is specially long]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_kanbanzoomout.jpg)
-<small>Taiga’s zoom out view of a KANBAN card is showing here a problematic initial column. Watch out for long scrolls in early stage KANBAN columns.</small>
+<figcaption>Taiga’s zoom out view of a KANBAN card is showing here a problematic initial column. Watch out for long scrolls in early stage KANBAN columns.<figcaption>
 
 ###People saying "What should I do next?" too often
 
@@ -83,12 +83,12 @@ Also, anyone in the team should be able to know whether they should self-assign 
 To help with this, some platforms have the concept of roles or subteams and it might perfectly work to have a role assigned to the card as a first soft assignment and then allow anyone belonging to that role or subteam to take it for themselves alone.
 
 ![A gif sgowing first an issue "performing a miracle" with a picture from the princess bride and then a screen where you can select the user you assign it to.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_select_assigned_user.gif)
-<small>KANBAN cards in Taiga have built-in role assignment so you can shortcut your assignment process. Just make sure there is a clear policy on what to do with multiple assignees.</small>
+<figcaption>KANBAN cards in Taiga have built-in role assignment so you can shortcut your assignment process. Just make sure there is a clear policy on what to do with multiple assignees.</figcaption>
 
 If a card is in the middle of the KANBAN board but no one is working on it anymore, the kanban is not reflecting the state of the project, don't hesitate to remove the assignment and move it back to a suitable initial KANBAN state.
 
 ![Screenshot showing to the left a filter column with several options (status, tags, assigned users) and to the right showning the kanban board with cards assigned to Princess Brides characters]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_filters_kanban.jpg)
-<small>Taiga’s KANBAN board has custom filters. Here we decided to show only KANBAN cards that were assigned to either Buttercup, Princess of Florin or Count Tyrone Rugen.</small>
+<figcaption>Taiga’s KANBAN board has custom filters. Here we decided to show only KANBAN cards that were assigned to either Buttercup, Princess of Florin or Count Tyrone Rugen.<figcaption>
 
 
 ###Are team members created equal?
@@ -106,7 +106,7 @@ On a small team and a small project, you need not to worry, personal interaction
 First, should a small issue (like a bug in software development) enter the KANBAN alongside more fleshed-out tasks or not? Some teams try to make sure *everything* goes into the KANBAN. After all, isn't it a shared view? Yes. But a good shared view needs consistency. If cards that are very different in nature compete with each other, it's likely you are going to end up in a big mess. Consider having a separate view for a specific type of task. It could be a second KANBAN with a different workflow or perhaps a more simple TODO list.
 
 ![Gif showing first a screenshot of taiga with an issue titled "not a lot of money in revenge" with a pic from Princess Bride and then a screen where you can select the user you assign it to]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_issue_user_story.gif)
-<small>Taiga allows issues to be promoted to KANBAN cards (or user stories) when you need additional filters in your demand management workflow.</small>
+<figcaption>Taiga allows issues to be promoted to KANBAN cards (or user stories) when you need additional filters in your demand management workflow.<figcaption>
 
 Make sure the main KANBAN board represents the project's state quite faithfully and be open to add secondary boards or TODO lists for that remaining 10% of the project that doesn't fit into the main view.
 
@@ -119,7 +119,7 @@ When there are strategic objectives, it's easy to get lost in the *now* and forg
 Moreover, you might need a separate view where you keep track of your top level objectives. You can call them Epics, you can call them Objectives, Targets, Subprojects, it doesn't matter. What matters is that you can enjoy the progress of these big milestones or containers separately and quickly jump from Epic to Epic and view what KANBAN cards relate to them.
 
 ![Screen titled "Epics: the princess bride" and then a list with several columns: votes, name, project, sprint, assined, status and progress. Below there are listed several items with different levels of progress shown by a progress bar in green]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_epics_theprincessbride.jpg)
-<small>Taiga has an Epics module, where you can create bigger or more strategic goals that contain KANBAN cards so you can keep track of overall progress.</small>
+<figcaption>Taiga has an Epics module, where you can create bigger or more strategic goals that contain KANBAN cards so you can keep track of overall progress.<figcaption>
 
 
 ##Key insights to take away
@@ -131,4 +131,4 @@ It is vital that you see the KANBAN board and all its bells and whistles as a ph
 Is KANBAN suitable for everyone? Certainly not, but before questioning KANBAN itself, start analysing your specific KANBAN approach. After all, continuous improvement is part of the deal, right?
 
 ![Screenshot of Taiga showing the kanban mode with several columns (upcoming, ready, in progress, ready to test, done, archived) with cards for each item with pictures from the Princess Bride.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_Kanban-The-Princess-Bride.jpg)
-<small>Taiga’s KANBAN module is flexible and simple, like it should be.</small>
+<figcaption>Taiga’s KANBAN module is flexible and simple, like it should be.<figcaption>
