@@ -25,7 +25,7 @@ It brings certain order and spatial awareness to the classical TODO list.
 You can't deny its simplicity and almost every cultural context provides the *user* with the tools to understand that this is a simple way to organize pending work.
 
 ![Screenshot of Taiga showing the kanban mode with several columns (upcoming, ready, in progress) with items with pictures from the Princess Bride. Gif shows how an item is moved from a column to another one.]({filename}/images/2020-08-18_why_is_kanban_not_working_for_me/taiga_kanban_move.gif)
-<figcaption>KANBAN reflects progress in part by moving cards from left to right in a step by step transition to the piece of work.</<figcaption>
+<figcaption>KANBAN reflects progress in part by moving cards from left to right in a step by step transition to the piece of work.</figcaption>
 
 
 ###Shared view
