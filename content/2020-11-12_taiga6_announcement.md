@@ -25,7 +25,7 @@ We have made sure that anyone familiar with the existing Taiga UI will need just
 
 Take a closer look at this before&after montage (Taiga5 left, Taiga6 right).
 
-<iframe width="800" src="//www.youtube.com/embed/kJXBMVh2UDI?rel=0" frameborder="0" allowfullscreen style="margin: 0 auto;"></iframe>
+<iframe width="800" height="500" src="//www.youtube.com/embed/kJXBMVh2UDI?rel=0" frameborder="0" allowfullscreen style="margin: 0 auto;"></iframe>
 <figcaption>Colour palette, typographies & icons evolve, but also toolbars, item placement & interactions.</figcaption>
 
 ## Taiga6 will bring a completely new KANBAN board
