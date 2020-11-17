@@ -19,7 +19,7 @@ Yeah, that's right! We thought it was time for a complete visual overhaul. Over 
 A picture is worth a thousand words, so here you have it.
 
 [![Taiga5 vs Taiga6 filter comparison](/images/2020-11-12_taiga6_announcement/filters_before_after.jpg)](/images/2020-11-12_taiga6_announcement/filters_before_after.jpg)
-<figcaption>Taiga5 Backlog filters (left), Tauga6 Backlog filters (right). Click to enlarge.</figcaption>
+<figcaption>Taiga5 Backlog filters (left), Taiga6 Backlog filters (right). Click to enlarge.</figcaption>
 
 We have made sure that anyone familiar with the existing Taiga UI will need just a few minutes to get used to the new one. And they will absolutely love it. It's just better in every way, making it very difficult to go back to Taiga5.
 
