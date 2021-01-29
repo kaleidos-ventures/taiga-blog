@@ -8,7 +8,7 @@ Summary: ![Taiga6 overview](/images/2021-01-26_whatsnewTaiga6/taiga6.jpg) A year
 
 ![Taiga6 overview](/images/2021-01-26_whatsnewTaiga6/taiga6.jpg)
 
-That's right, we, the Taiga team, felt we were at a crossroads. On one hand we had **a stable and sustainable open source business** that could evolve at a steady but calm pace. On the other hand, we felt **we should be doubling down on our agenda** towards a much better agile project management experience. The challenges were many, both technological and product driven. So fra, we have tackled just a few of them and **that's exactly what we're presting today as Taiga6**, our best release **ever** since Taiga 1.0.
+That's right, we, the Taiga team, felt we were at a crossroads. On one hand we had **a stable and sustainable open source business** that could evolve at a steady but calm pace. On the other hand, we felt **we should be doubling down on our agenda** towards a much better agile project management experience. The challenges were many, both technological and product driven. So far, we have tackled just a few of them and **that's exactly what we're presenting today as Taiga6**, our best release **ever** since Taiga 1.0.
 
 
 
@@ -77,7 +77,7 @@ Our dual HTML/Markdown editor was good enough for some time but it was time to a
 
 ## Docker image
 
-We have backpedaled on one of the most sacred long-standing truths here at Taiga; *"don't devote resources to an official on-premise/private cloud Taiga image"*. **The response from the community was absolutely amazing** providing quite a number of really great Taiga docker images and alternative deployment schemes. Eventually, we decided we should be taking a stance on the hundreds of thousands of private Taiga installations out there and **provide an [official Taiga docker image](https://github.com/taigaio/docker-taiga)**. Depending on its success and acceptance, we hope to expand to other ways for deploying Taiga.
+We have back-pedalled on one of the most sacred long-standing truths here at Taiga; *"don't devote resources to an official on-premise/private cloud Taiga image"*. **The response from the community was absolutely amazing** providing quite a number of really great Taiga docker images and alternative deployment schemes. Eventually, we decided we should be taking a stance on the hundreds of thousands of private Taiga installations out there and **provide an [official Taiga docker image](https://github.com/taigaio/docker-taiga)**. Depending on its success and acceptance, we hope to expand to other ways for deploying Taiga.
 
 [![Taiga6 editor](/images/2021-01-26_whatsnewTaiga6/docker.jpg)](https://github.com/taigaio/docker-taiga)
 <figcaption>Visit our [docker repository](https://github.com/taigaio/docker-taiga).</figcaption>
