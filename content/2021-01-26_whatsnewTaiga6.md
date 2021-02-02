@@ -1,4 +1,4 @@
-Title: Taiga6: what's new in this historical release?
+Title: Taiga6: what's new in this historic release?
 Date: 2021-01-26 09:00
 Slug: taiga6-release
 Category: Announcements
