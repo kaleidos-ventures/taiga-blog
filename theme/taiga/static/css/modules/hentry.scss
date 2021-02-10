@@ -27,7 +27,6 @@
         a {
             @extend %light;
             color: $dry-taiga;
-            font-size: 2.3rem;
             &:hover {
                 @include transition(color .3s ease-in);
                 color: $gray;
@@ -40,11 +39,27 @@
         p {
             line-height: 1.8rem;
         }
+        img {
+            width: 100%;
+        }
+    }
+    .entry-footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
     }
     .post-info {
         @extend %small;
         color: $gray-light;
         margin-bottom: .5rem;
+    }
+    .read-more {
+        background: $button-gray;
+        padding: .5rem 1rem;
+        border-radius:3px;
+        &:hover {
+            background: $button-gray-hover;
+        }
     }
     h3 {
         @extend %large;
@@ -82,7 +97,7 @@
     a {
         color: $green-taiga;
         &:hover {
-            color: $fresh-taiga;
+            color: $gray-light;
         }
     }
     p {

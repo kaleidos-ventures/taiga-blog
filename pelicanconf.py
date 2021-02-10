@@ -29,7 +29,7 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 LINKS = (('Taiga.io', 'https://taiga.io'),
          ('Mailing list', 'https://groups.google.com/forum/#!forum/taigaio'),
          ('Kaleidos', 'http://www.kaleidos.net/'),
-         ('ΠWEEK', 'http://piweek.com/'),
+         ('Penpot', 'http://penpot.app/'),
 )
 
 # Social widget

@@ -1,20 +1,23 @@
 .header {
     margin-bottom: 2rem;
-    padding: 0 0 2rem;
     .bg {
         @extend %triangled-bg;
         padding: .5rem;
         margin-bottom: 1rem;
+        background: $green-taiga;
+        background: linear-gradient(90deg, $green-taiga, $fresh-taiga);
     }
     .title {
         @extend %light;
         @extend %larger;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
         margin-bottom: 0;
         text-align: center;
-        line-height: 2.4rem;
         text-transform: uppercase;
         a {
-            color: $dry-taiga;
+            color: $gray;
         }
     }
     .logo {
@@ -25,22 +28,28 @@
 @media (min-width: 960px) {
     .header {
         .wrapper {
-            padding-left: 100px;
+           // padding-left: 100px;
             position: relative;
+            display: flex;
+            justify-content: flex-start;
+            align-content:center;
+            gap:20px;
         }
         .title {
-            line-height: 2.4rem;
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
             text-transform: uppercase;
             a {
                 &:hover {
                     @include transition(color .3s linear);
-                    color: $green-taiga;
+                    color: $black;
                 }
             }
         }
         .logo {
             display: block;
-            margin: 0 auto;
+            //margin: 0 auto;
             width: 80px;
         }
     }

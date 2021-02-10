@@ -19,9 +19,11 @@
         </header>
         <div class="entry-content e-content">
             {{ article.summary }}
-            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Read {{ article.title|striptags }}">[Continue reading →]</a>
         </div><!-- /.entry-content -->
-        {% include 'post-info.html' %}
+        <div class="entry-footer">
+            <a class="read-more" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Read {{ article.title|striptags }}">Continue reading →</a>
+            {% include 'post-info.html' %}
+        </div>
     </article>
     {% endfor %}
 

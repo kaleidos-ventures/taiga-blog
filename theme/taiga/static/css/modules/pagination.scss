@@ -9,17 +9,20 @@
         li{
             display: block;
             float: left;
-            padding: 10px 5px;
+            padding: .5rem 1rem;
             font-size: 1em;
             text-align: center;
-            background-color: $whitish;
+            background-color: $very-light-gray;
+            &:hover:not(.disabled, .active) {
+                background-color: $whitish;
+            }
         }
         .prev, .next{
             display: block;
             min-width: 25%;
         }
         .disabled{
-            color: #000;
+            color: $black;
             opacity: .2;
         }
         .active{
