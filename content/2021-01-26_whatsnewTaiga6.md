@@ -75,10 +75,10 @@ Our dual HTML/Markdown editor was good enough for some time but it was time to a
 
 <h2><a id="docker-image">Docker image</a></h2>
 
-We have back-pedalled on one of the most sacred long-standing truths here at Taiga; *"don't devote resources to an official on-premise/private cloud Taiga image"*. **The response from the community was absolutely amazing** providing quite a number of really great Taiga docker images and alternative deployment schemes. Eventually, we decided we should be taking a stance on the hundreds of thousands of private Taiga installations out there and **provide an [official Taiga docker image](https://github.com/taigaio/docker-taiga)**. Depending on its success and acceptance, we hope to expand to other ways for deploying Taiga.
+We have back-pedalled on one of the most sacred long-standing truths here at Taiga; *"don't devote resources to an official on-premise/private cloud Taiga image"*. **The response from the community was absolutely amazing** providing quite a number of really great Taiga docker images and alternative deployment schemes. Eventually, we decided we should be taking a stance on the hundreds of thousands of private Taiga installations out there and **provide an [official Taiga docker image](https://github.com/taigaio/taiga-docker)**. Depending on its success and acceptance, we hope to expand to other ways for deploying Taiga.
 
-[![Taiga6 editor](/images/2021-01-26_whatsnewTaiga6/docker.jpg)](https://github.com/taigaio/docker-taiga)
-<figcaption>Visit our [docker repository](https://github.com/taigaio/docker-taiga).</figcaption>
+[![Taiga6 editor](/images/2021-01-26_whatsnewTaiga6/docker.jpg)](https://github.com/taigaio/taiga-docker)
+<figcaption>Visit our [docker repository](https://github.com/taigaio/taiga-docker).</figcaption>
 
 <h2><a id="what-to-expect">What to expect from Taiga in 2021</a></h2>
 
