@@ -28,12 +28,12 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 # Blogroll
 LINKS = (('Taiga.io', 'https://taiga.io'),
          ('Mailing list', 'https://groups.google.com/forum/#!forum/taigaio'),
-         ('Kaleidos', 'http://www.kaleidos.net/'),
-         ('Penpot', 'http://penpot.app/'),
+         ('Kaleidos', 'https://www.kaleidos.net/'),
+         ('Penpot', 'https://penpot.app/'),
 )
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/taigaio'),
+SOCIAL = (('Twitter', 'https://twitter.com/taigaio'),
           ('Github', 'https://github.com/taigaio'),
 )
 
@@ -66,7 +66,7 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = ['gravatar', 'sitemap', 'open_graph']
 
 
-PRIVACY_POLICY_URL = "http://taiga.io/privacy-policy"
+PRIVACY_POLICY_URL = "https://taiga.io/privacy-policy"
 
 SITEMAP = {
     "format": "xml",
