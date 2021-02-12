@@ -3,6 +3,7 @@
 {% block title %}{{ article.title }} | {{ SITENAME }}{% endblock title %}
 
 {% block extra_head %}
+
 {% for keyword in article.keywords %}
 <meta name="keywords" contents="{{keyword}}" />
 {% endfor %}
@@ -12,11 +13,6 @@
 {% for tag in article.tags %}
 <meta name="tags" contents="{{tag}}" />
 {% endfor %}
-
-<!--  Facebook metadata   -->
-<meta property="og:title" content="{{ article.title }}" />
-<meta property="og:site_name" content="{{ SITENAME }}" />
-<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
 
 {% endblock %}
 

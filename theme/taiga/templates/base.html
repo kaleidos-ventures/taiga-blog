@@ -6,14 +6,32 @@
     <meta name="author" content="{{ AUTHOR }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- Facebook meta tags -->
     {% if article %}
     {% for tag in article.ogtags %}
     <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
     {% endfor %}
     {% endif %}
-
     {% if page  %}
     {% for tag in page.ogtags %}
+    <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+    {% endfor %}
+    {% endif %}
+
+    <!-- Twitter meta tags -->
+    {% if article and article.twittermetatags %}
+    {% for tag in article.twittermetatags.names %}
+    <meta name="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+    {% endfor %}
+    {% for tag in article.twittermetatags.properties %}
+    <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+    {% endfor %}
+    {% endif %}
+    {% if page and page.twittermetatags %}
+    {% for tag in page.twittermetatags.names %}
+    <meta name="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+    {% endfor %}
+    {% for tag in page.twittermetatags.properties %}
     <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
     {% endfor %}
     {% endif %}
@@ -26,7 +44,7 @@
     <!-- Le styles -->
     <link href="{{ SITEURL }}/theme/css/main.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- favicon -->

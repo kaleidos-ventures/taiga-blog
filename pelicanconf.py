@@ -37,6 +37,10 @@ SOCIAL = (('Twitter', 'https://twitter.com/taigaio'),
           ('Github', 'https://github.com/taigaio'),
 )
 
+# Social metatags plugin settings
+TWITTER_META_SITE = "@taigaio"
+
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -63,7 +67,7 @@ DISQUS_SITENAME = "taiga-blog"
 
 #Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['gravatar', 'sitemap', 'open_graph']
+PLUGINS = ['gravatar', 'sitemap', 'open_graph', 'twitter_meta']
 
 
 PRIVACY_POLICY_URL = "https://taiga.io/privacy-policy"

@@ -64,7 +64,7 @@ def open_graph_tag(item):
                 img_src = img_src[11:]
             if not "http" in img_src:
                 if item.settings.get('SITEURL', ''):
-                    img_src = item.settings.get('SITEURL', '') + "/" + img_src
+                    img_src = urllib.parser.join(item.settings.get('SITEURL', ''), img_src)
             ogtags.append(('og:image', img_src))
 
     url = os.path.join(item.settings.get('SITEURL', ''), item.url)
