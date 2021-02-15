@@ -22,9 +22,8 @@ Use like this in your base.html template:
   {% endif %}
 
 """
-from __future__ import unicode_literals
-
 import os.path
+from urllib.parse import urljoin, urlparse
 
 from pelican import generators, signals
 from pelican.utils import strftime
@@ -64,7 +63,7 @@ def open_graph_tag(item):
                 img_src = img_src[11:]
             if not "http" in img_src:
                 if item.settings.get('SITEURL', ''):
-                    img_src = urllib.parser.join(item.settings.get('SITEURL', ''), img_src)
+                    img_src = urljoin(item.settings.get('SITEURL', ''), img_src)
             ogtags.append(('og:image', img_src))
 
     url = os.path.join(item.settings.get('SITEURL', ''), item.url)

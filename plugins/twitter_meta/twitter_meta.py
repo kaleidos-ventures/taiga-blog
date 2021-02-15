@@ -9,7 +9,7 @@ Use like this in your base.html template:
 
 .. code-block:: jinja2
 
-  {% if article and article.twittermetatags %}
+  {% if article %}
   {% for tag in article.twittermetatags.names %}
   <meta name="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
   {% endfor %}
@@ -18,7 +18,7 @@ Use like this in your base.html template:
   {% endfor %}
   {% endif %}
 
-  {% if page and page.twittermetatags %}
+  {% if page %}
   {% for tag in page.twittermetatags.names %}
   <meta name="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
   {% endfor %}
@@ -37,7 +37,6 @@ from bs4 import BeautifulSoup
 
 
 def twitter_meta_tag_articles(content_generators):
-
     for generator in content_generators:
         if isinstance(generator, generators.ArticlesGenerator):
             for article in (
@@ -101,43 +100,6 @@ def twitter_meta_tag(item):
       "names": tag_names,
       "properties": tag_properties,
     }
-
-    # default_locale = item.settings.get('LOCALE', [])
-    # if default_locale:
-    #     default_locale = default_locale[0]
-    # else:
-    #     default_locale = ''
-    # ogtags.append(
-    #     ('og:locale', item.metadata.get('og_locale', default_locale)))
-
-    # ogtags.append(('og:site_name', item.settings.get('SITENAME', '')))
-
-    # ogtags.append(('article:published_time',
-    #                strftime(item.date, "%Y-%m-%d")))
-
-    # if hasattr(item, 'modified'):
-    #     ogtags.append(('article:modified_time', strftime(
-    #         item.modified, "%Y-%m-%d")))
-
-    # if hasattr(item, 'related_posts'):
-    #     for related_post in item.related_posts:
-    #         url = os.path.join(item.settings.get('SITEURL', ''), related_post.url)
-    #         ogtags.append(('og:see_also', url))
-
-    # author_fb_profiles = item.settings.get('AUTHOR_FB_ID', {})
-    # if len(author_fb_profiles) > 0:
-    #     for author in item.authors:
-    #         if author.name in author_fb_profiles:
-    #             ogtags.append(
-    #                 ('article:author', author_fb_profiles[author.name]))
-
-    # ogtags.append(('article:section', item.category.name))
-
-    # try:
-    #     for tag in item.tags:
-    #         ogtags.append(('article:tag', tag.name))
-    # except AttributeError:
-    #     pass
 
 
 def register():
