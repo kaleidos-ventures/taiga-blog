@@ -40,7 +40,7 @@ LINKS = (('Taiga.io', 'https://taiga.io'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/taigaio'),
-          ('Github', 'https://github.com/taigaio'),
+          ('Github', 'https://github.com/kaleidos-ventures'),
 )
 
 # Social metatags plugin settings
