@@ -15,7 +15,7 @@ Among the issues you can help with are making wiki page titles editable, reorder
 
 ![Taiga's issues at GitHub]({filename}/images/2019-09-11_taiga_hackoctoberfest/issues_taiga_hackoctoberfest.jpg)
 
-We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality. For more info check [Taiga's code of conduct](https://github.com/taigaio/code-of-conduct/blob/master/CODE_OF_CONDUCT.md)
+We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality. For more info check [Taiga's code of conduct](https://github.com/kaleidos-ventures/code-of-conduct/blob/main/CODE_OF_CONDUCT.md)
 
 You can do it anytime until October 31. The first 50,000 participants who successfully complete the challenge will earn a T-shirt. More importantly, you will have contributed to the open source community. Taiga and its estimated million of users all around the world will thank you ;).
 
