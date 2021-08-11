@@ -66,7 +66,7 @@ function shut_down(){
 }
 
 function start_up(){
-  local port=$1
+  local port=$2
   echo "Starting up Pelican and HTTP server"
   shift
   $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &

@@ -8,15 +8,6 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
 
 - Create virtualenv:
 
-  - With virtaulenvwrapper (old style)
-
-    ```bash
-    mkvirtualenv -p /usr/bin/python3 taiga-blog
-    workon taiga-blog
-    ```
-
-  - Or with venv (new style)
-
     ```bash
     python3 -m venv .env
     source .env/bin/activate
@@ -30,6 +21,8 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
 
 - Install SASS (only if you want to modify style):
 
+You need to install ruby package first
+
   ```bash
   gem install sass scss-lint
   export PATH="/usr/bin/core_perl:$(ruby -e "print Gem.user_dir")/bin:$PATH"
@@ -39,14 +32,6 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
 
 - Enable the enviroment
 
-  - With virtaulenvwrapper (old style)
-
-    ```bash
-    workon taiga-blog
-    ```
-
-  - Or with venv (new style)
-
     ```bash
     source .env/bin/activate
     ```
@@ -54,14 +39,19 @@ Taiga blog (https://blog.taiga.io/) made with Pelican (https://github.com/getpel
 - Run dev server
 
   ```bash
-  make devserver
+  pelican -r
   ```
 
-- Stop dev server
+On another terminal run
 
   ```bash
-  make stopserver
+  cd output && python -m http.server 8080
   ```
+  
+- Stop dev server
+
+  CTRL+C pelican -r terminal
+
 
 - Deactivate the enviroment
   ```bash
