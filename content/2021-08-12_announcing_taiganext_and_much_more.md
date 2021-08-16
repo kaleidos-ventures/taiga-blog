@@ -19,7 +19,7 @@ We got funding, an amazing team and extra motivation —the perfect storm for ou
 
 This means that our greatest Taiga release ever, the critically acclaimed [Taiga6](https://blog.taiga.io/taiga6-release.html), will have to give way to something bigger than "just" Taiga7. That's right, we won't allow ourselves to call the next Taiga release Taiga7 because we feel it would send the wrong message. It's not going to be an incremental step, **it's going to be a massive leap.**
 
-![Taiga6](/images/2021-08-12_announcing_taiganext_and_much_more/taiga_Kanban_ThePrincessBride.png)
+![Taiga6](/images/2021-08-12_announcing_taiganext_and_much_more/taiga6-io-project-the-princess-bride-kanban-2021-08-16.png)
 
 We'd love to tell you all the details on what’s to come in 2022 and show you what it's going to look like but you’ll have to wait until the official launch. We're both keeping key Taiga concepts and rethinking many aspects related to use cases, processes and interactions. Of course, Taiga's relationship with Penpot will be given much attention. In our efforts to bridge the gap between code and design using lean practices, **Taiga and Penpot will represent our heavily opinionated worldview on how teams can better enjoy their collaborative work.**
 
