@@ -1,7 +1,7 @@
 Title: Announcing TaigaNext and much more!
 Date: 2021-08-12 09:00
 Slug: announcing_taiganext
-Category: Annoucements
+Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
 Summary: ![TaigaNext announcement](/images/2021-08-12_announcing_taiganext_and_much_more/TaigaNext_announcement_image.jpg) This 2021 summer is a time for big changes here at Taiga. Your beloved open source agile project management platform is on a path to reach a new level in 2022. Let this be a teaser of what's to come and what's the impact that matters in the short term.
