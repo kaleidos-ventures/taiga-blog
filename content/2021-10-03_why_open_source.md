@@ -74,4 +74,12 @@ We know from experience about the benefits of having a community with profession
  
 Platforms often provide contribution guides such as [Taiga’s](https://resources.taiga.io/extend/how-can-i-contribute/), which encompass almost everything one needs to know about how to collaborate in the project. 
 
- 
+
+ ![Why Taiga](/images/2021-10-04_why_open_source/2021-10-04_whytaiga.jpg)
+
+ A lot has been gained in the open source world because, not so long ago, **the ability of the communities of developers to build high quality, inclusive and open source** technologies was underestimated. This recent change in the mindset of companies and its users means not only a very important technological transformation but also a very positive social impact.  We should leverage the changing current and support it as much as possible. 
+
+
+
+
+*You've made it this far! Thanks for reading. Hope you found it interesting, inspiring and who knows... you might even want to give a try to **Taiga, our open-source agile project management tool for multi-functional teams.** Go on! [Sign up, it's free](https://www.taiga.io/trialsignup?hash=f6fa9611a80496b63b12aa088dfbeccb&landing_source=homepage&IP=47.62.83.165&_landing_hash=b192ae461649b7e7d078&_landing_version=dqQNy1W.4XjBO.2AL8o6cG2CgN5Vxjy4).*
