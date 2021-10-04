@@ -15,7 +15,7 @@ For those of you who don't know it, Taiga was an incubated project born at [Kale
 The answer was a resounding No. So we ditched our past IT consultancy business, repatriated both Taiga and Penpot from their respective Kaleidos subsidiaries and put the whole team behind them. That's right, the people behind Taiga, the same people behind Penpot, are making [the big move towards fully embracing our own open source products as our sole activity and business](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/). 
 
 ![Why Open Source](/images/2021-10-04_why_open_source/2021-10-04_Kaleiders_Why_Open_Source.jpg)
-
+*Maria and Marina at the former Kaleidos' office.*
 
 #### **Yes, open source code is safe and excellent in terms of quality**
 Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
@@ -76,6 +76,7 @@ Platforms often provide contribution guides such as [Taiga’s](https://resource
 
 
  ![Why Taiga](/images/2021-10-04_why_open_source/2021-10-04_whytaiga.jpg)
+ *Taiga 6 scrum and kanban screenshots*
 
  A lot has been gained in the open source world because, not so long ago, **the ability of the communities of developers to build high quality, inclusive and open source** technologies was underestimated. This recent change in the mindset of companies and its users means not only a very important technological transformation but also a very positive social impact.  We should leverage the changing current and support it as much as possible. 
 
