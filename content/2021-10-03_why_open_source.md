@@ -1,5 +1,5 @@
 Title: Why open source?
-Date: 2021-10-04 09:00
+Date: 2021-10-04 10:03
 Slug: why_open_source
 Category: General
 Author: Taiga Team
@@ -14,9 +14,10 @@ For those of you who don't know it, Taiga was an incubated project born at [Kale
 
 The answer was a resounding No. So we ditched our past IT consultancy business, repatriated both Taiga and Penpot from their respective Kaleidos subsidiaries and put the whole team behind them. That's right, the people behind Taiga, the same people behind Penpot, are making [the big move towards fully embracing our own open source products as our sole activity and business](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/). 
 
-![TaigaNext announcement](/images/2021-08-12_announcing_taiganext_and_much_more/TaigaNext_announcement_image.jpg)
+![Why Open Source](/images/2021-10-04_why_open_source/2021-10-04_Kaleiders_Why_Open_Source.jpg)
 
-#### Yes, open source code is safe and excellent in terms of quality
+
+#### **Yes, open source code is safe and excellent in terms of quality**
 Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
 
 
@@ -24,8 +25,9 @@ Apart from the flexibility as well as its constant customisation and reviewing c
 - **Low cost**. Most open source projects are free of charge.
 - **Steady support**. Technological communities are incredibly active online, which means that very often there are excellent support options such as forums, documentation and online technical support.  
 - **High quality**. This is a key factor in the open source community. Tools are developed by a multinational community of experienced developers with tons of talent and diverse backgrounds, therefore these tools are in constant optimization and receive a wealth of contributions. 
+ 
 
-#### Enhancing contributions 
+#### **Enhancing contributions**
 Undoubtedly, the best proof of open source software as a great choice for organizations is the contributions from the community to keep improving a tool. Having a community behind an open source tool gives a piece of mind to users, because more frequently technology will keep getting developed and the end product will carry on evolving. 
 
 “Tools are developed by a multinational community of experienced developers with tons of talent and diverse backgrounds.”
@@ -34,7 +36,8 @@ We know well from the experience of belonging to a product development team that
 
 These contributions come from individuals all over the world that improve the project with a collaborative spirit, and those improvements are fed back into the community so anyone can benefit from them. Therefore, the fact that the core of these tools relies **on external contributions enhances the updates and the evolution of such tools** which adapt to the needs that may arise with the usage. 
 
-#### We contribute to the community and the community feeds back to us
+
+#### **We contribute to the community and the community feeds back to us**
 At [Kaleidos](https://kaleidos.net/), our mother company, everything we do is open source. We create products with open source software, we contribute to the community and the community feeds back into our products. 
 
 We also try to use open source tools only. We are so convinced that we want to support this kind of technology that **we even have a criteria list that helps us choose the best tools to work with**. In this list we put the tools to the test with questions such as: 
@@ -49,7 +52,8 @@ Therefore in one of our innovation weeks that we run twice a year, Kaleiders dec
 
 Taiga’s code is available at open repositories; everybody can access it and collaborate to improve it. This way, users can help by **supporting a tool that is accessible, open and inclusive.**
 
-#### A matter of awareness and trust
+
+#### **A matter of awareness and trust**
 When we used to develop for our clients as a software consultancy, we felt we had the duty to make our clients aware of the benefits of open source. Furthermore, we used to include a section in the project NDAs to free some parts of our code. Somehow, we had to evangelize about Open Source.
 
 Currently, at Kaleidos, we focus exclusively on developing our own two products —[Taiga](https://www.taiga.io/) and [Penpot](https://penpot.app/)— which both are open source software. Our communities are already committed  to open source and they take an important role to improve our tools. 
@@ -58,7 +62,8 @@ When using our application, users give us feedback and send us bug issues as wel
 
 Users can make the [contributions via GitHub](https://github.com/kaleidos-ventures) where we keep our code. Github is an online repository where users can contribute with their suggestions and can create any instance of Taiga. 
 
-#### The community, why do they contribute?
+
+#### **The community, why do they contribute?**
 We know from experience about the benefits of having a community with professionals keen to share their knowledge with open source projects. However, what do they receive in return? Contributions can be motivated by different reasons: 
 
 - **Improving their skills and encouraging innovation**. Open Source code allows the practice of several skills: coding, user interface design, graphic design, translations, etc. 
