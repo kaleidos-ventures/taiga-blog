@@ -10,15 +10,15 @@ Summary: ![Why Open Source](/images/2021-10-04_why_open_source/2021-10-04_Kaleid
 Many companies are acknowledging the advantages of using Open Source software. According to the latest report by Red Hat, [The State of Enterprise Open Source 2021](https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf),   **the most innovative organizations are the ones that use open source software** because it allows enough flexibility to adapt to their own needs. One of the main characteristics in open source is that it can accelerate processes of innovation. 
  
 
-For those of you who don't know it, Taiga was an incubated project born at [Kaleidos](https://kaleidos.net/) that deserved proper funding, a company of its own, etc.—a sort of spin-off. This year **we did the same with [Penpot](https://penpot.app/), an open source design & prototyping tool.** So Kaleidos kept its boutique consultancy activity while supporting two spin-offs. That led to a fundamental question: is this really what we want to do? To have a core consultancy business and split up the rest of our focus on our two greatest products?
+For those of you who don't know it, Taiga was an incubated open source project born in one of the innovation weeks run by [Kaleidos](https://kaleidos.net/). The project deserved proper funding, a company of its own, etc.—a sort of spin-off. This year **we did the same with [Penpot](https://penpot.app/), an open source design & prototyping tool.** So Kaleidos kept its boutique consultancy activity while supporting two spin-offs. That led to a fundamental question: is this really what we want to do? To have a core consultancy business and split up the rest of our focus on our two greatest products? 
 
-The answer was a resounding No. So we ditched our past IT consultancy business, repatriated both Taiga and Penpot from their respective Kaleidos subsidiaries and put the whole team behind them. That's right, the people behind Taiga, the same people behind Penpot, are making [the big move towards fully embracing our own open source products as our sole activity and business](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/). 
+The answer was a resounding No. So we ditched our past IT consultancy business, repatriated both Taiga and Penpot from their respective Kaleidos subsidiaries and put the whole team behind them. That's right, the people behind Taiga, the same people behind Penpot, are making [the big move towards fully embracing our own open source products as our sole activity and business](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/). A couple of simple projects, born at our innovation weeks, became the great products we have today and changed Kaleido's business model for good. 
 
 ![Why Open Source](/images/2021-10-04_why_open_source/2021-10-04_Kaleiders_Why_Open_Source.jpg)
 *Maria and Marina at the former Kaleidos' office.*
 
 #### **Yes, open source code is safe and excellent in terms of quality**
-Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
+How could we rely on open source to be the backbone of our two products when some people believe it to be unsafe? Because open source is what we've always preached, believed in and do. And here's why. Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
 
 
 - **Security**. Companies worry about the risk of using an open source tool. However, open source software ensures more people can inspect it, localize and fix possible vulnerabilities. Here’s where the user has an active responsibility to keep the software up to date with the latest release.
@@ -76,7 +76,7 @@ Platforms often provide contribution guides such as [Taiga’s](https://resource
 
 
  ![Why Taiga](/images/2021-10-04_why_open_source/2021-10-04_whytaiga.jpg)
- *Taiga 6 scrum and kanban screenshots*
+ *Taiga 6 scrum and kanban screenshots.*
 
  A lot has been gained in the open source world because, not so long ago, **the ability of the communities of developers to build high quality, inclusive and open source** technologies was underestimated. This recent change in the mindset of companies and its users means not only a very important technological transformation but also a very positive social impact.  We should leverage the changing current and support it as much as possible. 
 
