@@ -70,7 +70,7 @@ We know from experience about the benefits of having a community with profession
 - **Share the same interests with their peers.**
 - **Learning and teaching**. When working on a tech project such as Penpot, you share your knowledge and experience. Sometimes you are a mentor, sometimes you are a mentee. 
 - **Building a reputation**. Everything developed in open source is public, therefore contributors will have practical examples to showcase what they can do. 
-- **Becoming a change agent**. Contributions can be major or minor, but whatever the effort put into it, open source code helps people feel they are part of the change. 
+- **Becoming a change agent**. Collaborations can be major or minor, but whatever the effort put into it, open source code helps people feel they are part of the change. 
  
 Platforms often provide contribution guides such as [Taiga’s](https://resources.taiga.io/extend/how-can-i-contribute/), which encompass almost everything one needs to know about how to collaborate in the project. 
 
