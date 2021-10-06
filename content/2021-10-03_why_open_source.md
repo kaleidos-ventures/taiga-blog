@@ -18,7 +18,7 @@ The answer was a resounding No. So we ditched our past IT consultancy business, 
 *Maria and Marina at the former Kaleidos' office.*
 
 #### **Yes, open source code is safe and excellent in terms of quality**
-How could we rely on open source to be the backbone of our two products when some people believe it to be unsafe? Because open source is what we've always preached, believed in and do. And here's why. Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
+How could we rely on open source to be the backbone of our two products when some people believe it to be unsafe? Because open source is what we've always preached, believed in and did. And here's why. Apart from the flexibility as well as its constant customisation and reviewing capabilities, this technology offers companies and individuals the following: 
 
 
 - **Security**. Companies worry about the risk of using an open source tool. However, open source software ensures more people can inspect it, localize and fix possible vulnerabilities. Here’s where the user has an active responsibility to keep the software up to date with the latest release.
