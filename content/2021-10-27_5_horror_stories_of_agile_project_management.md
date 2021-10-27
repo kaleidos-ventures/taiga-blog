@@ -3,14 +3,14 @@ Slug: 5_horror_stories_of_agile_project_management
 Category: Agile
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![5 horror stories of agile project management](/images/2021-10-27_5_horror_stories_of_agile_project_management/2021-10-27_5_horror_stories_of_agile_project_management.png) Halloween is upon us and yes, this is another spooky article leveraging this seasonal time of the year to talk about horror stories of project management that our colleagues have shared with us.  
+Summary: ![5 horror stories of agile project management](/images/2021-10-27_5_horror_stories_of_agile_project_management/2021-10-27_5_horror_stories_of_agile_project_management.jpg) Halloween is upon us and yes, this is another spooky article leveraging this seasonal time of the year to talk about horror stories of project management that our colleagues have shared with us.  
 
 
 Halloween is upon us and yes, this is another spooky article leveraging this seasonal time of the year to talk about **horror stories of agile project management** that our colleagues have shared with us. 
 Do you dare to enter our haunted house? You’ll come across dead projects, zombie ships and vanishing team members. These stories will surely give you a fright. Are you brave enough to stay and read our heart-wrenching stories? If not, you can always use a shortcut and check [how to stop having nightmares](https://www.taiga.io/easyagile) with our intuitive and easy-to-use tool for agile project management. 
 
  
-![5 horror stories of agile project management](/images/2021-10-27_5_horror_stories_of_agile_project_management/2021-10-27_5_horror_stories_of_agile_project_management.png)
+![5 horror stories of agile project management](/images/2021-10-27_5_horror_stories_of_agile_project_management/2021-10-27_5_horror_stories_of_agile_project_management.jpg)
 
 
 #### **Horror Story #1: The mysterious vanishing of the Project Owner's assistants**
