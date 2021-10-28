@@ -28,6 +28,8 @@ These **four assistants** were never heard of again. And the tasks were never un
 By **[Xavi Julián](https://kaleidos.net/kaleiders/CC0000), frontend developer at Kaleidos**
 
 
+
+
 #### **Horror Story #2: This project is dead…**
 We were so proud of our work! Everything had gone smoothly and the results of an 18-month project would benefit tons of civil servants. This would be a major leap towards a more modern public administration and a better citizenship engagement. It was more than that, though. It’d be considered a future-projects’ template —the ripple effects would be enormous! 
 
@@ -36,6 +38,9 @@ On the last demo day, we awaited for final approval to start deploying the new s
 
 By **[Pablo Ruiz Múzquiz](https://kaleidos.net/kaleiders/761CEC), CEO at Kaleidos & Taiga**
 
+
+![Nosferatu likes agile](/images/2021-10-27_5_horror_stories_of_agile_project_management/nosferatu.jpg)
+*Nosferatu likes agile.*
 
 #### **Horror Story #3: Soft fright (commitment) vs strong fright (commitment)**
 We had this great project a few years back. It was quite challenging because there was some uncertainty around its technical feasibility —pushing the limits of the web browser— but also because the concept itself was still tough to grasp. The founder talked and talked about his grand vision but many of us were unsure of what he really meant. “No problem”, we said, “we shall iterate in an Agile way: validating hypotheses as we go and reducing as much waste as possible through sprint demos and approvals.”
@@ -48,6 +53,8 @@ Our jaws dropped. “So-sorry? What do you me-mean? You have been validating and
 
 
 By **[Pablo Ruiz Múzquiz](https://kaleidos.net/kaleiders/761CEC), CEO at Kaleidos & Taiga**
+
+
 
 
 #### **Horror Story #4: The nightmare of a ‘full-equipped’ contract**
@@ -73,6 +80,8 @@ That first year, though, will remain a top ranking nightmare in my professional 
 By **[Andrés Moya](https://kaleidos.net/kaleiders/002E33), software engineer at Kaleidos.**
 
 
+
+
 #### **Horror Story #5: The bombing of the zombie pirate ship and the absurdity of allocating resources and budget.**
 Once upon a time there was a project proposal I was tasked with as part of my pre-sales responsibilities. Agile was in its early years and not well known yet. I laid out the major tasks as well as the number of people and how long those tasks should go on for. I was very proud of how I had managed to smartly overlap different stages, team members and allocated time until the head of department and the sales manager came around. They made some calculations and firmly disapproved. My plan was 300% above the client's budget and, what was worse, it was 400% above what our company wanted to offer as a discount. 
 
@@ -82,7 +91,7 @@ I was happy we didn’t win that project. It would have been the equivalent of s
 
 By **[Pablo Ruiz Múzquiz](https://kaleidos.net/kaleiders/761CEC), CEO at Kaleidos & Taiga**
 
-
+![Pirateship gif](/images/2021-10-27_5_horror_stories_of_agile_project_management/pirateship.gif)
 
 
 *You've made it this far! Thanks for reading. Hope you found it interesting, inspiring and who knows... you might even want to give a try to **Taiga is the easy-to-use agile tool that helps you manage your projects effectively.** Go on! [Sign up, it's free](https://www.taiga.io/easyagile).*
