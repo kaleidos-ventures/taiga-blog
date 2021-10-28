@@ -28,7 +28,7 @@ These **four assistants** were never heard of again. And the tasks were never un
 By **[Xavi Julián](https://kaleidos.net/kaleiders/CC0000), frontend developer at Kaleidos**
 
 
-#### **Horror Story #2: This project is dead… Cancelled**
+#### **Horror Story #2: This project is dead…**
 We were so proud of our work! Everything had gone smoothly and the results of an 18-month project would benefit tons of civil servants. This would be a major leap towards a more modern public administration and a better citizenship engagement. It was more than that, though. It’d be considered a future-projects’ template —the ripple effects would be enormous! 
 
 On the last demo day, we awaited for final approval to start deploying the new software platform with the client’s help. After that call, our managing director came out of his office with a big smile on his face. “I have great news!” he announced. “I had a long conversation with the client and the project has been cancelled” he continued. Our heart rate skyrocketed but we managed to remain silent, eagerly waiting for the *great-news part* to be unveiled. “This is the definition of a perfect project...” he went on, unaware of our growing desperation “...we get paid, the project is finished **but it doesn’t go into production**, so we won’t get any bug reports or support requests!!! Come on, I’ll buy drinks for everyone!”. *Silence*.
@@ -81,6 +81,7 @@ They were happy with the project’s overall timing: a whole year. Everyone seem
 I was happy we didn’t win that project. It would have been the equivalent of setting sail to a bombarded ship full of zombie body parts led by a screaming head nailed to a mast.
 
 By **[Pablo Ruiz Múzquiz](https://kaleidos.net/kaleiders/761CEC), CEO at Kaleidos & Taiga**
+
 
 
 
