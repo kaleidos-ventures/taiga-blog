@@ -3,7 +3,7 @@ Slug: how_to_implement_agile_in_pandemic_times
 Category: Agile
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Remote agile from home](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/kiri_myfunnyandy2.jpg) In these days of remote work, distributed teams, and time zones that stretch across multiple continents, can be more challenging to implement agile successfully or not?
+Summary: ![Remote agile from home](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/kiri_myfunnyandy2.jpeg) In these days of remote work, distributed teams, and time zones that stretch across multiple continents, can be more challenging to implement agile successfully or not?
 
 
 
