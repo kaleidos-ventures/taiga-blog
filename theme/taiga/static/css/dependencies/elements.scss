@@ -5,12 +5,16 @@ blockquote,
 blockquote p {
     color: $gray-light;
     font-style: italic;
-    line-height: 24px;
+    line-height: 2.2rem;
+    font-size: 32px;
 }
 blockquote {
     border-left: 1px solid $gray-light;
     margin: 0 0 20px;
     padding: 9px 20px 0 19px;
+    font-size: 32px;
+    line-height: 2.2rem;
+
     cite {
         @extend %small;
         color:$gray;

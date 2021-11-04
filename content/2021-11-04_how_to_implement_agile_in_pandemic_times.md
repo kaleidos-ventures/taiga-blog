@@ -22,6 +22,8 @@ You can watch the answers on this video, listen to the podcast or read the writt
 ![VIDEO LINK](https://youtu.be/TL802DBHgzw)
 [PODCAST]
 
+> "Una quote que tiene muchas palabaras tiene muchas palabaras tiene muchas palabarastiene muchas palabarastiene muchas palabarastiene muchas palabaras" **Pablo Ruiz**
+
 #### **Q1: Has the pandemic affected agile or agile teams in any way?**
 Well, absolutely, yes. I'd say that two things come to mind. The pandemic has seen agile teams cope with it better than what I tend to call fawl agile teams. So false agile teams, and of course, non-agile teams. Why? Why is this? Because they are better prepared to deal with changes. **Agile teams are great at embracing change.**
 
