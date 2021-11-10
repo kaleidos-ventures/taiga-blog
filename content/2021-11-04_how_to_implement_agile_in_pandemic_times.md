@@ -14,7 +14,7 @@ Pablo has a broad experience in working with agile development teams. He has par
 As an expert in agile, we asked him quite a few questions on the matter from which we've selected the following for this article.
 
 You can watch the answers on the video, listen to the podcast or read the written interview below.  
-[Watch the VIDEO INTERVIEW](https://youtu.be/TL802DBHgzw) or [listen to the PODCAST on Spotify](https://open.spotify.com/show/7yWYVvS4JatNUP5mBjM2XW) or [on ivoox](https://podcasters.ivoox.com/#/episodes/77886001).
+**[Watch the VIDEO INTERVIEW](https://youtu.be/TL802DBHgzw) or [listen to the PODCAST on Spotify](https://open.spotify.com/show/7yWYVvS4JatNUP5mBjM2XW) or [on ivoox](https://podcasters.ivoox.com/#/episodes/77886001).**
 
 
 ![Pablo Ruiz-Muzquiz](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/Pablo_Ruiz_Muzquiz_2.jpg)
