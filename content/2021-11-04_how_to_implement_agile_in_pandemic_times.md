@@ -50,6 +50,10 @@ Agile embraces change. Now, you could argue that agile teams and organizations t
 It doesn't create new matter when there is none if I can use that analogy. **It will transform with a lot of effectiveness what you've got into the most innovative driven process.** But it doesn't give you innovation for free. You need, as I said, incentive, motivation, resources... without that, agile is just like a very efficient technique, but you need more than that. And I think organizations and teams need to be aware of this. There's a correlation. But if you want innovation to happen, make sure you inject energy into the system. And of course, you have to be agile. But you need more than just that.
 
 
+![Remote agile from home](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/kiri_myfunnyandy2.jpeg)
+Kiri substitutes our teammate, Andy, when he's not around.
+
+
 #### **Q3: Can remote work be effective for agile teams?**
 Sure, it can. I think provided that they don't forget the Agile Manifesto principle that says "individuals and interactions over processes and tools", then that's key to keep in mind. 
 
