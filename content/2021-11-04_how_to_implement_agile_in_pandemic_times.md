@@ -7,22 +7,23 @@ Summary: ![Remote agile from home](/images/2021-11-04_how_to_implement_agile_in_
 
 
 
-Agile teams are becoming more and more popular in these days of extended and standardized digitalization forced by the pandemics in many cases. However, in this age of remote work, distributed teams, and time zones that stretch across multiple continents, it can sometimes be more challenging to implement agile successfully. We recently had the opportunity to interview [Pablo Ruiz-Muzquiz](https://kaleidos.net/kaleiders/761CEC), CEO and co-founder of [Taiga](https://www.taiga.io/easyagile) and [Kaleidos](https://kaleidos.net/). 
-
- 
-![Pablo Ruiz-Muzquiz](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/Pablo_Ruiz_Muzquiz_2.jpg)
-Pablo Ruiz-Muzquiz, CEO and co-founder of Kaleidos and Taiga.
+Agile teams are becoming more and more popular in these days of extended and standardized digitalization forced, in many cases, by the pandemics. However, in this age of remote work, distributed teams, and time zones that stretch across multiple continents, **it can be sometimes more challenging to implement agile successfully.** We recently had the opportunity to interview [Pablo Ruiz-Muzquiz](https://kaleidos.net/kaleiders/761CEC), CEO and co-founder of [Taiga](https://www.taiga.io/easyagile) and [Kaleidos](https://kaleidos.net/). 
 
 Pablo has a broad experience in working with agile development teams. He has participated in the design and development of more than 30 large technological projects. And he promotes new productive, sustainable and committed models with a positive impact on society. 
 
-As an expert in agile, we asked him quite a few questions on the matter from which we've selected the following for this article. 
+As an expert in agile, **we asked him quite a few questions on the matter from which we've selected the following for this article.**   
 
 You can watch the answers on this video, listen to the podcast or read the written interview below.  
 
-![VIDEO LINK](https://youtu.be/TL802DBHgzw)
-[PODCAST]
 
-> "Una quote que tiene muchas palabaras tiene muchas palabaras tiene muchas palabarastiene muchas palabarastiene muchas palabarastiene muchas palabaras" **Pablo Ruiz**
+![Pablo Ruiz-Muzquiz](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/Pablo_Ruiz_Muzquiz_2.jpg)
+Pablo Ruiz-Muzquiz, CEO and co-founder of Kaleidos and Taiga.
+
+
+[Watch the VIDEO INTERVIEW](https://youtu.be/TL802DBHgzw) or [listen to the PODCAST on Spotify](https://open.spotify.com/show/7yWYVvS4JatNUP5mBjM2XW) or [on ivoox](https://podcasters.ivoox.com/#/episodes/77886001).
+
+
+
 
 #### **Q1: Has the pandemic affected agile or agile teams in any way?**
 Well, absolutely, yes. I'd say that two things come to mind. The pandemic has seen agile teams cope with it better than what I tend to call fawl agile teams. So false agile teams, and of course, non-agile teams. Why? Why is this? Because they are better prepared to deal with changes. **Agile teams are great at embracing change.**
@@ -65,11 +66,11 @@ Remote work, honestly, can quickly lead to a surplus of meetings, little to no r
 Also, our fear, my personal fear, is that **remote work will tend to over engineer tools and processes.** And that's a risk of business. You will try to rely too much on automation, tools, processes, workflows,because communication between people is not that great. So we tend to default to automation. That's problematic, if it's not done right.
 
 ![RemoteWork_Kaleidos_and_Taiga_team](/images/2021-11-04_how_to_implement_agile_in_pandemic_times/RemoteWork_Kaleidos_and_Taiga_team.jpg)
-Kaleidos team in a remote meeting. 
+Kaleidos team during a remote meeting. 
 
 
 #### **Q4: What are the biggest challenges for multidisciplinary teams when it comes to using agile methodologies?**
-People tend to believe that diverse teams cross-domain and multicultural do just automatically thrive in an agile context. But that's not right. There are some specific challenges for those teams. And this is something Kaleidos has experienced in the past, experiences this day and will surely continue to experience in the future. And that's okay. We don't have an issue with that. We prefer diverse teams with these challenges that not having diverse teams, and having other challenges. 
+People tend to believe that diverse teams, cross-domain and multicultural do just automatically thrive in an agile context. But that's not right. There are some specific challenges for those teams. And this is something Kaleidos has experienced in the past, experiences this day and will surely continue to experience in the future. And that's okay. We don't have an issue with that. We prefer diverse teams with these challenges that not having diverse teams, and having other challenges. 
 
 **Two challenges** come to mind immediately: 
 
@@ -77,10 +78,14 @@ First, you need to understand each other's mindsets within the team, so there's 
 
 The idea of **team commitment** ranks high in agile methodologies. And that commitment won't ever happen if the different perspectives are not connected through. It could be a shared vocabulary, working team agreement —we like those a lot in Kaleidos— and, most importantly, a respectful approach to everyone's contribution to the team. Without that you don't have team commitments.
 
+
+> "Understand each other's mindsets within the team, so there's little lost in translation."
+
+
 I'll give you an example. This is classic design code misunderstanding: designers, coders or visual designers, engineers... This misunderstanding always leads to two different criteria on what quality means. For example: quality is a perceived value of an output, something deliverable. If two people coming from different perspectives, see different aspects of quality and they are not connected, that's an issue. And that will happen in agile. Agile really needs quality to be part of the process and having different perspectives or quality is a challenge that needs to be addressed.
 
 
-Different perspectives tend to create small ghettos in teams. And ghettos tend to create private workflows, like some old black boxes. It will inevitably end up in pseudo waterfall iteration-like processes that are very rigid. And a collateral effect of that is that the product is going to be always sort of a work in progress.
+And second, **different perspectives tend to create small ghettos in teams**. And ghettos tend to create private workflows, like some old black boxes. It will inevitably end up in pseudo waterfall iteration-like processes that are very rigid. And a collateral effect of that is that the product is going to be always sort of a work in progress.
 
 You know what you are actually developing. One has these big picture sites, and you won't have real progress metrics. So it's very important that these cross-domain teams, which are amazing to watch when they are really working great together, have specific challenges and agile doesn't just sort them out for free to them. They need to address them, specifically. And then everything works great.
 
@@ -95,8 +100,13 @@ I like to, basically, just show people what they're asking, and then tell them w
 
 You know, the way they treat teammates, the way they perceive value, the way they prioritize, help middle management to factor in how different hierarchies still apply. When nothing around that changes, you have the appearance of being agile, but at the core, it's not agile. It's difficult to spot when you're going into agile, it's very difficult to spot that you are just fooling yourself. 
 
+
+> "...the underlying problem is that they like the vocabulary; they like the liturgies, the habits, and they dress what they are doing in agile terms, but they're old habits are still there."
+
+
 And **the biggest problem with agile is not other methodologies or techniques**; the biggest problem we have in agile is dysfunctional agile. Dysfunctional agile is terrible. It's people believing they're agile when they are not agile. And in different teams, we'll try to keep old habits in a different way. But if nothing truly has changed, at some point, they will feel something's broken. And the issue I have is that **they think agile is not for them;they think agile is not working**. We don't know whether agile would work for you or not. You have to apply agile correctly. And the Agile Manifesto is there for you as a beacon. Just watch that beacon. It's about keeping those old habits as a comfort zone. That typically poses the greatest challenge for teams entering this agile mindset. 
 
 
+---
 
 *Interested in dysfunctional agile? **Come and join our webinar on dysfunctional agile next Wednesday November 17th!** We’ll talk further about the most common mistakes made in agile project management. We’d love to discuss them with you. [Register for the webinar.](https://www.eventbrite.es/e/typical-mistakes-in-agile-project-management-registration-201528265467).*
