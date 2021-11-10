@@ -81,7 +81,9 @@ First, you need to understand each other's mindsets within the team, so there's 
 The idea of **team commitment** ranks high in agile methodologies. And that commitment won't ever happen if the different perspectives are not connected through. It could be a shared vocabulary, working team agreement —we like those a lot in Kaleidos— and, most importantly, a respectful approach to everyone's contribution to the team. Without that you don't have team commitments.
 
 
+
 > "Understand each other's mindsets within the team, so there's little lost in translation."
+
 
 
 I'll give you an example. This is classic design code misunderstanding: designers, coders or visual designers, engineers... This misunderstanding always leads to two different criteria on what quality means. For example: quality is a perceived value of an output, something deliverable. If two people coming from different perspectives, see different aspects of quality and they are not connected, that's an issue. And that will happen in agile. Agile really needs quality to be part of the process and having different perspectives or quality is a challenge that needs to be addressed.
@@ -103,7 +105,9 @@ I like to, basically, just show people what they're asking, and then tell them w
 You know, the way they treat teammates, the way they perceive value, the way they prioritize, help middle management to factor in how different hierarchies still apply. When nothing around that changes, you have the appearance of being agile, but at the core, it's not agile. It's difficult to spot when you're going into agile, it's very difficult to spot that you are just fooling yourself. 
 
 
+
 > "...the underlying problem is that they like the vocabulary; they like the liturgies, the habits, and they dress what they are doing in agile terms, but they're old habits are still there."
+
 
 
 And **the biggest problem with agile is not other methodologies or techniques**; the biggest problem we have in agile is dysfunctional agile. Dysfunctional agile is terrible. It's people believing they're agile when they are not agile. And in different teams, we'll try to keep old habits in a different way. But if nothing truly has changed, at some point, they will feel something's broken. And the issue I have is that **they think agile is not for them;they think agile is not working**. We don't know whether agile would work for you or not. You have to apply agile correctly. And the Agile Manifesto is there for you as a beacon. Just watch that beacon. It's about keeping those old habits as a comfort zone. That typically poses the greatest challenge for teams entering this agile mindset. 
