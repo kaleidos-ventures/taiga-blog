@@ -3,7 +3,7 @@ Slug: typical_mistakes_in_agile_project_management
 Category: Agile
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![Webinar on Typical mistakes in agile project with Pablo Ruiz-Múzquiz](/images/2021-11-29_Typical_mistakes_in_agile_project_management/Pablo_Typical_mistakes_in_agile_project_management.jpeg) Taiga is an open-source project management software for agile teams used by millions of users worldwide. This privileged observatory gives the Taiga team access to a lot of information that helps detect the symptoms which lead to typical agile mistakes.
+Summary: ![Webinar on Typical mistakes in agile project with Pablo Ruiz-Múzquiz](/images/2021-11-30_typical_mistakes_in_agile_project_management/Pablo_Typical_mistakes_in_agile_project_management.jpeg) Taiga is an open-source project management software for agile teams used by millions of users worldwide. This privileged observatory gives the Taiga team access to a lot of information that helps detect the symptoms which lead to typical agile mistakes.
 
 
 Taiga is an open-source project management software for agile teams used by millions of users worldwide. This privileged observatory gives the Taiga team access to a lot of information that helps detect the symptoms which lead to typical agile mistakes.
@@ -15,18 +15,13 @@ You can watch the recording of the full webinar.
 
 **[WATCH THE WEBINAR RECORDING.](<iframe width="560" height="315" src="https://www.youtube.com/embed/4iNcdxE6n9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
-![Pablo Ruiz-Muzquiz](/images/2021-11-29_Typical_mistakes_in_agile_project_management/Pablo_Typical_mistakes_in_agile_project_management.jpeg)
+![Pablo Ruiz-Muzquiz](/images/2021-11-30_typical_mistakes_in_agile_project_management/Pablo_Typical_mistakes_in_agile_project_management.jpeg)
 Pablo Ruiz-Muzquiz, CEO and co-founder of Kaleidos and Taiga.
 
 Alternatively, if you’re one of those that are always on the run, you can listen to our podcast with the full voice recording of the webinar is for you.  
 
 **[LISTEN to the PODCAST on Spotify](<iframe src="https://open.spotify.com/embed/episode/3ydQHu6c6QeJdxQo2YTuZo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>) or 
 [on ivoox](<iframe src="https://www.ivoox.com/player_ej_78824672_6_1.html" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" />).**
-
-
-
-
-
 
 
 #### **The top 4 agile antipatterns**
