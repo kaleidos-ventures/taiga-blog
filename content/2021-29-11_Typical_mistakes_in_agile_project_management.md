@@ -1,5 +1,5 @@
-Title: How to implement agile in pandemic times
-Slug: how_to_implement_agile_in_pandemic_times 
+Title: Typical mistakes in agile project management
+Slug: typical_mistakes_in_agile_project_management 
 Category: Agile
 Author: Taiga Team
 Email: support@taiga.io
