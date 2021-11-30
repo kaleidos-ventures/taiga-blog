@@ -115,4 +115,4 @@ And **the biggest problem with agile is not other methodologies or techniques**;
 
 ---
 
-*Interested in dysfunctional agile? **[Watch our webinar on dysfunctional agile](https://www.youtube.com/watch?v=4iNcdxE6n9M)** Pablo talks through the most common mistakes he's encountered in agile.*
+*Interested in dysfunctional agile? **[Watch our webinar on dysfunctional agile](https://www.youtube.com/watch?v=4iNcdxE6n9M)**. Pablo talks through the most common mistakes he's encountered in agile.*
