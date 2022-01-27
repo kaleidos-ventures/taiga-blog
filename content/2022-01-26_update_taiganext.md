@@ -3,23 +3,26 @@ Slug: update_taiganext
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![caption](/images/2022-01-26_Update_TaigaNext/Penpot_flows_demo.jpg) Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
+Summary: ![caption](/images/2022-01-26_update_taiganext/Penpot_flows_demo.jpg) Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
 
 
 Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
 
-You might remember that we, as part of Kaleidos, [decided to put aside all other consultancy commitments and focus on Taiga and Penpot](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/), our two open source products. We did that because we believe it's the right thing to do if we want to get to the next level in terms of adoption and innovation. The transition to this new stage in our professional careers required almost the entire 2021 to become a reality but as for 2022, the entire Kaleidos team is behind this new era devoted to our own free & open source products. This means that both Penpot and Taiga teams have recently grown in both dev and design capacities, which is wonderful.
+You might remember that we, as part of Kaleidos' team, [decided to put aside all other consultancy commitments and focus on Taiga and Penpot](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/), our two open source products. We did that because we believe it's the right thing to do if we want to get to the next level in terms of adoption and innovation. The transition to this new stage in our professional careers required almost the entire 2021 to become a reality but as for 2022, the entire Kaleidos team is behind this new era devoted to our own free & open source products. This means that both Penpot and Taiga teams have recently grown in both dev and design capacities, which is wonderful.
 
-![Pablo Ruiz-Muzquiz](/images/2021-11-30_Update_TaigaNext/Taiga_ScrumandKanban.jpg)
-Scrum and Kanban boards of Taiga6. 
+![Taiga6 demo boards: Scrum and Kanban](/images/2022-01-26_update_taiganext/Taiga_ScrumandKanban.jpg)
+Taiga6 demo boards: Scrum and Kanban 
 
 Before we go into the details of TaigaNext's progress, a quick note on [Penpot](https://penpot.app), its sister project. If you don't know Penpot, it's the first professional open source design & prototype tool for multi-disciplinary teams. Unlike the many options in project management, relevant design & prototyping tools are limited and are all proprietary. Basically, Figma, Sketch or Adobe XD are the ones that come to mind. We want to change that forever with Penpot and our bet on open standards like [SVG, its native format](https://help.penpot.app/faqs/). This factor allows developers and designers to work closer than ever with a tool compatible for both.
+
+![Penpot workspace](/images/2022-01-26_update_taiganext/Penpot_flows_demo.jpg)
+Penpot workspace: prototyping demo. 
 
 #### What's going on with TaigaNext?
 
 Why don't we just call it Taiga7? Because we feel we need to have a different codename that reflects our ambitions, but you can privately think of it as Taiga7 if you want. [Esther Moreno](https://kaleidos.net/kaleiders/720B34), one of the UX designers at Taiga said the other day: 
 
-**"I love the fact that we can question **everything** with TaigaNext, we don't have to take anything for granted, nothing".** 
+>*"I love the fact that we can question **everything** with TaigaNext, we don't have to take anything for granted, nothing".* 
 
 Exactly, that's the spirit. And because of that, we prefer to keep the repo private for a bit longer. If you had an estimated couple million users of your existing product and you needed some focus for a breakthrough release, you would probably consider the pros and cons of opening the repo up early on. 
 
