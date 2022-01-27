@@ -19,7 +19,7 @@ Before we go into the details of TaigaNext's progress, a quick note on [Penpot](
 
 Why don't we just call it Taiga7? Because we feel we need to have a different codename that reflects our ambitions, but you can privately think of it as Taiga7 if you want. [Esther Moreno](https://kaleidos.net/kaleiders/720B34), one of the UX designers at Taiga said the other day: 
 
-***Q1 "I love the fact that we can question **everything** with TaigaNext, we don't have to take anything for granted, nothing". 
+**"I love the fact that we can question **everything** with TaigaNext, we don't have to take anything for granted, nothing".** 
 
 Exactly, that's the spirit. And because of that, we prefer to keep the repo private for a bit longer. If you had an estimated couple million users of your existing product and you needed some focus for a breakthrough release, you would probably consider the pros and cons of opening the repo up early on. 
 
@@ -56,4 +56,4 @@ If you have more questions, feel free to ask in the comments section below.
 
 ---
 
-*[Sign up](https://www.taiga.io/easyagile) to our free Basic Plan to begin applying agile correctly with our help.*
+*[Sign up](https://www.taiga.io/trialsignup?hash=d95e930f99866fac03e5555f9634588e&landing_source=homepage&IP=77.229.149.140&_landing_hash=b192ae461649b7e7d078&_landing_version=nO0qRtWrDpRLjjIqj.9ZM9KYScWUZ2GS) and try Taiga for free with access to all features during 30 days!*
