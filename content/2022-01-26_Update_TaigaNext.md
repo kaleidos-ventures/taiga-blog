@@ -17,7 +17,7 @@ Before we go into the details of TaigaNext's progress, a quick note on [Penpot](
 
 #### What's going on with TaigaNext?
 
-Why don't we just call it Taiga7? Because we feel we need to have a different codename that reflects our ambitions, but you can privately think of it as Taiga7 if you want. [Esther Moreno](https://kaleidos.net/kaleiders/720B34), one of the UX designers at Taiga said the other day: 
+Why don't we just call it Taiga7? Well, we feel we need to have a different codename that reflects our ambitions, but you can privately think of it as Taiga7 if you want. [Esther Moreno](https://kaleidos.net/kaleiders/720B34), one of the UX designers at Taiga said the other day: 
 
 **"I love the fact that we can question **everything** with TaigaNext, we don't have to take anything for granted, nothing".** 
 
