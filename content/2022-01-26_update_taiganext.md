@@ -3,20 +3,20 @@ Slug: update_taiganext
 Category: Announcements
 Author: Taiga Team
 Email: support@taiga.io
-Summary: ![caption](/images/2022-01-26_update_taiganext/Penpot_flows_demo.jpg) Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
+Summary: ![Current Taiga6 vs TaigaNext (WIP)](/images/2022-01-26_update_taiganext/taiga6-taiganext.jpg) Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
 
 
-Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update on how things are going with the next major release of Taiga as well as Kaleidos' plans in general. This article should address all that!
+Despite the fact that we have been actively working on Taiga's next version, we haven't posted an update [since last summer](https://blog.taiga.io/announcing_taiganext.html) on **how things are going with the next major release of Taiga as well as Kaleidos' plans in general.** This article should address all that!
 
 You might remember that we, as part of Kaleidos' team, [decided to put aside all other consultancy commitments and focus on Taiga and Penpot](https://blog.kaleidos.net/Taiga-and-Penpot-lead-our-new-chapter-at-Kaleidos/), our two open source products. We did that because we believe it's the right thing to do if we want to get to the next level in terms of adoption and innovation. The transition to this new stage in our professional careers required almost the entire 2021 to become a reality but as for 2022, the entire Kaleidos team is behind this new era devoted to our own free & open source products. This means that both Penpot and Taiga teams have recently grown in both dev and design capacities, which is wonderful.
 
-![Taiga6 demo boards: Scrum and Kanban](/images/2022-01-26_update_taiganext/Taiga_ScrumandKanban.jpg)
-Taiga6 demo boards: Scrum and Kanban 
+![Taiga team at a daily meeting](/images/2022-01-26_update_taiganext/Taiga_team_daily.jpg)
+Taiga team at one of their daily meetings 
 
-Before we go into the details of TaigaNext's progress, a quick note on [Penpot](https://penpot.app), its sister project. If you don't know Penpot, it's the first professional open source design & prototype tool for multi-disciplinary teams. Unlike the many options in project management, relevant design & prototyping tools are limited and are all proprietary. Basically, Figma, Sketch or Adobe XD are the ones that come to mind. We want to change that forever with Penpot and our bet on open standards like [SVG, its native format](https://help.penpot.app/faqs/). This factor allows developers and designers to work closer than ever with a tool compatible for both.
+Before we go into the details of TaigaNext's progress, a quick note on [Penpot](https://penpot.app), its sister project. If you don't know **Penpot, it's the first professional open source design & prototype tool for multi-disciplinary teams.** Unlike the many options in project management, relevant design & prototyping tools are limited and are all proprietary. Basically, Figma, Sketch or Adobe XD are the ones that come to mind. We want to change that forever with Penpot and our bet on open standards like [SVG, its native format](https://help.penpot.app/faqs/). This factor allows developers and designers to work closer than ever with a tool compatible for both.
 
 ![Penpot workspace](/images/2022-01-26_update_taiganext/Penpot_flows_demo.jpg)
-Penpot workspace: prototyping demo. 
+Penpot workspace: prototyping demo 
 
 #### What's going on with TaigaNext?
 
@@ -37,6 +37,9 @@ In terms of licensing, we stick with MPL 2.0 and you will be able to host your o
 #### Any new features?
 
 Since we're developing TaigaNext almost from scratch, our first priority is to get *on par* with Taiga6 feature-wise. Now, having said that, we are already introducing new abstractions for managing organisations and teams so that you can better represent your reality. We call this *Organizations and Workspaces*. We are also taking a look at email integration, roadmaps and multi-project reporting. Additionally, we want to link Taiga with Penpot and allow for a seamless transition between the agile/lean process and the design process for projects/teams.
+
+![Taiga6 vs TaigaNext](/images/2022-01-26_update_taiganext/taiga6-taiganext.jpg)
+Current Taiga6 versus TaigaNext
 
 Apart from this, we want to make sure that you can adapt Taiga even more to your use case. We have identified perfectly valid agile implementations that could benefit from some nice Taiga changes. Both Scrum and KANBAN modules will evolve to serve that purpose. That is why it's so important that [we keep listening to Taiga6 feedback](https://resources.taiga.io/extend/how-can-i-contribute/), it immediately feeds into TaigaNext development process.
 
