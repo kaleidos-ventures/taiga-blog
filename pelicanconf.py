@@ -1,19 +1,20 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*- #
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #
 # Copyright (c) 2021-present Kaleidos Ventures SL
 
-# -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 DEBUG=1
 
 AUTHOR = 'Taiga'
 AUTHOR_EMAIL = 'support@taiga.io'
 SITENAME = 'Taiga Blog'
-#SITEURL = 'https://blog.taiga.io'
+SITEURL = os.environ.get('SITEURL', 'https://blog.taiga.io')
 SITESUBTITLE = 'Taiga is a project management platform for startups and agile developers & designers'
 
 PATH = 'content'

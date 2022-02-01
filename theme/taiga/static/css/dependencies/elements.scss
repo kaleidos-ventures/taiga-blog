@@ -2,7 +2,8 @@
 
 // Blockquotes
 blockquote,
-blockquote p {
+blockquote p,
+blockquote em {
     color: $gray-light;
     font-style: italic;
     line-height: 36px;
@@ -12,8 +13,6 @@ blockquote {
     border-left: 1px solid $gray-light;
     margin: 0 0 20px;
     padding: 20px 20px 20px 19px;
-    font-size: 32px;
-    line-height: 40px;
 
     cite {
         @extend %small;
@@ -24,7 +23,6 @@ blockquote {
         }
     }
 }
-
 // __Lists__
 
 ul,
