@@ -1,16 +1,16 @@
-Title: What are the benefits of Scrum in terms of team communication?
-Slug: what_are_the_benefits_of_scrum_in_terms_of_team_communication
-Category: Announcements
+Title: How Scrum helps teams achieve better communication
+Slug: how_scrum_helps_teams_achieve_better_communication
+Category: Agile
 Author: Pablo Ruiz-Múzquiz
 Email: support@taiga.io
-Summary: ![Scrum backlog](/images/2022-03-08_what_are_the_benefits_of_scrum_in_terms_of_team_communication/Scrum_backlog.jpg) In this short article, I'd like to point out the benefits for team communication that come for free with Scrum as long as we're aware of them. Scrum is a very popular agile or lean methodology these days...
+Summary: ![Scrum backlog](/images/2022-03-08_how_scrum_helps_teams_achieve_better_communication/scrumbacklogsnippet.jpg) In this short article, I'd like to point out the benefits for team communication that come for free with Scrum as long as we're aware of them. Scrum is a very popular agile or lean methodology these days...
 
 
 In this short article, I'd like to point out **the benefits for team communication that come for free with Scrum** as long as we're aware of them.
 
 Scrum is a very popular agile or lean methodology these days. There are many valid reasons for this. It's a bit *agile on rails* for many teams transitioning from more classical waterfall approaches. It also allows for certain rigor and transparency around development quality for teams that don't come from any established process other than *best effort organised chaos* or BEOC (my cheesy invention totally, don't look for it elsewhere).
 
-![Scrum backlog](/images/2022-03-08_what_are_the_benefits_of_scrum_in_terms_of_team_communication/Scrum_backlog.jpg) 
+![Scrum backlog](/images/2022-03-08_how_scrum_helps_teams_achieve_better_communication/Scrum_backlog.jpg) 
 Scrum backlog on Taiga  
 
 ## Communication versus negotiation
@@ -41,7 +41,7 @@ Long ago, Scrum was introduced by engineers and developers to enjoy some quality
 
 **Nowadays, that developer/designer average ratio is around 8 to 1** (again, full-time person units), but most importantly, design is a much more respected activity in IT. We talk about user-centred design, UX research, accessibility, design process, etc. All of which is seen very positively by developers these days. At the same time, designers have come to enjoy the agile process and Scrum in particular.
 
-![Scrum backlog](/images/2022-03-08_what_are_the_benefits_of_scrum_in_terms_of_team_communication/Taiga_ScrumandKanban.jpg) 
+![Scrum backlog](/images/2022-03-08_how_scrum_helps_teams_achieve_better_communication/Taiga_ScrumandKanban.jpg) 
 Taiga's Scrum and Kanban boards  
 
 #### Scrum artefacts
@@ -60,4 +60,4 @@ Finally, we strongly believe that silo tools are ineffective and outdated ways t
 
 ---
 
-*You can [sign up](https://www.taiga.io/trialsignup?hash=d95e930f99866fac03e5555f9634588e&landing_source=homepage&IP=77.229.149.140&_landing_hash=b192ae461649b7e7d078&_landing_version=nO0qRtWrDpRLjjIqj.9ZM9KYScWUZ2GS) and try our platform with your team for **free with access to all features during 30 days**!*
+*You can [sign up](https://www.taiga.io/trialsignup?hash=d95e930f99866fac03e5555f9634588e&landing_source=homepage&IP=77.229.149.140&_landing_hash=b192ae461649b7e7d078&_landing_version=nO0qRtWrDpRLjjIqj.9ZM9KYScWUZ2GS) and try our platform with your team **for free with access to all features during 30 days**!*
