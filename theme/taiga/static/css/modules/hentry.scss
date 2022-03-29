@@ -1,5 +1,11 @@
 .hentry {
     &.single {
+        h1 {
+            @extend %light;
+            margin-bottom: 2rem;
+            color: $dry-taiga;
+            font-size: 2.3rem;
+        }
         .post-info {
             .author {
                 bottom: 0;
@@ -9,21 +15,9 @@
             margin-top: 1rem;
         }
     }
-    h1 {
-        margin-bottom: 2rem;
-        a {
-            @extend %light;
-            color: $dry-taiga;
-            font-size: 2.3rem;
-            &:hover {
-                @include transition(color .3s ease-in);
-                color: $gray;
-            }
-        }
-    }
 
     h2 {
-        margin-bottom: 2rem;
+        margin: 2rem 0 1rem 0;
         a {
             @extend %light;
             color: $dry-taiga;
@@ -64,8 +58,7 @@
     h3 {
         @extend %large;
         @extend %text;
-        margin: 3rem 0 1rem;
-        text-transform: uppercase;
+        margin: 2rem 0 1rem 0;
     }
     h4 {
         @extend %large;
@@ -101,7 +94,7 @@
         }
     }
     p {
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
     }
     pre,
     code {
